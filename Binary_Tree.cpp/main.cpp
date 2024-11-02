@@ -1,4 +1,4 @@
-//? this file contained basic tree opetations
+//? this file contain basic tree opetations
 
 #include <iostream>
 #include <vector>
