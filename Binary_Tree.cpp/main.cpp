@@ -5,6 +5,7 @@
 #include <queue>
 #include <list>
 #include <stack>
+#include <algorithm>
 
 using namespace std;
 

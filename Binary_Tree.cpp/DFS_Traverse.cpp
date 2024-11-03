@@ -87,73 +87,94 @@ public:
         res.push_back(root->data);
     }
 
-    void iterative_1(BT_Node *root){
-        if(!root) return;
+    void iterative_1(BT_Node *root)
+    {
+        if (!root)
+            return;
         stack<BT_Node *> st;
         auto curr = root;
-        while(curr ||!st.empty()){
-            if(curr){
+        while (curr || !st.empty())
+        {
+            if (curr)
+            {
                 st.push(curr);
                 curr = curr->left;
             }
-            else{
+            else
+            {
                 auto temp = st.top()->right;
-                if(!temp){
-                    temp=st.top();
+                if (!temp)
+                {
+                    temp = st.top();
                     st.pop();
                     cout << temp->data << " ";
-                    while(!st.empty() && temp ==  st.top()->right){
+                    while (!st.empty() && temp == st.top()->right)
+                    {
                         temp = st.top();
                         st.pop();
                         cout << temp->data << " ";
                     }
                 }
-                else curr = temp;
+                else
+                    curr = temp;
             }
         }
     }
 
     void iterative_2(BT_Node *root)
     {
-        if(!root) return;
-        stack<BT_Node *> st1,st2;
+        if (!root)
+            return;
+        stack<BT_Node *> st1, st2;
         st1.push(root);
-        while(!st1.empty()){
+        while (!st1.empty())
+        {
             root = st1.top();
             st1.pop();
             st2.push(root);
-            if(root->left) st1.push(root->left);
-            if(root->right) st1.push(root->right);
+            if (root->left)
+                st1.push(root->left);
+            if (root->right)
+                st1.push(root->right);
         }
-        while(!st2.empty()){
+        while (!st2.empty())
+        {
             cout << st2.top()->data << " ";
             st2.pop();
         }
     }
 
-    vector<int> iterative_vec_1(BT_Node *root){
+    vector<int> iterative_vec_1(BT_Node *root)
+    {
         vector<int> ans;
-        if(!root) return ans;
+        if (!root)
+            return ans;
         stack<BT_Node *> st;
         auto curr = root;
-        while(curr ||!st.empty()){
-            if(curr){
+        while (curr || !st.empty())
+        {
+            if (curr)
+            {
                 st.push(curr);
                 curr = curr->left;
             }
-            else{
+            else
+            {
                 auto temp = st.top()->right;
-                if(!temp){
-                    temp=st.top();
+                if (!temp)
+                {
+                    temp = st.top();
                     st.pop();
                     ans.push_back(temp->data);
-                    while(!st.empty() && temp ==  st.top()->right){
+                    while (!st.empty() && temp == st.top()->right)
+                    {
                         temp = st.top();
                         st.pop();
                         ans.push_back(temp->data);
                     }
                 }
-                else curr = temp;
+                else
+                    curr = temp;
             }
         }
         return ans;
@@ -164,22 +185,25 @@ public:
         vector<int> ans;
         if (!root)
             return ans;
-        stack<BT_Node *> st1,st2;
+        stack<BT_Node *> st1, st2;
         st1.push(root);
-        while(!st1.empty()){
+        while (!st1.empty())
+        {
             root = st1.top();
             st1.pop();
             st2.push(root);
-            if(root->left) st1.push(root->left);
-            if(root->right) st1.push(root->right);
+            if (root->left)
+                st1.push(root->left);
+            if (root->right)
+                st1.push(root->right);
         }
-        while(!st2.empty()){
+        while (!st2.empty())
+        {
             ans.push_back(st2.top()->data);
             st2.pop();
         }
         return ans;
     }
-
 };
 
 class inorder
@@ -250,12 +274,63 @@ public:
     }
 };
 
+vector<vector<int>> combined(BT_Node *root)
+{
+    stack<pair<BT_Node *, int>> st;
+    st.push({root, 1});
+    vector<int> pre, in, pos;
+    if (!root)
+        return {pre, in, pos};
+    while (!st.empty())
+    {
+        auto it = st.top();
+        st.pop();
+
+        //?this part of pre
+        //? increment 1 to 2
+        //? push the left side of the tree
+        if (it.second == 1)
+        {
+            pre.push_back(it.first->data);
+            it.second++;
+            st.push(it);
+
+            if (it.first->left)
+            {
+                st.push({it.first->left, 1});
+            }
+        }
+
+        //? this is a part of inorder
+        //? increment 2 to 3
+        //? push right
+
+        else if (it.second == 2)
+        {
+            in.push_back(it.first->data);
+            it.second++;
+            st.push(it);
+
+            if(it.first->right){
+                st.push({it.first->right,1});
+            }
+        }
+
+        //? don't push it back again
+        else{
+            pos.push_back(it.first->data);
+        }
+    }
+    return {pre, in, pos};
+}
+
 int main()
 {
 
     system("cls");
+
     BT_Node *root;
-    vector<int> v{1, 2, 3, -1, -1, -1, 6, -1, -1};
+    vector<int> v{1, 2, 3, -1, -1, -1, 6, 3, -1};
     root = BT.Queue(v);
 
     preorder pre;
@@ -280,7 +355,6 @@ int main()
         print.printvector(ans);
         ans.clear();
         cout << endl;
-        
     }
 
     //? postorder
@@ -326,5 +400,16 @@ int main()
         print.printvector(ans);
         ans.clear();
         cout << endl;
+    }
+
+    {
+        vector<vector<int>> combined_ans = combined(root);
+        cout << "Preorder : ";
+        print.printvector(combined_ans[0]);
+        cout << "Inorder : ";
+        print.printvector(combined_ans[1]);
+        cout << "Postorder : ";
+        print.printvector(combined_ans[2]);
+        cout<<endl;
     }
 }
