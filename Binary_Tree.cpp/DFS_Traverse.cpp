@@ -26,9 +26,6 @@ public:
         vec(root->left, res);
         vec(root->right, res);
     }
-
-    
-
     
 };
 
