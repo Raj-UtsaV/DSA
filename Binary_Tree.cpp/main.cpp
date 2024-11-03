@@ -21,8 +21,6 @@ public:
     }
 };
 
-
-
 // todo: print out the tree structure
 class print_Tree
 {
@@ -115,9 +113,6 @@ public:
     }
 };
 
-
-
-
 // todo: create binary representation
 class to_BT
 {
@@ -179,9 +174,6 @@ public:
     }
 };
 
-
-
-
 // todo: DFS traversal for tree
 class DFS
 {
@@ -206,6 +198,44 @@ public:
             vec(root->left, res);
             vec(root->right, res);
         }
+
+        void iterative(BT_Node *root)
+        {
+            stack<BT_Node *> st;
+            if (root == nullptr)
+                return;
+            st.push(root);
+            while (!st.empty())
+            {
+                BT_Node *temp = st.top();
+                st.pop();
+                cout << temp->data << " ";
+                if (temp->right)
+                    st.push(temp->right);
+                if (temp->left)
+                    st.push(temp->left);
+            }
+        }
+
+        vector<int> iterative_vec(BT_Node *root)
+        {
+            vector<int> ans;
+            if (!root)
+                return ans;
+            stack<BT_Node *> st;
+            st.push(root);
+            while (!st.empty())
+            {
+                root = st.top();
+                st.pop();
+                ans.push_back(root->data);
+                if (root->right)
+                    st.push(root->right);
+                if (root->left)
+                    st.push(root->left);
+            }
+            return ans;
+        }
     };
 
     class postorder
@@ -227,6 +257,124 @@ public:
             vec(root->left, res);
             vec(root->right, res);
             res.push_back(root->data);
+        }
+
+        void iterative_1(BT_Node *root)
+        {
+            if (!root)
+                return;
+            stack<BT_Node *> st;
+            auto curr = root;
+            while (curr || !st.empty())
+            {
+                if (curr)
+                {
+                    st.push(curr);
+                    curr = curr->left;
+                }
+                else
+                {
+                    auto temp = st.top()->right;
+                    if (!temp)
+                    {
+                        temp = st.top();
+                        st.pop();
+                        cout << temp->data << " ";
+                        while (!st.empty() && temp == st.top()->right)
+                        {
+                            temp = st.top();
+                            st.pop();
+                            cout << temp->data << " ";
+                        }
+                    }
+                    else
+                        curr = temp;
+                }
+            }
+        }
+
+        void iterative_2(BT_Node *root)
+        {
+            if (!root)
+                return;
+            stack<BT_Node *> st1, st2;
+            st1.push(root);
+            while (!st1.empty())
+            {
+                root = st1.top();
+                st1.pop();
+                st2.push(root);
+                if (root->left)
+                    st1.push(root->left);
+                if (root->right)
+                    st1.push(root->right);
+            }
+            while (!st2.empty())
+            {
+                cout << st2.top()->data << " ";
+                st2.pop();
+            }
+        }
+
+        vector<int> iterative_vec_1(BT_Node *root)
+        {
+            vector<int> ans;
+            if (!root)
+                return ans;
+            stack<BT_Node *> st;
+            auto curr = root;
+            while (curr || !st.empty())
+            {
+                if (curr)
+                {
+                    st.push(curr);
+                    curr = curr->left;
+                }
+                else
+                {
+                    auto temp = st.top()->right;
+                    if (!temp)
+                    {
+                        temp = st.top();
+                        st.pop();
+                        ans.push_back(temp->data);
+                        while (!st.empty() && temp == st.top()->right)
+                        {
+                            temp = st.top();
+                            st.pop();
+                            ans.push_back(temp->data);
+                        }
+                    }
+                    else
+                        curr = temp;
+                }
+            }
+            return ans;
+        }
+
+        vector<int> iterative_vec_2(BT_Node *root)
+        {
+            vector<int> ans;
+            if (!root)
+                return ans;
+            stack<BT_Node *> st1, st2;
+            st1.push(root);
+            while (!st1.empty())
+            {
+                root = st1.top();
+                st1.pop();
+                st2.push(root);
+                if (root->left)
+                    st1.push(root->left);
+                if (root->right)
+                    st1.push(root->right);
+            }
+            while (!st2.empty())
+            {
+                ans.push_back(st2.top()->data);
+                st2.pop();
+            }
+            return ans;
         }
     };
 
@@ -250,27 +398,78 @@ public:
             res.push_back(root->data);
             vec(root->right, res);
         }
+
+        void iterative(BT_Node *root)
+        {
+            if (!root)
+                return;
+            stack<BT_Node *> st;
+            BT_Node *temp = root;
+            while (true)
+            {
+                while (temp != nullptr)
+                {
+                    st.push(temp);
+                    temp = temp->left;
+                }
+                if (st.empty())
+                    break;
+                temp = st.top();
+                st.pop();
+                cout << temp->data << " ";
+                temp = temp->right;
+            }
+        }
+
+        vector<int> iterative_vec(BT_Node *root)
+        {
+            vector<int> ans;
+            if (!root)
+                return ans;
+            stack<BT_Node *> st;
+            BT_Node *temp = root;
+            while (true)
+            {
+                while (temp != nullptr)
+                {
+                    st.push(temp);
+                    temp = temp->left;
+                }
+                if (st.empty())
+                    break;
+                temp = st.top();
+                st.pop();
+                ans.push_back(temp->data);
+                temp = temp->right;
+            }
+            return ans;
+        }
     };
 };
 
-
-//todo: BFS traversal
+// todo: BFS traversal
 class BFS
 {
 public:
-    vector<vector<int>> vec(BT_Node*root){
+    vector<vector<int>> vec(BT_Node *root)
+    {
         vector<vector<int>> result;
-        queue<BT_Node*> q;
-        if(root==NULL) return result;
+        queue<BT_Node *> q;
+        if (root == NULL)
+            return result;
         q.push(root);
-        while(!q.empty()){
+        while (!q.empty())
+        {
             int size = q.size();
             vector<int> level;
-            while(size--){
-                BT_Node*temp = q.front();
+            while (size--)
+            {
+                BT_Node *temp = q.front();
                 q.pop();
-                if(temp->left) q.push(temp->left);
-                if(temp->right) q.push(temp->right);
+                if (temp->left)
+                    q.push(temp->left);
+                if (temp->right)
+                    q.push(temp->right);
                 level.push_back(temp->data);
             }
             result.push_back(level);
