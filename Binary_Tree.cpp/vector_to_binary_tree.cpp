@@ -2,7 +2,7 @@
 #include <vector>
 #include <queue>
 #include <list>
-#include "main.cpp"
+#include "main.h"
 
 print_Tree print;
 

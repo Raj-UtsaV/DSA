@@ -63,12 +63,12 @@ void diameter_brute(BT_Node *root, int *maxi)
     diameter_brute(root->right, maxi);
 }
 
-int diameter_optimize(BT_Node *root, int maxi){
+int diameter_optimize(BT_Node *root, int *maxi){
     if(!root) return 0;
     int lHeight = diameter_optimize(root->left,maxi);
     int rHeight = diameter_optimize(root->right,maxi);
 
-    maxi = max(maxi, lHeight+rHeight);
+    *maxi = max(*maxi, lHeight+rHeight);
 
     return max(lHeight, rHeight) + 1;
     
@@ -82,13 +82,14 @@ int main()
 
     // todo In this block write your code
     {
-        vector<int> v{1, 2, 3, 4, 5};
+        vector<int> v{1, 2};
         BT_Node *root = to_BT(v);
 
         int maxi = 0;
         diameter_brute(root, &maxi);
         cout << "Diameter: " << maxi << endl;
-        maxi = diameter_optimize(root, maxi);
+        maxi = 0;
+        diameter_optimize(root, &maxi);
         cout << "Diameter: " << maxi << endl;
 
 
@@ -98,7 +99,8 @@ int main()
         maxi = 0;
         diameter_brute(root2, &maxi);
         cout << "Diameter: " << maxi << endl;
-        maxi = diameter_optimize(root2, maxi);
+        maxi = 0;
+        diameter_optimize(root2, &maxi);
         cout << "Diameter: " << maxi << endl;
     }
 

@@ -2,7 +2,7 @@
 // ? ? preorder traversal (root,left,right)
 // ? ? postorder traversal (left,right,root)
 
-#include "main.cpp"
+#include "main.h"
 print_Tree print;
 to_BT BT;
 

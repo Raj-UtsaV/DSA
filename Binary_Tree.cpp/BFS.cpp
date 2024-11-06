@@ -2,11 +2,11 @@
 
 //! traverse horizontally
 
-#include "main.cpp"
+#include "main.h"
 print_Tree print;
 to_BT BT; // return root
 
-class BFS
+class BFS_1
 {
 public:
     vector<vector<int>> vec(BT_Node*root){
@@ -36,10 +36,9 @@ int main()
     vector<int> v{3, 9, 20, -1, -1, 15, 7};
     root = BT.Queue(v);
 
-    BFS bfs;
+    BFS_1 bfs;
     vector<vector<int>> ans = bfs.vec(root);
     for(const auto& level:ans){
         print.printvector(level);
-        cout<<endl;
     }
 }
