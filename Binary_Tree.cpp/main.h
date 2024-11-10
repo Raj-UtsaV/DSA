@@ -112,6 +112,16 @@ public:
         }
         cout << endl;
     }
+    void print2dvector(vector<vector<int>> v){
+        for(auto &v1 : v){
+            for(auto &i : v1){
+                cout << i << " ";
+            }
+            cout << "\n";
+        }
+    }
+
+
 };
 
 // todo: create binary representation
