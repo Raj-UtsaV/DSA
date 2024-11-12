@@ -28,7 +28,7 @@ void right(BT_Node *root, vector<int> &ans, int level = 0)
 int main()
 {
     system("cls");
-    vector<int> v{};
+    vector<int> v{1,2,3,-1,5,-1,4};
     BT_Node *root = BT.Queue(v);
     vector<int> left_ans, right_ans;
     left(root, left_ans);

@@ -7,6 +7,12 @@
 #include <stack>
 #include <algorithm>
 
+
+
+#define TreeNode BT_Node
+#define Node BT_Node
+#define val data
+
 using namespace std;
 
 class BT_Node
@@ -488,3 +494,6 @@ public:
         return result;
     }
 };
+
+to_BT BT;
+print_Tree print;
