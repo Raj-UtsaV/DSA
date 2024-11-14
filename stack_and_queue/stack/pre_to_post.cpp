@@ -7,7 +7,10 @@
 #include<stack>
 using namespace std;
 
-r
+bool isoperator(char c)
+{
+    return (c == '+' || c == '-' || c == '*' || c == '/' || c == '^');
+}
 string post(string s){
     stack<string> res;
     for (int i = s.length(); i >= 0;i--){
