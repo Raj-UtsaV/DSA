@@ -3,8 +3,7 @@
 //! traverse horizontally
 
 #include "main.h"
-print_Tree print;
-to_BT BT; // return root
+// return root
 
 class BFS_1
 {

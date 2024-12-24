@@ -32,7 +32,7 @@ public:
 class print_Tree
 {
 public:
-    void printBinaryTreeWithArrows(BT_Node *root, int space = 0, int height = 10)
+    static void printBinaryTreeWithArrows(BT_Node *root, int space = 0, int height = 10)
     {
         if (root == NULL)
             return;
@@ -60,7 +60,7 @@ public:
         printBinaryTreeWithArrows(root->left, space);
     }
 
-    void printBinaryTreeHorizontally(BT_Node *root, int space = 0, int height = 10)
+    static void printBinaryTreeHorizontally(BT_Node *root, int space = 0, int height = 10)
     {
         if (root == NULL)
             return;
@@ -73,7 +73,7 @@ public:
         printBinaryTreeHorizontally(root->left, space);
     }
 
-    void printTree(BT_Node *root)
+    static void printTree(BT_Node *root)
     {
         if (!root)
         {
@@ -85,7 +85,7 @@ public:
         printTree(root->right);
     }
 
-    void printLevelOrder(BT_Node *root)
+    static void printLevelOrder(BT_Node *root)
     {
         if (!root)
             return;
@@ -110,7 +110,7 @@ public:
             }
         }
     }
-    void printvector(vector<int> v)
+    static void printvector(vector<int> v)
     {
         for (int i = 0; i < v.size(); i++)
         {
@@ -118,7 +118,7 @@ public:
         }
         cout << endl;
     }
-    void print2dvector(vector<vector<int>> v){
+    static void print2dvector(vector<vector<int>> v){
         for(auto &v1 : v){
             for(auto &i : v1){
                 cout << i << " ";
@@ -134,7 +134,7 @@ public:
 class to_BT
 {
 public:
-    BT_Node *Queue(vector<int> &v)
+    static BT_Node *Queue(vector<int> &v)
     {
         if (v.empty())
             return nullptr;
@@ -198,7 +198,7 @@ public:
     class preorder
     {
     public:
-        void print(BT_Node *root)
+        static void print(BT_Node *root)
         {
             if (root == nullptr)
                 return;
@@ -207,7 +207,7 @@ public:
             print(root->right);
         }
 
-        void vec(BT_Node *root, vector<int> &res)
+        static void vec(BT_Node *root, vector<int> &res)
         {
             if (root == nullptr)
                 return;
@@ -216,7 +216,7 @@ public:
             vec(root->right, res);
         }
 
-        void iterative(BT_Node *root)
+        static void iterative(BT_Node *root)
         {
             stack<BT_Node *> st;
             if (root == nullptr)
@@ -258,7 +258,7 @@ public:
     class postorder
     {
     public:
-        void print(BT_Node *root)
+        static void print(BT_Node *root)
         {
             if (root == nullptr)
                 return;
@@ -267,7 +267,7 @@ public:
             cout << root->data << " ";
         }
 
-        void vec(BT_Node *root, vector<int> &res)
+        static void vec(BT_Node *root, vector<int> &res)
         {
             if (root == nullptr)
                 return;
@@ -276,7 +276,7 @@ public:
             res.push_back(root->data);
         }
 
-        void iterative_1(BT_Node *root)
+        static void iterative_1(BT_Node *root)
         {
             if (!root)
                 return;
@@ -310,7 +310,7 @@ public:
             }
         }
 
-        void iterative_2(BT_Node *root)
+        static void iterative_2(BT_Node *root)
         {
             if (!root)
                 return;
@@ -398,7 +398,7 @@ public:
     class inorder
     {
     public:
-        void print(BT_Node *root)
+        static void print(BT_Node *root)
         {
             if (root == nullptr)
                 return;
@@ -407,7 +407,7 @@ public:
             print(root->right);
         }
 
-        void vec(BT_Node *root, vector<int> &res)
+        static void vec(BT_Node *root, vector<int> &res)
         {
             if (root == nullptr)
                 return;
@@ -416,7 +416,7 @@ public:
             vec(root->right, res);
         }
 
-        void iterative(BT_Node *root)
+        static void iterative(BT_Node *root)
         {
             if (!root)
                 return;
