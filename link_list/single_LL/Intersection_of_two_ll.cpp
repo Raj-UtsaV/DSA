@@ -18,34 +18,31 @@ void creatinglink(Node *head1, Node *&tail2)
     }
 }
 
-void ans(NOde *head1, Node *head2)
+void ans(Node *head1, Node *head2)
 {
     unordered_map<Node *, int> mpp;
-    while (head1 || head2)
+    while (head1)
     {
-        if (head1 == head2)
-            return;
         if (mpp.find(head1) != mpp.end())
         {
-            cout << "Common node at " << mpp[head1]->data << endl;
+            cout << "Common node at " << head1->data << endl;
             return;
         }
-        if (mpp.find(head2) != mpp.end())
-        {
-            cout << "Common node at " << mpp[head1]->data << endl;
+        mpp[head1] = head1->data; // Store the node itself as key, and data as value (though data isn't strictly needed for finding intersection)
+        head1 = head1->next;
+    }
+
+    while (head2) {
+        if (mpp.find(head2) != mpp.end()) {
+            cout << "Common node at " << head2->data << endl;
             return;
         }
-        mpp[head1] = head1->data;
-        mpp[head2] = head2->data;
-        if (head1)
-            head1 = head1->next;
-        if (head2)
-            head2 = head2->next;
+        head2 = head2->next;
     }
     cout << "bhakk";
 }
 
-int getDifference(node *head1, node *head2)
+int getDifference(Node *head1, Node *head2)
 {
     int len1 = 0, len2 = 0;
     while (head1 != NULL || head2 != NULL)
@@ -65,7 +62,7 @@ int getDifference(node *head1, node *head2)
 }
 
 // utility function to check presence of intersection
-node *brute(node *head1, node *head2)
+Node *brute(Node *head1, Node *head2)
 {
     int diff = getDifference(head1, head2);
     if (diff < 0)
@@ -84,10 +81,10 @@ node *brute(node *head1, node *head2)
     return head1;
 }
 
-node *optimal(node *head1, node *head2)
+Node *optimal(Node *head1, Node *head2)
 {
-    node *d1 = head1;
-    node *d2 = head2;
+    Node *d1 = head1;
+    Node *d2 = head2;
 
     while (d1 != d2)
     {

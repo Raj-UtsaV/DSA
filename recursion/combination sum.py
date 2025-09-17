@@ -78,3 +78,38 @@ if __name__ == "__main__":
     ]
     
     test_solution(sol.combinationSum, test_cases)
+
+
+"""
+Dry Run Example:
+Tree Visualization for: candidates = [2,3,6,7], target = 7
+
+Input: candidates = [2,3,6,7], target = 7
+
+`-- backtrack(i=0, path=[], total=0) [cand=2]
+    ├── Take 2: backtrack(i=0, path=[2], total=2)
+    │   ├── Take 2: backtrack(i=0, path=[2,2], total=4)
+    │   │   ├── Take 2: backtrack(i=0, path=[2,2,2], total=6)
+    │   │   │   ├── Take 2: backtrack(i=0, path=[2,2,2,2], total=8) -> Prune (total > 7)
+    │   │   │   └── Skip 2: backtrack(i=1, path=[2,2,2], total=6) [cand=3] -> Prune (no solution)
+    │   │   
+    │   │   └── Skip 2: backtrack(i=1, path=[2,2], total=4) [cand=3]
+    │   │       ├── Take 3: backtrack(i=1, path=[2,2,3], total=7) -> ✅ Solution: [2,2,3]
+    │   │       └── Skip 3: backtrack(i=2, path=[2,2], total=4) [cand=6] -> Prune (no solution)
+    │   
+    │   └── Skip 2: backtrack(i=1, path=[2], total=2) [cand=3]
+    │       ├── Take 3: backtrack(i=1, path=[2,3], total=5) -> Prune (no solution)
+    │       └── Skip 3: backtrack(i=2, path=[2], total=2) [cand=6] -> Prune (no solution)
+    
+    └── Skip 2: backtrack(i=1, path=[], total=0) [cand=3]
+        ├── Take 3: backtrack(i=1, path=[3], total=3) -> Prune (no solution)
+        
+        └── Skip 3: backtrack(i=2, path=[], total=0) [cand=6]
+            ├── Take 6: backtrack(i=2, path=[6], total=6) -> Prune (no solution)
+            
+            └── Skip 6: backtrack(i=3, path=[], total=0) [cand=7]
+                ├── Take 7: backtrack(i=3, path=[7], total=7) -> ✅ Solution: [7]
+                └── Skip 7: backtrack(i=4, path=[], total=0) -> Prune (i >= n)
+
+Final Answer: [[2,2,3], [7]]
+"""
