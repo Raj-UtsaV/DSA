@@ -77,25 +77,33 @@ if __name__ == "__main__":
 """
 Dry Run Example:
 ---------------
-Input: s = "leetcode", wordDict = ["leet","code"]
+Input:  [
+                [0, 1, 1],
+                [1, 0, 1],
+                [1, 1, 0]
+            ], 3, True
 
-1. backtrack(0):
-   - try "l", "le", "lee" → not in dict
-   - try "leet" → in dict → call backtrack(4)
+🎯 Start Coloring
 
-2. backtrack(4):
-   - try "c", "co", "cod" → not in dict
-   - try "code" → in dict → call backtrack(8)
+└── #!backtrack(0)
+    └── #?is_safe(node=0, color=1) ✅ True
+        🎨 assign color[0] = 1
+        └── #!backtrack(1)
+            ├── #?is_safe(node=1, color=1) ❌ False
+            └── #?is_safe(node=1, color=2) ✅ True
+                🎨 assign color[1] = 2
+                └── #!backtrack(2)
+                    ├── #?is_safe(node=2, color=1) ❌ False
+                    ├── #?is_safe(node=2, color=2) ❌ False
+                    └── #?is_safe(node=2, color=3) ✅ True
+                        🎨 assign color[2] = 3
+                        └── #!backtrack(3)
+                            ├── #?is_safe(node=3, color=1) ❌ False
+                            └── #?is_safe(node=3, color=2) ✅ True
+                                🎨 assign color[3] = 2
+                                ✅ SUCCESS → All vertices colored: [1, 2, 3, 2]
 
-3. backtrack(8):
-   - start == len(s), return True
 
-Return Values:
---------------
-=> backtrack(4) returns True
-=> backtrack(0) returns True
 
-Final Answer:
--------------
-True
+
 """

@@ -12,7 +12,7 @@ vector<int> NGE2_brute(vector<int> v)
         for (llu j = i + 1; j < (i + v.size()); j++)
         {   
 
-            int index = j % v.size(); //? if you traversing the array thice without the doubling it 
+            int index = j % v.size(); //? if you traversing the array twice without the doubling it 
             if (v[index] > v[i])
             {
                 res[i] = v[index];

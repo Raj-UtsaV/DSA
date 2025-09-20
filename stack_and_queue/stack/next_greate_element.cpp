@@ -35,9 +35,7 @@ vector<int> NGE_optimal(vector<int> v){
             s.push(v[i]);
         }
         else{
-            while(v[i]>s.top()){
-                if (s.empty())
-                    break;
+            while(!s.empty() && v[i] >= s.top()){
                 s.pop();
             }
             if(!s.empty()) ans[i] = s.top();
