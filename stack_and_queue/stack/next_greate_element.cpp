@@ -19,7 +19,6 @@ vector<int> NGE_brute(vector<int> v){
                 break;
             }
         }
-
     }
     return ans;
 }
