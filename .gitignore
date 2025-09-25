@@ -1,2 +1,5 @@
 a.py
 .vscode
+.venv
+a.ipynb
+a.cpp
