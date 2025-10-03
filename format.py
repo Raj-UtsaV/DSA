@@ -3,6 +3,7 @@ Problem Description:
 --------------------
 [problem:]
 [link:]
+
 [Brief description of the problem, input/output requirements, constraints, and examples]
 
 Example:
@@ -14,11 +15,52 @@ Output: [expected output]
 
 #!IDEA
 """
-[Describe the approach/algorithm/logic used to solve the problem]
-- Mention if using recursion, iteration, DP, backtracking, etc.
-- Explain key steps/conditions to track.
-- Optional: Explain why this approach works.
+[Describe the overall approach/algorithm/logic for the problem]
+- Mention the general technique(s) used (recursion, iteration, dynamic programming, backtracking, greedy, graph traversal, sorting, etc.).
+- Explain the reasoning for choosing these approaches.
+
+--- Solution 1: [Name of Approach] ---
+* State:
+    - Describe the key variables, parameters, or data structures used to track progress or state.
+    - Explain why this state is sufficient.
+
+* Base Case* (if applicable):
+    - Explain stopping conditions or trivial cases.
+
+* Core Logic:
+    - Step-by-step description of the approach.
+    - Important conditions or constraints to handle.
+
+* Result:
+    - How the final answer is derived from computed state or processing.
+
+* Optimization* (if applicable):
+    - Improvements to reduce time/space complexity (memoization, pruning, sorting, etc.).
+
+* Complexity:
+    - Time complexity.
+    - Space complexity.
+
+--- Solution 2: [Name of Alternative Approach] ---
+* State:
+    - Describe key state representation for this approach.
+
+* Core Logic:
+    - Step-by-step explanation.
+
+* Result:
+    - How the answer is derived.
+
+* Optimization* (if applicable):
+    - Improvements used.
+
+* Complexity:
+    - Time complexity.
+    - Space complexity.
+
+[Add more solutions if applicable]
 """
+
 
 class Solution:
     def [function_name](self, [parameters]):
