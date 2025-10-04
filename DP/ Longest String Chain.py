@@ -66,10 +66,8 @@ class Solution:
 
         while first < len(s2):
             if second < len(s1) and s1[second] == s2[first]:
-                first += 1
                 second += 1
-            else:
-                first += 1
+            first += 1
         
         return first == len(s2) and second == len(s1)
 
