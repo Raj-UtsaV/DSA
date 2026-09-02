@@ -1,1 +1,0 @@
-["".join(r) for r in board]

@@ -1,0 +1,3052 @@
+[
+  {
+    "number": "1",
+    "title": "Two Sum",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "official_topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "study_tags": [
+      "Complement Lookup"
+    ],
+    "path": "leetcode/easy/0001_two_sum.py",
+    "canonical_url": "https://leetcode.com/problems/two-sum/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "20",
+    "title": "Valid Parentheses",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "official_topics": [
+      "String",
+      "Stack",
+      "Bracket Sequences"
+    ],
+    "study_tags": [
+      "Delimiter Matching"
+    ],
+    "path": "leetcode/easy/0020_valid_parentheses.py",
+    "canonical_url": "https://leetcode.com/problems/valid-parentheses/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "26",
+    "title": "Remove Duplicates from Sorted Array",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "official_topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "study_tags": [
+      "In-Place Overwrite"
+    ],
+    "path": "leetcode/easy/0026_remove_duplicates_from_sorted_array.py",
+    "canonical_url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "69",
+    "title": "Sqrt(x)",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "official_topics": [
+      "Math",
+      "Binary Search",
+      "Newton's Method"
+    ],
+    "study_tags": [
+      "Answer-Space Search"
+    ],
+    "path": "leetcode/easy/0069_sqrtx.py",
+    "canonical_url": "https://leetcode.com/problems/sqrtx/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "100",
+    "title": "Same Tree",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "official_topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "study_tags": [
+      "Paired Traversal"
+    ],
+    "path": "leetcode/easy/0100_same_tree.py",
+    "canonical_url": "https://leetcode.com/problems/same-tree/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "101",
+    "title": "Symmetric Tree",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "official_topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "study_tags": [
+      "Mirror Traversal"
+    ],
+    "path": "leetcode/easy/0101_symmetric_tree.py",
+    "canonical_url": "https://leetcode.com/problems/symmetric-tree/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "104",
+    "title": "Maximum Depth of Binary Tree",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "official_topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "study_tags": [
+      "Tree Height"
+    ],
+    "path": "leetcode/easy/0104_maximum_depth_of_binary_tree.py",
+    "canonical_url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "110",
+    "title": "Balanced Binary Tree",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "official_topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "study_tags": [
+      "Postorder Height"
+    ],
+    "path": "leetcode/easy/0110_balanced_binary_tree.py",
+    "canonical_url": "https://leetcode.com/problems/balanced-binary-tree/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "121",
+    "title": "Best Time to Buy and Sell Stock",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "official_topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "study_tags": [
+      "Running Minimum"
+    ],
+    "path": "leetcode/easy/0121_best_time_to_buy_and_sell_stock.py",
+    "canonical_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "136",
+    "title": "Single Number",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "official_topics": [
+      "Array",
+      "Bit Manipulation"
+    ],
+    "study_tags": [
+      "XOR Cancellation"
+    ],
+    "path": "leetcode/easy/0136_single_number.py",
+    "canonical_url": "https://leetcode.com/problems/single-number/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "141",
+    "title": "Linked List Cycle",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "official_topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers",
+      "Floyd's Cycle Finding Algorithm"
+    ],
+    "study_tags": [
+      "Floyd's Cycle Detection",
+      "Fast/Slow Pointers"
+    ],
+    "path": "leetcode/easy/0141_linked_list_cycle.py",
+    "canonical_url": "https://leetcode.com/problems/linked-list-cycle/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "160",
+    "title": "Intersection of Two Linked Lists",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "official_topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ],
+    "study_tags": [
+      "Pointer Switching"
+    ],
+    "path": "leetcode/easy/0160_intersection_of_two_linked_lists.py",
+    "canonical_url": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "169",
+    "title": "Majority Element",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "official_topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting",
+      "Boyer–Moore Majority Vote Algorithm"
+    ],
+    "study_tags": [
+      "Boyer-Moore Voting"
+    ],
+    "path": "leetcode/easy/0169_majority_element.py",
+    "canonical_url": "https://leetcode.com/problems/majority-element/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "205",
+    "title": "Isomorphic Strings",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "official_topics": [
+      "Hash Table",
+      "String"
+    ],
+    "study_tags": [
+      "Bidirectional Mapping"
+    ],
+    "path": "leetcode/easy/0205_isomorphic_strings.py",
+    "canonical_url": "https://leetcode.com/problems/isomorphic-strings/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "225",
+    "title": "Implement Stack using Queues",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "official_topics": [
+      "Stack",
+      "Design",
+      "Queue"
+    ],
+    "study_tags": [
+      "Queue Rotation"
+    ],
+    "path": "leetcode/easy/0225_implement_stack_using_queues.py",
+    "canonical_url": "https://leetcode.com/problems/implement-stack-using-queues/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "234",
+    "title": "Palindrome Linked List",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "official_topics": [
+      "Linked List",
+      "Two Pointers",
+      "Stack",
+      "Recursion"
+    ],
+    "study_tags": [
+      "Fast/Slow Pointers",
+      "Reverse Second Half"
+    ],
+    "path": "leetcode/easy/0234_palindrome_linked_list.py",
+    "canonical_url": "https://leetcode.com/problems/palindrome-linked-list/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "283",
+    "title": "Move Zeroes",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "official_topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "study_tags": [
+      "Stable Compaction"
+    ],
+    "path": "leetcode/easy/0283_move_zeroes.py",
+    "canonical_url": "https://leetcode.com/problems/move-zeroes/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "350",
+    "title": "Intersection of Two Arrays II",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "official_topics": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ],
+    "study_tags": [
+      "Frequency Counting"
+    ],
+    "path": "leetcode/easy/0350_intersection_of_two_arrays_ii.py",
+    "canonical_url": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "455",
+    "title": "Assign Cookies",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "official_topics": [
+      "Array",
+      "Two Pointers",
+      "Greedy",
+      "Sorting",
+      "Quicksort"
+    ],
+    "study_tags": [
+      "Greedy Matching"
+    ],
+    "path": "leetcode/easy/0455_assign_cookies.py",
+    "canonical_url": "https://leetcode.com/problems/assign-cookies/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "543",
+    "title": "Diameter of Binary Tree",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "official_topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree",
+      "DP on Trees"
+    ],
+    "study_tags": [
+      "Tree DP"
+    ],
+    "path": "leetcode/easy/0543_diameter_of_binary_tree.py",
+    "canonical_url": "https://leetcode.com/problems/diameter-of-binary-tree/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "653",
+    "title": "Two Sum IV - Input is a BST",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "official_topics": [
+      "Hash Table",
+      "Two Pointers",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "study_tags": [
+      "Complement Set"
+    ],
+    "path": "leetcode/easy/0653_two_sum_iv_input_is_a_bst.py",
+    "canonical_url": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "812",
+    "title": "Largest Triangle Area",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "official_topics": [
+      "Array",
+      "Math",
+      "Geometry",
+      "Polygons"
+    ],
+    "study_tags": [
+      "Shoelace formula"
+    ],
+    "path": "leetcode/easy/0812_largest_triangle_area.py",
+    "canonical_url": "https://leetcode.com/problems/largest-triangle-area/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "860",
+    "title": "Lemonade Change",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "official_topics": [
+      "Array",
+      "Greedy"
+    ],
+    "study_tags": [
+      "Change Invariant"
+    ],
+    "path": "leetcode/easy/0860_lemonade_change.py",
+    "canonical_url": "https://leetcode.com/problems/lemonade-change/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "876",
+    "title": "Middle of the Linked List",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "official_topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "study_tags": [
+      "Fast/Slow Pointers"
+    ],
+    "path": "leetcode/easy/0876_middle_of_the_linked_list.py",
+    "canonical_url": "https://leetcode.com/problems/middle-of-the-linked-list/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "1539",
+    "title": "Kth Missing Positive Number",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "official_topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "study_tags": [
+      "Missing-Count Invariant"
+    ],
+    "path": "leetcode/easy/1539_kth_missing_positive_number.py",
+    "canonical_url": "https://leetcode.com/problems/kth-missing-positive-number/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "10",
+    "title": "Regular Expression Matching",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "official_topics": [
+      "String",
+      "Dynamic Programming",
+      "Recursion"
+    ],
+    "study_tags": [
+      "Memoization"
+    ],
+    "path": "leetcode/hard/0010_regular_expression_matching.py",
+    "canonical_url": "https://leetcode.com/problems/regular-expression-matching/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "32",
+    "title": "Longest Valid Parentheses",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "official_topics": [
+      "String",
+      "Dynamic Programming",
+      "Stack",
+      "Bracket Sequences"
+    ],
+    "study_tags": [
+      "Boundary matching"
+    ],
+    "path": "leetcode/hard/0032_longest_valid_parentheses.py",
+    "canonical_url": "https://leetcode.com/problems/longest-valid-parentheses/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "37",
+    "title": "Sudoku Solver",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "official_topics": [
+      "Array",
+      "Hash Table",
+      "Backtracking",
+      "Matrix",
+      "Algorithm X",
+      "Dancing Links"
+    ],
+    "study_tags": [
+      "Constraint propagation"
+    ],
+    "path": "leetcode/hard/0037_sudoku_solver.py",
+    "canonical_url": "https://leetcode.com/problems/sudoku-solver/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "41",
+    "title": "First Missing Positive",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "official_topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "study_tags": [
+      "Cyclic placement"
+    ],
+    "path": "leetcode/hard/0041_first_missing_positive.py",
+    "canonical_url": "https://leetcode.com/problems/first-missing-positive/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "42",
+    "title": "Trapping Rain Water",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "official_topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "study_tags": [
+      "Two Pointers"
+    ],
+    "path": "leetcode/hard/0042_trapping_rain_water.py",
+    "canonical_url": "https://leetcode.com/problems/trapping-rain-water/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "44",
+    "title": "Wildcard Matching",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "official_topics": [
+      "String",
+      "Dynamic Programming",
+      "Greedy",
+      "Recursion"
+    ],
+    "study_tags": [
+      "Memoization"
+    ],
+    "path": "leetcode/hard/0044_wildcard_matching.py",
+    "canonical_url": "https://leetcode.com/problems/wildcard-matching/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "51",
+    "title": "N-Queens",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "official_topics": [
+      "Array",
+      "Backtracking",
+      "Algorithm X"
+    ],
+    "study_tags": [
+      "Constraint pruning"
+    ],
+    "path": "leetcode/hard/0051_n_queens.py",
+    "canonical_url": "https://leetcode.com/problems/n-queens/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "76",
+    "title": "Minimum Window Substring",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "official_topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "study_tags": [
+      "Frequency Deficit"
+    ],
+    "path": "leetcode/hard/0076_minimum_window_substring.py",
+    "canonical_url": "https://leetcode.com/problems/minimum-window-substring/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "84",
+    "title": "Largest Rectangle in Histogram",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "official_topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack",
+      "Range Minimum/Maximum Query"
+    ],
+    "study_tags": [
+      "Previous Smaller Element"
+    ],
+    "path": "leetcode/hard/0084_largest_rectangle_in_histogram.py",
+    "canonical_url": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "85",
+    "title": "Maximal Rectangle",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "official_topics": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Matrix",
+      "Monotonic Stack"
+    ],
+    "study_tags": [
+      "Histogram reduction"
+    ],
+    "path": "leetcode/hard/0085_maximal_rectangle.py",
+    "canonical_url": "https://leetcode.com/problems/maximal-rectangle/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "124",
+    "title": "Binary Tree Maximum Path Sum",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "official_topics": [
+      "Dynamic Programming",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree",
+      "DP on Trees"
+    ],
+    "study_tags": [
+      "Tree DP"
+    ],
+    "path": "leetcode/hard/0124_binary_tree_maximum_path_sum.py",
+    "canonical_url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "135",
+    "title": "Candy",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "official_topics": [
+      "Array",
+      "Greedy"
+    ],
+    "study_tags": [
+      "Two Directional Passes"
+    ],
+    "path": "leetcode/hard/0135_candy.py",
+    "canonical_url": "https://leetcode.com/problems/candy/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "239",
+    "title": "Sliding Window Maximum",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "official_topics": [
+      "Array",
+      "Queue",
+      "Sliding Window",
+      "Heap (Priority Queue)",
+      "Monotonic Queue",
+      "Range Minimum/Maximum Query"
+    ],
+    "study_tags": [
+      "Monotonic Deque"
+    ],
+    "path": "leetcode/hard/0239_sliding_window_maximum.py",
+    "canonical_url": "https://leetcode.com/problems/sliding-window-maximum/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "297",
+    "title": "Serialize and Deserialize Binary Tree",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "official_topics": [
+      "String",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Design",
+      "Binary Tree"
+    ],
+    "study_tags": [
+      "Preorder Encoding"
+    ],
+    "path": "leetcode/hard/0297_serialize_and_deserialize_binary_tree.py",
+    "canonical_url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "407",
+    "title": "Trapping Rain Water II",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "official_topics": [
+      "Array",
+      "Breadth-First Search",
+      "Heap (Priority Queue)",
+      "Matrix"
+    ],
+    "study_tags": [
+      "Boundary expansion"
+    ],
+    "path": "leetcode/hard/0407_trapping_rain_water_ii.py",
+    "canonical_url": "https://leetcode.com/problems/trapping-rain-water-ii/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "410",
+    "title": "Split Array Largest Sum",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "official_topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy",
+      "Prefix Sum"
+    ],
+    "study_tags": [
+      "Binary Search on Answer"
+    ],
+    "path": "leetcode/hard/0410_split_array_largest_sum.py",
+    "canonical_url": "https://leetcode.com/problems/split-array-largest-sum/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "727",
+    "title": "Minimum Window Subsequence",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "official_topics": [
+      "String",
+      "Dynamic Programming",
+      "Sliding Window"
+    ],
+    "study_tags": [
+      "Forward and Backward Scan"
+    ],
+    "path": "leetcode/hard/0727_minimum_window_subsequence.py",
+    "canonical_url": "https://leetcode.com/problems/minimum-window-subsequence/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "778",
+    "title": "Swim in Rising Water",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "official_topics": [
+      "Array",
+      "Binary Search",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Minimax",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Dijkstra's Algorithm"
+    ],
+    "study_tags": [
+      "Minimax path"
+    ],
+    "path": "leetcode/hard/0778_swim_in_rising_water.py",
+    "canonical_url": "https://leetcode.com/problems/swim-in-rising-water/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "987",
+    "title": "Vertical Order Traversal of a Binary Tree",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "official_topics": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Sorting",
+      "Binary Tree"
+    ],
+    "study_tags": [
+      "Coordinate Ordering"
+    ],
+    "path": "leetcode/hard/0987_vertical_order_traversal_of_a_binary_tree.py",
+    "canonical_url": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "992",
+    "title": "Subarrays with K Different Integers",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "official_topics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Counting"
+    ],
+    "study_tags": [
+      "Exactly K via At Most K"
+    ],
+    "path": "leetcode/hard/0992_subarrays_with_k_different_integers.py",
+    "canonical_url": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "2",
+    "title": "Add Two Numbers",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "study_tags": [
+      "Carry Propagation"
+    ],
+    "path": "leetcode/medium/0002_add_two_numbers.py",
+    "canonical_url": "https://leetcode.com/problems/add-two-numbers/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "study_tags": [
+      "Last Seen Index"
+    ],
+    "path": "leetcode/medium/0003_longest_substring_without_repeating_characters.py",
+    "canonical_url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "6",
+    "title": "Zigzag Conversion",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "String"
+    ],
+    "study_tags": [
+      "Row simulation"
+    ],
+    "path": "leetcode/medium/0006_zigzag_conversion.py",
+    "canonical_url": "https://leetcode.com/problems/zigzag-conversion/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "8",
+    "title": "String to Integer (atoi)",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "String"
+    ],
+    "study_tags": [
+      "Parsing",
+      "Overflow Clamping"
+    ],
+    "path": "leetcode/medium/0008_string_to_integer_atoi.py",
+    "canonical_url": "https://leetcode.com/problems/string-to-integer-atoi/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "17",
+    "title": "Letter Combinations of a Phone Number",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Hash Table",
+      "String",
+      "Backtracking"
+    ],
+    "study_tags": [
+      "Decision tree"
+    ],
+    "path": "leetcode/medium/0017_letter_combinations_of_a_phone_number.py",
+    "canonical_url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "19",
+    "title": "Remove Nth Node From End of List",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "study_tags": [
+      "Fast/Slow Pointers"
+    ],
+    "path": "leetcode/medium/0019_remove_nth_node_from_end_of_list.py",
+    "canonical_url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "22",
+    "title": "Generate Parentheses",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bracket Sequences"
+    ],
+    "study_tags": [
+      "Constraint pruning"
+    ],
+    "path": "leetcode/medium/0022_generate_parentheses.py",
+    "canonical_url": "https://leetcode.com/problems/generate-parentheses/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "24",
+    "title": "Swap Nodes in Pairs",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Linked List",
+      "Recursion"
+    ],
+    "study_tags": [
+      "Pointer rewiring"
+    ],
+    "path": "leetcode/medium/0024_swap_nodes_in_pairs.py",
+    "canonical_url": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "33",
+    "title": "Search in Rotated Sorted Array",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "study_tags": [
+      "Sorted-Half Detection"
+    ],
+    "path": "leetcode/medium/0033_search_in_rotated_sorted_array.py",
+    "canonical_url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "34",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "study_tags": [
+      "Lower Bound",
+      "Upper Bound"
+    ],
+    "path": "leetcode/medium/0034_find_first_and_last_position.py",
+    "canonical_url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "36",
+    "title": "Valid Sudoku",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "study_tags": [
+      "Constraint validation"
+    ],
+    "path": "leetcode/medium/0036_valid_sudoku.py",
+    "canonical_url": "https://leetcode.com/problems/valid-sudoku/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "39",
+    "title": "Combination Sum",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "study_tags": [
+      "Reusable-choice recursion"
+    ],
+    "path": "leetcode/medium/0039_combination_sum.py",
+    "canonical_url": "https://leetcode.com/problems/combination-sum/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "40",
+    "title": "Combination Sum II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "study_tags": [
+      "Duplicate pruning"
+    ],
+    "path": "leetcode/medium/0040_combination_sum_ii.py",
+    "canonical_url": "https://leetcode.com/problems/combination-sum-ii/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "43",
+    "title": "Multiply Strings",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Math",
+      "String",
+      "Simulation"
+    ],
+    "study_tags": [
+      "Grade-school multiplication"
+    ],
+    "path": "leetcode/medium/0043_multiply_strings.py",
+    "canonical_url": "https://leetcode.com/problems/multiply-strings/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "45",
+    "title": "Jump Game II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "study_tags": [
+      "Greedy Range Expansion"
+    ],
+    "path": "leetcode/medium/0045_jump_game_ii.py",
+    "canonical_url": "https://leetcode.com/problems/jump-game-ii/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "53",
+    "title": "Maximum Subarray",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "study_tags": [
+      "Kadane's Algorithm"
+    ],
+    "path": "leetcode/medium/0053_maximum_subarray.py",
+    "canonical_url": "https://leetcode.com/problems/maximum-subarray/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "54",
+    "title": "Spiral Matrix",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "study_tags": [
+      "Boundary Traversal"
+    ],
+    "path": "leetcode/medium/0054_spiral_matrix.py",
+    "canonical_url": "https://leetcode.com/problems/spiral-matrix/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "55",
+    "title": "Jump Game",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ],
+    "study_tags": [
+      "Farthest Reachable Index"
+    ],
+    "path": "leetcode/medium/0055_jump_game.py",
+    "canonical_url": "https://leetcode.com/problems/jump-game/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "56",
+    "title": "Merge Intervals",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Sorting",
+      "Quicksort"
+    ],
+    "study_tags": [
+      "Interval Merging"
+    ],
+    "path": "leetcode/medium/0056_merge_intervals.py",
+    "canonical_url": "https://leetcode.com/problems/merge-intervals/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "57",
+    "title": "Insert Interval",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array"
+    ],
+    "study_tags": [
+      "Interval Merging"
+    ],
+    "path": "leetcode/medium/0057_insert_interval.py",
+    "canonical_url": "https://leetcode.com/problems/insert-interval/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "71",
+    "title": "Simplify Path",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "String",
+      "Stack"
+    ],
+    "study_tags": [
+      "Tokenization"
+    ],
+    "path": "leetcode/medium/0071_simplify_path.py",
+    "canonical_url": "https://leetcode.com/problems/simplify-path/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "75",
+    "title": "Sort Colors",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Two Pointers",
+      "Sorting",
+      "Quicksort",
+      "Bubble Sort"
+    ],
+    "study_tags": [
+      "Dutch National Flag"
+    ],
+    "path": "leetcode/medium/0075_sort_colors.py",
+    "canonical_url": "https://leetcode.com/problems/sort-colors/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "78",
+    "title": "Subsets",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "study_tags": [
+      "Include-Exclude Recursion"
+    ],
+    "path": "leetcode/medium/0078_subsets.py",
+    "canonical_url": "https://leetcode.com/problems/subsets/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "79",
+    "title": "Word Search",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "String",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix"
+    ],
+    "study_tags": [
+      "Grid backtracking"
+    ],
+    "path": "leetcode/medium/0079_word_search.py",
+    "canonical_url": "https://leetcode.com/problems/word-search/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "81",
+    "title": "Search in Rotated Sorted Array II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "study_tags": [
+      "Duplicate Boundary Shrinking"
+    ],
+    "path": "leetcode/medium/0081_search_in_rotated_sorted_array_ii.py",
+    "canonical_url": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "90",
+    "title": "Subsets II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ],
+    "study_tags": [
+      "Duplicate pruning"
+    ],
+    "path": "leetcode/medium/0090_subsets_ii.py",
+    "canonical_url": "https://leetcode.com/problems/subsets-ii/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "98",
+    "title": "Validate Binary Search Tree",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "study_tags": [
+      "Range Validation"
+    ],
+    "path": "leetcode/medium/0098_validate_binary_search_tree.py",
+    "canonical_url": "https://leetcode.com/problems/validate-binary-search-tree/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "103",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "study_tags": [
+      "Alternating Level Order"
+    ],
+    "path": "leetcode/medium/0103_binary_tree_zigzag_level_order_traversal.py",
+    "canonical_url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "105",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ],
+    "study_tags": [
+      "Recursive Partitioning"
+    ],
+    "path": "leetcode/medium/0105_construct_binary_tree_from_preorder_and_inorder.py",
+    "canonical_url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "106",
+    "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ],
+    "study_tags": [
+      "Recursive Partitioning"
+    ],
+    "path": "leetcode/medium/0106_construct_binary_tree_from_inorder_and_postorder.py",
+    "canonical_url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "114",
+    "title": "Flatten Binary Tree to Linked List",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Linked List",
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ],
+    "study_tags": [
+      "Preorder Rewiring"
+    ],
+    "path": "leetcode/medium/0114_flatten_binary_tree_to_linked_list.py",
+    "canonical_url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "120",
+    "title": "Triangle",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "study_tags": [
+      "Bottom-up DP"
+    ],
+    "path": "leetcode/medium/0120_triangle.py",
+    "canonical_url": "https://leetcode.com/problems/triangle/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "131",
+    "title": "Palindrome Partitioning",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "study_tags": [
+      "Palindrome pruning"
+    ],
+    "path": "leetcode/medium/0131_palindrome_partitioning.py",
+    "canonical_url": "https://leetcode.com/problems/palindrome-partitioning/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "139",
+    "title": "Word Break",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Dynamic Programming",
+      "Trie",
+      "Memoization",
+      "Brute-Force Search"
+    ],
+    "study_tags": [
+      "Top-down DP"
+    ],
+    "path": "leetcode/medium/0139_word_break.py",
+    "canonical_url": "https://leetcode.com/problems/word-break/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "142",
+    "title": "Linked List Cycle II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers",
+      "Floyd's Cycle Finding Algorithm"
+    ],
+    "study_tags": [
+      "Floyd's Cycle Detection",
+      "Fast/Slow Pointers"
+    ],
+    "path": "leetcode/medium/0142_linked_list_cycle_ii.py",
+    "canonical_url": "https://leetcode.com/problems/linked-list-cycle-ii/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "146",
+    "title": "LRU Cache",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Hash Table",
+      "Linked List",
+      "Design",
+      "Doubly-Linked List"
+    ],
+    "study_tags": [
+      "Eviction Policy"
+    ],
+    "path": "leetcode/medium/0146_lru_cache.py",
+    "canonical_url": "https://leetcode.com/problems/lru-cache/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "148",
+    "title": "Sort List",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Linked List",
+      "Two Pointers",
+      "Divide and Conquer",
+      "Sorting",
+      "Merge Sort"
+    ],
+    "study_tags": [
+      "Linked-List Merge Sort"
+    ],
+    "path": "leetcode/medium/0148_sort_list.py",
+    "canonical_url": "https://leetcode.com/problems/sort-list/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "152",
+    "title": "Maximum Product Subarray",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "study_tags": [
+      "Running minimum and maximum"
+    ],
+    "path": "leetcode/medium/0152_maximum_product_subarray.py",
+    "canonical_url": "https://leetcode.com/problems/maximum-product-subarray/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "153",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "study_tags": [
+      "Rotation Pivot"
+    ],
+    "path": "leetcode/medium/0153_find_minimum_in_rotated_sorted_array.py",
+    "canonical_url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "155",
+    "title": "Min Stack",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Stack",
+      "Design"
+    ],
+    "study_tags": [
+      "Auxiliary Minimum"
+    ],
+    "path": "leetcode/medium/0155_min_stack.py",
+    "canonical_url": "https://leetcode.com/problems/min-stack/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "162",
+    "title": "Find Peak Element",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "study_tags": [
+      "Slope Binary Search"
+    ],
+    "path": "leetcode/medium/0162_find_peak_element.py",
+    "canonical_url": "https://leetcode.com/problems/find-peak-element/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "173",
+    "title": "Binary Search Tree Iterator",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Stack",
+      "Tree",
+      "Design",
+      "Binary Search Tree",
+      "Binary Tree",
+      "Iterator"
+    ],
+    "study_tags": [
+      "Lazy Inorder Traversal"
+    ],
+    "path": "leetcode/medium/0173_binary_search_tree_iterator.py",
+    "canonical_url": "https://leetcode.com/problems/binary-search-tree-iterator/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "189",
+    "title": "Rotate Array",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ],
+    "study_tags": [
+      "Reversal Algorithm"
+    ],
+    "path": "leetcode/medium/0189_rotate_array.py",
+    "canonical_url": "https://leetcode.com/problems/rotate-array/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "199",
+    "title": "Binary Tree Right Side View",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "study_tags": [
+      "Right-First Traversal"
+    ],
+    "path": "leetcode/medium/0199_binary_tree_right_side_view.py",
+    "canonical_url": "https://leetcode.com/problems/binary-tree-right-side-view/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "216",
+    "title": "Combination Sum III",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "study_tags": [
+      "Fixed-depth search"
+    ],
+    "path": "leetcode/medium/0216_combination_sum_iii.py",
+    "canonical_url": "https://leetcode.com/problems/combination-sum-iii/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "230",
+    "title": "Kth Smallest Element in a BST",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "study_tags": [
+      "Inorder Traversal"
+    ],
+    "path": "leetcode/medium/0230_kth_smallest_element_in_a_bst.py",
+    "canonical_url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "235",
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree",
+      "Binary Lifting",
+      "Lowest Common Ancestor"
+    ],
+    "study_tags": [
+      "BST Ordering",
+      "LCA"
+    ],
+    "path": "leetcode/medium/0235_lowest_common_ancestor_of_a_bst.py",
+    "canonical_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "236",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree",
+      "Binary Lifting",
+      "Lowest Common Ancestor"
+    ],
+    "study_tags": [
+      "Postorder Recursion",
+      "LCA"
+    ],
+    "path": "leetcode/medium/0236_lowest_common_ancestor_of_a_binary_tree.py",
+    "canonical_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "285",
+    "title": "Inorder Successor in BST",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "study_tags": [
+      "Candidate Tracking"
+    ],
+    "path": "leetcode/medium/0285_inorder_successor_in_bst.py",
+    "canonical_url": "https://leetcode.com/problems/inorder-successor-in-bst/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "300",
+    "title": "Longest Increasing Subsequence",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Longest Increasing Subsequence"
+    ],
+    "study_tags": [
+      "Patience sorting"
+    ],
+    "path": "leetcode/medium/0300_longest_increasing_subsequence.py",
+    "canonical_url": "https://leetcode.com/problems/longest-increasing-subsequence/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "328",
+    "title": "Odd Even Linked List",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Linked List"
+    ],
+    "study_tags": [
+      "Pointer Partitioning"
+    ],
+    "path": "leetcode/medium/0328_odd_even_linked_list.py",
+    "canonical_url": "https://leetcode.com/problems/odd-even-linked-list/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "340",
+    "title": "Longest Substring with At Most K Distinct Characters",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "study_tags": [
+      "Frequency Window"
+    ],
+    "path": "leetcode/medium/0340_longest_substring_with_at_most_k_distinct_characters.py",
+    "canonical_url": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "368",
+    "title": "Largest Divisible Subset",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Math",
+      "Dynamic Programming",
+      "Sorting"
+    ],
+    "study_tags": [
+      "LIS-style reconstruction"
+    ],
+    "path": "leetcode/medium/0368_largest_divisible_subset.py",
+    "canonical_url": "https://leetcode.com/problems/largest-divisible-subset/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "402",
+    "title": "Remove K Digits",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "String",
+      "Stack",
+      "Greedy",
+      "Monotonic Stack"
+    ],
+    "study_tags": [
+      "Monotonic Stack"
+    ],
+    "path": "leetcode/medium/0402_remove_k_digits.py",
+    "canonical_url": "https://leetcode.com/problems/remove-k-digits/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "417",
+    "title": "Pacific Atlantic Water Flow",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Matrix"
+    ],
+    "study_tags": [
+      "Reverse reachability"
+    ],
+    "path": "leetcode/medium/0417_pacific_atlantic_water_flow.py",
+    "canonical_url": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "424",
+    "title": "Longest Repeating Character Replacement",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "study_tags": [
+      "Maximum Frequency Window"
+    ],
+    "path": "leetcode/medium/0424_longest_repeating_character_replacement.py",
+    "canonical_url": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "435",
+    "title": "Non-overlapping Intervals",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting"
+    ],
+    "study_tags": [
+      "Activity Selection"
+    ],
+    "path": "leetcode/medium/0435_non_overlapping_intervals.py",
+    "canonical_url": "https://leetcode.com/problems/non-overlapping-intervals/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "503",
+    "title": "Next Greater Element II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "study_tags": [
+      "Circular Monotonic Stack"
+    ],
+    "path": "leetcode/medium/0503_next_greater_element_ii.py",
+    "canonical_url": "https://leetcode.com/problems/next-greater-element-ii/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "540",
+    "title": "Single Element in a Sorted Array",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "study_tags": [
+      "Pair-Index Parity"
+    ],
+    "path": "leetcode/medium/0540_single_element_in_a_sorted_array.py",
+    "canonical_url": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "547",
+    "title": "Number of Provinces",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Graph Theory"
+    ],
+    "study_tags": [
+      "Connected components",
+      "Disjoint Set Union"
+    ],
+    "path": "leetcode/medium/0547_number_of_provinces.py",
+    "canonical_url": "https://leetcode.com/problems/number-of-provinces/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "560",
+    "title": "Subarray Sum Equals K",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ],
+    "study_tags": [
+      "Prefix-Frequency Map"
+    ],
+    "path": "leetcode/medium/0560_subarray_sum_equals_k.py",
+    "canonical_url": "https://leetcode.com/problems/subarray-sum-equals-k/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "567",
+    "title": "Permutation in String",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Sliding Window"
+    ],
+    "study_tags": [
+      "Fixed Frequency Window"
+    ],
+    "path": "leetcode/medium/0567_permutation_in_string.py",
+    "canonical_url": "https://leetcode.com/problems/permutation-in-string/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "611",
+    "title": "Valid Triangle Number",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Greedy",
+      "Sorting"
+    ],
+    "study_tags": [
+      "Sorted two pointers"
+    ],
+    "path": "leetcode/medium/0611_valid_triangle_number.py",
+    "canonical_url": "https://leetcode.com/problems/valid-triangle-number/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "662",
+    "title": "Maximum Width of Binary Tree",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ],
+    "study_tags": [
+      "Indexed Level Order"
+    ],
+    "path": "leetcode/medium/0662_maximum_width_of_binary_tree.py",
+    "canonical_url": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "673",
+    "title": "Number of Longest Increasing Subsequence",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Dynamic Programming",
+      "Binary Indexed Tree",
+      "Segment Tree",
+      "Longest Increasing Subsequence"
+    ],
+    "study_tags": [
+      "Length and count DP"
+    ],
+    "path": "leetcode/medium/0673_number_of_longest_increasing_subsequence.py",
+    "canonical_url": "https://leetcode.com/problems/number-of-longest-increasing-subsequence/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "721",
+    "title": "Accounts Merge",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Sorting"
+    ],
+    "study_tags": [
+      "Disjoint Set Union"
+    ],
+    "path": "leetcode/medium/0721_accounts_merge.py",
+    "canonical_url": "https://leetcode.com/problems/accounts-merge/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "735",
+    "title": "Asteroid Collision",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Stack",
+      "Simulation"
+    ],
+    "study_tags": [
+      "Collision Simulation"
+    ],
+    "path": "leetcode/medium/0735_asteroid_collision.py",
+    "canonical_url": "https://leetcode.com/problems/asteroid-collision/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "845",
+    "title": "Longest Mountain in Array",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Two Pointers",
+      "Dynamic Programming",
+      "Enumeration"
+    ],
+    "study_tags": [
+      "Increasing and decreasing runs"
+    ],
+    "path": "leetcode/medium/0845_longest_mountain_in_array.py",
+    "canonical_url": "https://leetcode.com/problems/longest-mountain-in-array/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "875",
+    "title": "Koko Eating Bananas",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "study_tags": [
+      "Binary Search on Answer"
+    ],
+    "path": "leetcode/medium/0875_koko_eating_bananas.py",
+    "canonical_url": "https://leetcode.com/problems/koko-eating-bananas/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "901",
+    "title": "Online Stock Span",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Stack",
+      "Design",
+      "Monotonic Stack",
+      "Data Stream"
+    ],
+    "study_tags": [
+      "Compressed Monotonic Stack"
+    ],
+    "path": "leetcode/medium/0901_online_stock_span.py",
+    "canonical_url": "https://leetcode.com/problems/online-stock-span/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "904",
+    "title": "Fruit Into Baskets",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ],
+    "study_tags": [
+      "At Most Two Distinct"
+    ],
+    "path": "leetcode/medium/0904_fruit_into_baskets.py",
+    "canonical_url": "https://leetcode.com/problems/fruit-into-baskets/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "907",
+    "title": "Sum of Subarray Minimums",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Dynamic Programming",
+      "Stack",
+      "Monotonic Stack"
+    ],
+    "study_tags": [
+      "Contribution counting"
+    ],
+    "path": "leetcode/medium/0907_sum_of_subarray_minimums.py",
+    "canonical_url": "https://leetcode.com/problems/sum-of-subarray-minimums/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "930",
+    "title": "Binary Subarrays With Sum",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Hash Table",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "study_tags": [
+      "Prefix Frequency"
+    ],
+    "path": "leetcode/medium/0930_binary_subarrays_with_sum.py",
+    "canonical_url": "https://leetcode.com/problems/binary-subarrays-with-sum/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "1004",
+    "title": "Max Consecutive Ones III",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "study_tags": [
+      "Zero Count Window"
+    ],
+    "path": "leetcode/medium/1004_max_consecutive_ones_iii.py",
+    "canonical_url": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "1008",
+    "title": "Construct Binary Search Tree from Preorder Traversal",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Stack",
+      "Tree",
+      "Binary Search Tree",
+      "Monotonic Stack",
+      "Binary Tree"
+    ],
+    "study_tags": [
+      "Bounded Recursion"
+    ],
+    "path": "leetcode/medium/1008_construct_bst_from_preorder.py",
+    "canonical_url": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "1011",
+    "title": "Capacity To Ship Packages Within D Days",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "study_tags": [
+      "Binary Search on Answer"
+    ],
+    "path": "leetcode/medium/1011_capacity_to_ship_packages_within_d_days.py",
+    "canonical_url": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "1039",
+    "title": "Minimum Score Triangulation of Polygon",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Dynamic Programming",
+      "Triangulation",
+      "Polygons"
+    ],
+    "study_tags": [
+      "Interval DP"
+    ],
+    "path": "leetcode/medium/1039_minimum_score_triangulation_of_polygon.py",
+    "canonical_url": "https://leetcode.com/problems/minimum-score-triangulation-of-polygon/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "1048",
+    "title": "Longest String Chain",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Hash Table",
+      "Two Pointers",
+      "String",
+      "Dynamic Programming",
+      "Sorting"
+    ],
+    "study_tags": [
+      "Predecessor DP"
+    ],
+    "path": "leetcode/medium/1048_longest_string_chain.py",
+    "canonical_url": "https://leetcode.com/problems/longest-string-chain/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "1248",
+    "title": "Count Number of Nice Subarrays",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "study_tags": [
+      "Prefix Frequency"
+    ],
+    "path": "leetcode/medium/1248_count_number_of_nice_subarrays.py",
+    "canonical_url": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "1283",
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "study_tags": [
+      "Binary Search on Answer"
+    ],
+    "path": "leetcode/medium/1283_find_the_smallest_divisor.py",
+    "canonical_url": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "1319",
+    "title": "Number of Operations to Make Network Connected",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find",
+      "Graph Theory"
+    ],
+    "study_tags": [
+      "Connected components",
+      "Disjoint Set Union"
+    ],
+    "path": "leetcode/medium/1319_number_of_operations_to_make_network_connected.py",
+    "canonical_url": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "1358",
+    "title": "Number of Substrings Containing All Three Characters",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Hash Table",
+      "String",
+      "Sliding Window"
+    ],
+    "study_tags": [
+      "Last Seen Indices"
+    ],
+    "path": "leetcode/medium/1358_number_of_substrings_containing_all_three_characters.py",
+    "canonical_url": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "1423",
+    "title": "Maximum Points You Can Obtain from Cards",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "study_tags": [
+      "Complement Window"
+    ],
+    "path": "leetcode/medium/1423_maximum_points_you_can_obtain_from_cards.py",
+    "canonical_url": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "1482",
+    "title": "Minimum Number of Days to Make m Bouquets",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Binary Search"
+    ],
+    "study_tags": [
+      "Binary Search on Answer"
+    ],
+    "path": "leetcode/medium/1482_minimum_number_of_days_to_make_m_bouquets.py",
+    "canonical_url": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "1488",
+    "title": "Avoid Flood in The City",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Hash Table",
+      "Binary Search",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ],
+    "study_tags": [
+      "Ordered dry-day selection"
+    ],
+    "path": "leetcode/medium/1488_avoid_flood_in_the_city.py",
+    "canonical_url": "https://leetcode.com/problems/avoid-flood-in-the-city/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "1910",
+    "title": "Remove All Occurrences of a Substring",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "String",
+      "Stack",
+      "Simulation"
+    ],
+    "study_tags": [
+      "Repeated Erasure"
+    ],
+    "path": "leetcode/medium/1910_remove_all_occurrences_of_a_substring.py",
+    "canonical_url": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "1922",
+    "title": "Count Good Numbers",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Math",
+      "Recursion"
+    ],
+    "study_tags": [
+      "Fast exponentiation"
+    ],
+    "path": "leetcode/medium/1922_count_good_numbers.py",
+    "canonical_url": "https://leetcode.com/problems/count-good-numbers/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "2095",
+    "title": "Delete the Middle Node of a Linked List",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "study_tags": [
+      "Fast/Slow Pointers"
+    ],
+    "path": "leetcode/medium/2095_delete_the_middle_node_of_a_linked_list.py",
+    "canonical_url": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "2300",
+    "title": "Successful Pairs of Spells and Potions",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Two Pointers",
+      "Binary Search",
+      "Sorting"
+    ],
+    "study_tags": [
+      "Lower bound"
+    ],
+    "path": "leetcode/medium/2300_successful_pairs_of_spells_and_potions.py",
+    "canonical_url": "https://leetcode.com/problems/successful-pairs-of-spells-and-potions/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Longest Subarray with Sum K",
+    "platform": "Code360",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Sliding Window",
+      "Prefix Sum"
+    ],
+    "path": "non_leetcode/code360/longest_subarray_with_sum_k.py",
+    "canonical_url": "https://www.naukri.com/code360/problems/longest-subarray-with-sum-k_6682399",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "M-Coloring Problem",
+    "platform": "Code360",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Graph Coloring",
+      "Backtracking"
+    ],
+    "path": "non_leetcode/code360/m_coloring_problem.py",
+    "canonical_url": "https://www.naukri.com/code360/problems/m-coloring-problem_981273",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Find Nth Root of M",
+    "platform": "Code360",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Binary Search"
+    ],
+    "path": "non_leetcode/code360/nth_root_of_m.py",
+    "canonical_url": "https://www.naukri.com/code360/problems/nth-root-of-m_1062679",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Rat in a Maze",
+    "platform": "Code360",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Grid Backtracking",
+      "Path Enumeration"
+    ],
+    "path": "non_leetcode/code360/rat_in_a_maze.py",
+    "canonical_url": "https://www.naukri.com/code360/problems/rat-in-a-maze-_8842357",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Print Matrix in Wave Form",
+    "platform": "Code360",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Matrix Traversal"
+    ],
+    "path": "non_leetcode/code360/wave_print_matrix.py",
+    "canonical_url": "Unresolved",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Add 1 to a Number Represented as Linked List",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Carry Propagation",
+      "Linked List"
+    ],
+    "path": "non_leetcode/geeksforgeeks/add_one_to_linked_list_number.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Allocate Minimum Pages",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Binary Search on Answer",
+      "Greedy Feasibility"
+    ],
+    "path": "non_leetcode/geeksforgeeks/allocate_minimum_pages.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Bottom View of Binary Tree",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Breadth-First Search",
+      "Horizontal Distance"
+    ],
+    "path": "non_leetcode/geeksforgeeks/bottom_view_binary_tree.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Boundary Traversal of Binary Tree",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Tree Traversal"
+    ],
+    "path": "non_leetcode/geeksforgeeks/boundary_traversal_binary_tree.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Ceil in a Binary Search Tree",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Binary Search Tree"
+    ],
+    "path": "non_leetcode/geeksforgeeks/ceil_in_bst.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Celebrity Problem",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Elimination"
+    ],
+    "path": "non_leetcode/geeksforgeeks/celebrity_problem.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/the-celebrity-problem/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Check if an Array Is Sorted",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Easy",
+    "official_topics": [],
+    "study_tags": [
+      "Array"
+    ],
+    "path": "non_leetcode/geeksforgeeks/check_if_array_is_sorted.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Children Sum Property",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Tree Recursion"
+    ],
+    "path": "non_leetcode/geeksforgeeks/children_sum_property.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/children-sum-parent/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Delete All Occurrences of a Key in a Doubly Linked List",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Doubly Linked List"
+    ],
+    "path": "non_leetcode/geeksforgeeks/delete_occurrences_in_dll.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Floor and Ceil in Sorted Array",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Binary Search"
+    ],
+    "path": "non_leetcode/geeksforgeeks/floor_and_ceil.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Fractional Knapsack",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Greedy",
+      "Sorting"
+    ],
+    "path": "non_leetcode/geeksforgeeks/fractional_knapsack.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Generate Binary Strings Without Consecutive Ones",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Backtracking",
+      "Pruning"
+    ],
+    "path": "non_leetcode/geeksforgeeks/generate_binary_strings_without_consecutive_ones.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/generate-all-binary-strings/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Infix to Postfix",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Stack",
+      "Expression Parsing"
+    ],
+    "path": "non_leetcode/geeksforgeeks/infix_to_postfix.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Job Sequencing Problem",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Greedy Scheduling"
+    ],
+    "path": "non_leetcode/geeksforgeeks/job_sequencing.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Largest Element in Array",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Easy",
+    "official_topics": [],
+    "study_tags": [
+      "Array"
+    ],
+    "path": "non_leetcode/geeksforgeeks/largest_element_in_array.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Find Length of Loop",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Floyd's Cycle Detection"
+    ],
+    "path": "non_leetcode/geeksforgeeks/length_of_loop.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/find-length-of-loop/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Matrix Chain Multiplication",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Interval DP",
+      "Memoization"
+    ],
+    "path": "non_leetcode/geeksforgeeks/matrix_chain_multiplication.py",
+    "canonical_url": "https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Minimum Multiplications to Reach End",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Breadth-First Search",
+      "Implicit Graph",
+      "Shortest Path"
+    ],
+    "path": "non_leetcode/geeksforgeeks/minimum_multiplications_to_reach_end.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Minimum Platforms",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Sorting",
+      "Two Pointers"
+    ],
+    "path": "non_leetcode/geeksforgeeks/minimum_platforms.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Missing Number in Array",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Array",
+      "Arithmetic"
+    ],
+    "path": "non_leetcode/geeksforgeeks/missing_number_in_array.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "N Meetings in One Room",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Activity Selection"
+    ],
+    "path": "non_leetcode/geeksforgeeks/n_meetings_in_one_room.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Next Larger Element",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Monotonic Stack"
+    ],
+    "path": "non_leetcode/geeksforgeeks/next_larger_element.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Number of Graphs with N Vertices",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Combinatorics",
+      "Modular Exponentiation"
+    ],
+    "path": "non_leetcode/geeksforgeeks/number_of_graphs_with_n_vertices.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/number-of-graphs-with-n-vertices/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Number of NGEs to the Right",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Array",
+      "Queries"
+    ],
+    "path": "non_leetcode/geeksforgeeks/number_of_nges_to_right.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/number-of-nges-to-the-right/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Page Faults in LRU",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "LRU Simulation"
+    ],
+    "path": "non_leetcode/geeksforgeeks/page_faults_lru.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/page-faults-in-lru5603/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Find Pairs with Given Sum in Doubly Linked List",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Two Pointers"
+    ],
+    "path": "non_leetcode/geeksforgeeks/pairs_with_sum_in_dll.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Previous Smaller Element",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Monotonic Stack"
+    ],
+    "path": "non_leetcode/geeksforgeeks/previous_smaller_element.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/smallest-number-on-left3403/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Remove Duplicates from Sorted Doubly Linked List",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Doubly Linked List"
+    ],
+    "path": "non_leetcode/geeksforgeeks/remove_duplicates_sorted_dll.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Reverse a Stack Using Recursion",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Stack",
+      "Recursion"
+    ],
+    "path": "non_leetcode/geeksforgeeks/reverse_stack.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/reverse-a-stack/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Second Largest Element",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Easy",
+    "official_topics": [],
+    "study_tags": [
+      "Array"
+    ],
+    "path": "non_leetcode/geeksforgeeks/second_largest_element.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/second-largest3735/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Sort a Stack",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Stack",
+      "Recursion"
+    ],
+    "path": "non_leetcode/geeksforgeeks/sort_a_stack.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/sort-a-stack/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Sort a Linked List of 0s, 1s and 2s",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Counting",
+      "Linked List"
+    ],
+    "path": "non_leetcode/geeksforgeeks/sort_linked_list_0_1_2.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Top View of Binary Tree",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Breadth-First Search",
+      "Horizontal Distance"
+    ],
+    "path": "non_leetcode/geeksforgeeks/top_view_binary_tree.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Union of Two Sorted Arrays",
+    "platform": "GeeksforGeeks",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Two Pointers"
+    ],
+    "path": "non_leetcode/geeksforgeeks/union_of_two_sorted_arrays.py",
+    "canonical_url": "https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Maps-STL",
+    "platform": "HackerRank",
+    "difficulty": "Easy",
+    "official_topics": [],
+    "study_tags": [
+      "Map",
+      "Frequency Table"
+    ],
+    "path": "non_leetcode/hackerrank/maps_stl.py",
+    "canonical_url": "https://www.hackerrank.com/challenges/cpp-maps/problem",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Sets-STL",
+    "platform": "HackerRank",
+    "difficulty": "Easy",
+    "official_topics": [],
+    "study_tags": [
+      "Set"
+    ],
+    "path": "non_leetcode/hackerrank/sets_stl.py",
+    "canonical_url": "https://www.hackerrank.com/challenges/cpp-sets/problem",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Case-insensitive Palindrome",
+    "platform": "Other",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Two Pointers",
+      "String"
+    ],
+    "path": "non_leetcode/other/case_insensitive_palindrome.py",
+    "canonical_url": "Unresolved",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Prefix and Postfix Expression Conversions",
+    "platform": "Other",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Stack",
+      "Expression Parsing"
+    ],
+    "path": "non_leetcode/other/expression_conversions.py",
+    "canonical_url": "Unresolved",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Find a Duplicate Element",
+    "platform": "Other",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Array",
+      "Frequency Counting"
+    ],
+    "path": "non_leetcode/other/find_duplicate.py",
+    "canonical_url": "Unresolved",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Maximum Occurring Character",
+    "platform": "Other",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Frequency Counting"
+    ],
+    "path": "non_leetcode/other/maximum_occurring_character.py",
+    "canonical_url": "Unresolved",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Minimum Coins",
+    "platform": "Other",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Coin Change DP"
+    ],
+    "path": "non_leetcode/other/minimum_coins_greedy.py",
+    "canonical_url": "Unresolved",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Pair Sum",
+    "platform": "Other",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Hash Table"
+    ],
+    "path": "non_leetcode/other/pair_sum.py",
+    "canonical_url": "Unresolved",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Rotation Count in Rotated Sorted Array",
+    "platform": "Other",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Binary Search",
+      "Rotation Pivot"
+    ],
+    "path": "non_leetcode/other/rotation_count_sorted_array.py",
+    "canonical_url": "Unresolved",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Sort Binary Array",
+    "platform": "Other",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Two Pointers"
+    ],
+    "path": "non_leetcode/other/sort_binary_array.py",
+    "canonical_url": "Unresolved",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Swap Alternate Elements",
+    "platform": "Other",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Array"
+    ],
+    "path": "non_leetcode/other/swap_alternate_elements.py",
+    "canonical_url": "Unresolved",
+    "code_status": "LIKELY_CORRECT"
+  },
+  {
+    "number": "Not applicable",
+    "title": "Triplet Sum",
+    "platform": "Other",
+    "difficulty": "Not reliably specified",
+    "official_topics": [],
+    "study_tags": [
+      "Sorting",
+      "Two Pointers"
+    ],
+    "path": "non_leetcode/other/triplet_sum.py",
+    "canonical_url": "Unresolved",
+    "code_status": "LIKELY_CORRECT"
+  }
+]
