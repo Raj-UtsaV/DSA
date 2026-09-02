@@ -11,7 +11,11 @@ ROOT = Path(__file__).resolve().parents[1]
 
 def markdown_link_failures() -> list[str]:
     failures: list[str] = []
-    markdown = [ROOT / "README.md", *ROOT.glob("topics/*.md"), *ROOT.glob("patterns/*.md")]
+    markdown = [
+        path
+        for path in ROOT.rglob("*.md")
+        if ".git" not in path.parts
+    ]
     for document in markdown:
         for target in re.findall(r"\[[^]]+\]\(([^)]+)\)", document.read_text(encoding="utf-8")):
             if target.startswith(("http://", "https://", "#")):
@@ -34,6 +38,13 @@ def main() -> None:
         paths.add(path)
         if not (ROOT / path).is_file():
             errors.append(f"missing problem file: {path}")
+        readme_path = item.get("readme_path")
+        if not readme_path:
+            errors.append(f"missing readme metadata: {path}")
+        elif not (ROOT / readme_path).is_file():
+            errors.append(f"missing problem README: {readme_path}")
+        elif Path(readme_path).parent != Path(path).parent:
+            errors.append(f"solution/README directory mismatch: {path}")
         if item["platform"] == "LeetCode":
             number = str(item["number"])
             if number in leetcode_numbers:

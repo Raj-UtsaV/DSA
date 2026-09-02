@@ -2,78 +2,78 @@
 
 75 canonical problem(s).
 
-- [0001 · Two Sum](../leetcode/easy/0001_two_sum.py) — LeetCode, Easy
-- [0026 · Remove Duplicates from Sorted Array](../leetcode/easy/0026_remove_duplicates_from_sorted_array.py) — LeetCode, Easy
-- [0033 · Search in Rotated Sorted Array](../leetcode/medium/0033_search_in_rotated_sorted_array.py) — LeetCode, Medium
-- [0034 · Find First and Last Position of Element in Sorted Array](../leetcode/medium/0034_find_first_and_last_position.py) — LeetCode, Medium
-- [0036 · Valid Sudoku](../leetcode/medium/0036_valid_sudoku.py) — LeetCode, Medium
-- [0037 · Sudoku Solver](../leetcode/hard/0037_sudoku_solver.py) — LeetCode, Hard
-- [0039 · Combination Sum](../leetcode/medium/0039_combination_sum.py) — LeetCode, Medium
-- [0040 · Combination Sum II](../leetcode/medium/0040_combination_sum_ii.py) — LeetCode, Medium
-- [0041 · First Missing Positive](../leetcode/hard/0041_first_missing_positive.py) — LeetCode, Hard
-- [0042 · Trapping Rain Water](../leetcode/hard/0042_trapping_rain_water.py) — LeetCode, Hard
-- [0045 · Jump Game II](../leetcode/medium/0045_jump_game_ii.py) — LeetCode, Medium
-- [0051 · N-Queens](../leetcode/hard/0051_n_queens.py) — LeetCode, Hard
-- [0053 · Maximum Subarray](../leetcode/medium/0053_maximum_subarray.py) — LeetCode, Medium
-- [0054 · Spiral Matrix](../leetcode/medium/0054_spiral_matrix.py) — LeetCode, Medium
-- [0055 · Jump Game](../leetcode/medium/0055_jump_game.py) — LeetCode, Medium
-- [0056 · Merge Intervals](../leetcode/medium/0056_merge_intervals.py) — LeetCode, Medium
-- [0057 · Insert Interval](../leetcode/medium/0057_insert_interval.py) — LeetCode, Medium
-- [0075 · Sort Colors](../leetcode/medium/0075_sort_colors.py) — LeetCode, Medium
-- [0078 · Subsets](../leetcode/medium/0078_subsets.py) — LeetCode, Medium
-- [0079 · Word Search](../leetcode/medium/0079_word_search.py) — LeetCode, Medium
-- [0081 · Search in Rotated Sorted Array II](../leetcode/medium/0081_search_in_rotated_sorted_array_ii.py) — LeetCode, Medium
-- [0084 · Largest Rectangle in Histogram](../leetcode/hard/0084_largest_rectangle_in_histogram.py) — LeetCode, Hard
-- [0085 · Maximal Rectangle](../leetcode/hard/0085_maximal_rectangle.py) — LeetCode, Hard
-- [0090 · Subsets II](../leetcode/medium/0090_subsets_ii.py) — LeetCode, Medium
-- [0105 · Construct Binary Tree from Preorder and Inorder Traversal](../leetcode/medium/0105_construct_binary_tree_from_preorder_and_inorder.py) — LeetCode, Medium
-- [0106 · Construct Binary Tree from Inorder and Postorder Traversal](../leetcode/medium/0106_construct_binary_tree_from_inorder_and_postorder.py) — LeetCode, Medium
-- [0120 · Triangle](../leetcode/medium/0120_triangle.py) — LeetCode, Medium
-- [0121 · Best Time to Buy and Sell Stock](../leetcode/easy/0121_best_time_to_buy_and_sell_stock.py) — LeetCode, Easy
-- [0135 · Candy](../leetcode/hard/0135_candy.py) — LeetCode, Hard
-- [0136 · Single Number](../leetcode/easy/0136_single_number.py) — LeetCode, Easy
-- [0139 · Word Break](../leetcode/medium/0139_word_break.py) — LeetCode, Medium
-- [0152 · Maximum Product Subarray](../leetcode/medium/0152_maximum_product_subarray.py) — LeetCode, Medium
-- [0153 · Find Minimum in Rotated Sorted Array](../leetcode/medium/0153_find_minimum_in_rotated_sorted_array.py) — LeetCode, Medium
-- [0162 · Find Peak Element](../leetcode/medium/0162_find_peak_element.py) — LeetCode, Medium
-- [0169 · Majority Element](../leetcode/easy/0169_majority_element.py) — LeetCode, Easy
-- [0189 · Rotate Array](../leetcode/medium/0189_rotate_array.py) — LeetCode, Medium
-- [0216 · Combination Sum III](../leetcode/medium/0216_combination_sum_iii.py) — LeetCode, Medium
-- [0239 · Sliding Window Maximum](../leetcode/hard/0239_sliding_window_maximum.py) — LeetCode, Hard
-- [0283 · Move Zeroes](../leetcode/easy/0283_move_zeroes.py) — LeetCode, Easy
-- [0300 · Longest Increasing Subsequence](../leetcode/medium/0300_longest_increasing_subsequence.py) — LeetCode, Medium
-- [0350 · Intersection of Two Arrays II](../leetcode/easy/0350_intersection_of_two_arrays_ii.py) — LeetCode, Easy
-- [0368 · Largest Divisible Subset](../leetcode/medium/0368_largest_divisible_subset.py) — LeetCode, Medium
-- [0407 · Trapping Rain Water II](../leetcode/hard/0407_trapping_rain_water_ii.py) — LeetCode, Hard
-- [0410 · Split Array Largest Sum](../leetcode/hard/0410_split_array_largest_sum.py) — LeetCode, Hard
-- [0417 · Pacific Atlantic Water Flow](../leetcode/medium/0417_pacific_atlantic_water_flow.py) — LeetCode, Medium
-- [0435 · Non-overlapping Intervals](../leetcode/medium/0435_non_overlapping_intervals.py) — LeetCode, Medium
-- [0455 · Assign Cookies](../leetcode/easy/0455_assign_cookies.py) — LeetCode, Easy
-- [0503 · Next Greater Element II](../leetcode/medium/0503_next_greater_element_ii.py) — LeetCode, Medium
-- [0540 · Single Element in a Sorted Array](../leetcode/medium/0540_single_element_in_a_sorted_array.py) — LeetCode, Medium
-- [0560 · Subarray Sum Equals K](../leetcode/medium/0560_subarray_sum_equals_k.py) — LeetCode, Medium
-- [0611 · Valid Triangle Number](../leetcode/medium/0611_valid_triangle_number.py) — LeetCode, Medium
-- [0673 · Number of Longest Increasing Subsequence](../leetcode/medium/0673_number_of_longest_increasing_subsequence.py) — LeetCode, Medium
-- [0721 · Accounts Merge](../leetcode/medium/0721_accounts_merge.py) — LeetCode, Medium
-- [0735 · Asteroid Collision](../leetcode/medium/0735_asteroid_collision.py) — LeetCode, Medium
-- [0778 · Swim in Rising Water](../leetcode/hard/0778_swim_in_rising_water.py) — LeetCode, Hard
-- [0812 · Largest Triangle Area](../leetcode/easy/0812_largest_triangle_area.py) — LeetCode, Easy
-- [0845 · Longest Mountain in Array](../leetcode/medium/0845_longest_mountain_in_array.py) — LeetCode, Medium
-- [0860 · Lemonade Change](../leetcode/easy/0860_lemonade_change.py) — LeetCode, Easy
-- [0875 · Koko Eating Bananas](../leetcode/medium/0875_koko_eating_bananas.py) — LeetCode, Medium
-- [0904 · Fruit Into Baskets](../leetcode/medium/0904_fruit_into_baskets.py) — LeetCode, Medium
-- [0907 · Sum of Subarray Minimums](../leetcode/medium/0907_sum_of_subarray_minimums.py) — LeetCode, Medium
-- [0930 · Binary Subarrays With Sum](../leetcode/medium/0930_binary_subarrays_with_sum.py) — LeetCode, Medium
-- [0992 · Subarrays with K Different Integers](../leetcode/hard/0992_subarrays_with_k_different_integers.py) — LeetCode, Hard
-- [1004 · Max Consecutive Ones III](../leetcode/medium/1004_max_consecutive_ones_iii.py) — LeetCode, Medium
-- [1008 · Construct Binary Search Tree from Preorder Traversal](../leetcode/medium/1008_construct_bst_from_preorder.py) — LeetCode, Medium
-- [1011 · Capacity To Ship Packages Within D Days](../leetcode/medium/1011_capacity_to_ship_packages_within_d_days.py) — LeetCode, Medium
-- [1039 · Minimum Score Triangulation of Polygon](../leetcode/medium/1039_minimum_score_triangulation_of_polygon.py) — LeetCode, Medium
-- [1048 · Longest String Chain](../leetcode/medium/1048_longest_string_chain.py) — LeetCode, Medium
-- [1248 · Count Number of Nice Subarrays](../leetcode/medium/1248_count_number_of_nice_subarrays.py) — LeetCode, Medium
-- [1283 · Find the Smallest Divisor Given a Threshold](../leetcode/medium/1283_find_the_smallest_divisor.py) — LeetCode, Medium
-- [1423 · Maximum Points You Can Obtain from Cards](../leetcode/medium/1423_maximum_points_you_can_obtain_from_cards.py) — LeetCode, Medium
-- [1482 · Minimum Number of Days to Make m Bouquets](../leetcode/medium/1482_minimum_number_of_days_to_make_m_bouquets.py) — LeetCode, Medium
-- [1488 · Avoid Flood in The City](../leetcode/medium/1488_avoid_flood_in_the_city.py) — LeetCode, Medium
-- [1539 · Kth Missing Positive Number](../leetcode/easy/1539_kth_missing_positive_number.py) — LeetCode, Easy
-- [2300 · Successful Pairs of Spells and Potions](../leetcode/medium/2300_successful_pairs_of_spells_and_potions.py) — LeetCode, Medium
+- [0001 · Two Sum](../leetcode/easy/0001_two_sum/README.md) — LeetCode, Easy
+- [0026 · Remove Duplicates from Sorted Array](../leetcode/easy/0026_remove_duplicates_from_sorted_array/README.md) — LeetCode, Easy
+- [0033 · Search in Rotated Sorted Array](../leetcode/medium/0033_search_in_rotated_sorted_array/README.md) — LeetCode, Medium
+- [0034 · Find First and Last Position of Element in Sorted Array](../leetcode/medium/0034_find_first_and_last_position/README.md) — LeetCode, Medium
+- [0036 · Valid Sudoku](../leetcode/medium/0036_valid_sudoku/README.md) — LeetCode, Medium
+- [0037 · Sudoku Solver](../leetcode/hard/0037_sudoku_solver/README.md) — LeetCode, Hard
+- [0039 · Combination Sum](../leetcode/medium/0039_combination_sum/README.md) — LeetCode, Medium
+- [0040 · Combination Sum II](../leetcode/medium/0040_combination_sum_ii/README.md) — LeetCode, Medium
+- [0041 · First Missing Positive](../leetcode/hard/0041_first_missing_positive/README.md) — LeetCode, Hard
+- [0042 · Trapping Rain Water](../leetcode/hard/0042_trapping_rain_water/README.md) — LeetCode, Hard
+- [0045 · Jump Game II](../leetcode/medium/0045_jump_game_ii/README.md) — LeetCode, Medium
+- [0051 · N-Queens](../leetcode/hard/0051_n_queens/README.md) — LeetCode, Hard
+- [0053 · Maximum Subarray](../leetcode/medium/0053_maximum_subarray/README.md) — LeetCode, Medium
+- [0054 · Spiral Matrix](../leetcode/medium/0054_spiral_matrix/README.md) — LeetCode, Medium
+- [0055 · Jump Game](../leetcode/medium/0055_jump_game/README.md) — LeetCode, Medium
+- [0056 · Merge Intervals](../leetcode/medium/0056_merge_intervals/README.md) — LeetCode, Medium
+- [0057 · Insert Interval](../leetcode/medium/0057_insert_interval/README.md) — LeetCode, Medium
+- [0075 · Sort Colors](../leetcode/medium/0075_sort_colors/README.md) — LeetCode, Medium
+- [0078 · Subsets](../leetcode/medium/0078_subsets/README.md) — LeetCode, Medium
+- [0079 · Word Search](../leetcode/medium/0079_word_search/README.md) — LeetCode, Medium
+- [0081 · Search in Rotated Sorted Array II](../leetcode/medium/0081_search_in_rotated_sorted_array_ii/README.md) — LeetCode, Medium
+- [0084 · Largest Rectangle in Histogram](../leetcode/hard/0084_largest_rectangle_in_histogram/README.md) — LeetCode, Hard
+- [0085 · Maximal Rectangle](../leetcode/hard/0085_maximal_rectangle/README.md) — LeetCode, Hard
+- [0090 · Subsets II](../leetcode/medium/0090_subsets_ii/README.md) — LeetCode, Medium
+- [0105 · Construct Binary Tree from Preorder and Inorder Traversal](../leetcode/medium/0105_construct_binary_tree_from_preorder_and_inorder/README.md) — LeetCode, Medium
+- [0106 · Construct Binary Tree from Inorder and Postorder Traversal](../leetcode/medium/0106_construct_binary_tree_from_inorder_and_postorder/README.md) — LeetCode, Medium
+- [0120 · Triangle](../leetcode/medium/0120_triangle/README.md) — LeetCode, Medium
+- [0121 · Best Time to Buy and Sell Stock](../leetcode/easy/0121_best_time_to_buy_and_sell_stock/README.md) — LeetCode, Easy
+- [0135 · Candy](../leetcode/hard/0135_candy/README.md) — LeetCode, Hard
+- [0136 · Single Number](../leetcode/easy/0136_single_number/README.md) — LeetCode, Easy
+- [0139 · Word Break](../leetcode/medium/0139_word_break/README.md) — LeetCode, Medium
+- [0152 · Maximum Product Subarray](../leetcode/medium/0152_maximum_product_subarray/README.md) — LeetCode, Medium
+- [0153 · Find Minimum in Rotated Sorted Array](../leetcode/medium/0153_find_minimum_in_rotated_sorted_array/README.md) — LeetCode, Medium
+- [0162 · Find Peak Element](../leetcode/medium/0162_find_peak_element/README.md) — LeetCode, Medium
+- [0169 · Majority Element](../leetcode/easy/0169_majority_element/README.md) — LeetCode, Easy
+- [0189 · Rotate Array](../leetcode/medium/0189_rotate_array/README.md) — LeetCode, Medium
+- [0216 · Combination Sum III](../leetcode/medium/0216_combination_sum_iii/README.md) — LeetCode, Medium
+- [0239 · Sliding Window Maximum](../leetcode/hard/0239_sliding_window_maximum/README.md) — LeetCode, Hard
+- [0283 · Move Zeroes](../leetcode/easy/0283_move_zeroes/README.md) — LeetCode, Easy
+- [0300 · Longest Increasing Subsequence](../leetcode/medium/0300_longest_increasing_subsequence/README.md) — LeetCode, Medium
+- [0350 · Intersection of Two Arrays II](../leetcode/easy/0350_intersection_of_two_arrays_ii/README.md) — LeetCode, Easy
+- [0368 · Largest Divisible Subset](../leetcode/medium/0368_largest_divisible_subset/README.md) — LeetCode, Medium
+- [0407 · Trapping Rain Water II](../leetcode/hard/0407_trapping_rain_water_ii/README.md) — LeetCode, Hard
+- [0410 · Split Array Largest Sum](../leetcode/hard/0410_split_array_largest_sum/README.md) — LeetCode, Hard
+- [0417 · Pacific Atlantic Water Flow](../leetcode/medium/0417_pacific_atlantic_water_flow/README.md) — LeetCode, Medium
+- [0435 · Non-overlapping Intervals](../leetcode/medium/0435_non_overlapping_intervals/README.md) — LeetCode, Medium
+- [0455 · Assign Cookies](../leetcode/easy/0455_assign_cookies/README.md) — LeetCode, Easy
+- [0503 · Next Greater Element II](../leetcode/medium/0503_next_greater_element_ii/README.md) — LeetCode, Medium
+- [0540 · Single Element in a Sorted Array](../leetcode/medium/0540_single_element_in_a_sorted_array/README.md) — LeetCode, Medium
+- [0560 · Subarray Sum Equals K](../leetcode/medium/0560_subarray_sum_equals_k/README.md) — LeetCode, Medium
+- [0611 · Valid Triangle Number](../leetcode/medium/0611_valid_triangle_number/README.md) — LeetCode, Medium
+- [0673 · Number of Longest Increasing Subsequence](../leetcode/medium/0673_number_of_longest_increasing_subsequence/README.md) — LeetCode, Medium
+- [0721 · Accounts Merge](../leetcode/medium/0721_accounts_merge/README.md) — LeetCode, Medium
+- [0735 · Asteroid Collision](../leetcode/medium/0735_asteroid_collision/README.md) — LeetCode, Medium
+- [0778 · Swim in Rising Water](../leetcode/hard/0778_swim_in_rising_water/README.md) — LeetCode, Hard
+- [0812 · Largest Triangle Area](../leetcode/easy/0812_largest_triangle_area/README.md) — LeetCode, Easy
+- [0845 · Longest Mountain in Array](../leetcode/medium/0845_longest_mountain_in_array/README.md) — LeetCode, Medium
+- [0860 · Lemonade Change](../leetcode/easy/0860_lemonade_change/README.md) — LeetCode, Easy
+- [0875 · Koko Eating Bananas](../leetcode/medium/0875_koko_eating_bananas/README.md) — LeetCode, Medium
+- [0904 · Fruit Into Baskets](../leetcode/medium/0904_fruit_into_baskets/README.md) — LeetCode, Medium
+- [0907 · Sum of Subarray Minimums](../leetcode/medium/0907_sum_of_subarray_minimums/README.md) — LeetCode, Medium
+- [0930 · Binary Subarrays With Sum](../leetcode/medium/0930_binary_subarrays_with_sum/README.md) — LeetCode, Medium
+- [0992 · Subarrays with K Different Integers](../leetcode/hard/0992_subarrays_with_k_different_integers/README.md) — LeetCode, Hard
+- [1004 · Max Consecutive Ones III](../leetcode/medium/1004_max_consecutive_ones_iii/README.md) — LeetCode, Medium
+- [1008 · Construct Binary Search Tree from Preorder Traversal](../leetcode/medium/1008_construct_bst_from_preorder/README.md) — LeetCode, Medium
+- [1011 · Capacity To Ship Packages Within D Days](../leetcode/medium/1011_capacity_to_ship_packages_within_d_days/README.md) — LeetCode, Medium
+- [1039 · Minimum Score Triangulation of Polygon](../leetcode/medium/1039_minimum_score_triangulation_of_polygon/README.md) — LeetCode, Medium
+- [1048 · Longest String Chain](../leetcode/medium/1048_longest_string_chain/README.md) — LeetCode, Medium
+- [1248 · Count Number of Nice Subarrays](../leetcode/medium/1248_count_number_of_nice_subarrays/README.md) — LeetCode, Medium
+- [1283 · Find the Smallest Divisor Given a Threshold](../leetcode/medium/1283_find_the_smallest_divisor/README.md) — LeetCode, Medium
+- [1423 · Maximum Points You Can Obtain from Cards](../leetcode/medium/1423_maximum_points_you_can_obtain_from_cards/README.md) — LeetCode, Medium
+- [1482 · Minimum Number of Days to Make m Bouquets](../leetcode/medium/1482_minimum_number_of_days_to_make_m_bouquets/README.md) — LeetCode, Medium
+- [1488 · Avoid Flood in The City](../leetcode/medium/1488_avoid_flood_in_the_city/README.md) — LeetCode, Medium
+- [1539 · Kth Missing Positive Number](../leetcode/easy/1539_kth_missing_positive_number/README.md) — LeetCode, Easy
+- [2300 · Successful Pairs of Spells and Potions](../leetcode/medium/2300_successful_pairs_of_spells_and_potions/README.md) — LeetCode, Medium

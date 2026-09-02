@@ -11,9 +11,10 @@
     "study_tags": [
       "Complement Lookup"
     ],
-    "path": "leetcode/easy/0001_two_sum.py",
+    "path": "leetcode/easy/0001_two_sum/solution.py",
     "canonical_url": "https://leetcode.com/problems/two-sum/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/easy/0001_two_sum/README.md"
   },
   {
     "number": "20",
@@ -28,9 +29,10 @@
     "study_tags": [
       "Delimiter Matching"
     ],
-    "path": "leetcode/easy/0020_valid_parentheses.py",
+    "path": "leetcode/easy/0020_valid_parentheses/solution.py",
     "canonical_url": "https://leetcode.com/problems/valid-parentheses/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/easy/0020_valid_parentheses/README.md"
   },
   {
     "number": "26",
@@ -44,9 +46,10 @@
     "study_tags": [
       "In-Place Overwrite"
     ],
-    "path": "leetcode/easy/0026_remove_duplicates_from_sorted_array.py",
+    "path": "leetcode/easy/0026_remove_duplicates_from_sorted_array/solution.py",
     "canonical_url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/easy/0026_remove_duplicates_from_sorted_array/README.md"
   },
   {
     "number": "69",
@@ -61,9 +64,10 @@
     "study_tags": [
       "Answer-Space Search"
     ],
-    "path": "leetcode/easy/0069_sqrtx.py",
+    "path": "leetcode/easy/0069_sqrtx/solution.py",
     "canonical_url": "https://leetcode.com/problems/sqrtx/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/easy/0069_sqrtx/README.md"
   },
   {
     "number": "100",
@@ -79,9 +83,10 @@
     "study_tags": [
       "Paired Traversal"
     ],
-    "path": "leetcode/easy/0100_same_tree.py",
+    "path": "leetcode/easy/0100_same_tree/solution.py",
     "canonical_url": "https://leetcode.com/problems/same-tree/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/easy/0100_same_tree/README.md"
   },
   {
     "number": "101",
@@ -97,9 +102,10 @@
     "study_tags": [
       "Mirror Traversal"
     ],
-    "path": "leetcode/easy/0101_symmetric_tree.py",
+    "path": "leetcode/easy/0101_symmetric_tree/solution.py",
     "canonical_url": "https://leetcode.com/problems/symmetric-tree/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/easy/0101_symmetric_tree/README.md"
   },
   {
     "number": "104",
@@ -115,9 +121,10 @@
     "study_tags": [
       "Tree Height"
     ],
-    "path": "leetcode/easy/0104_maximum_depth_of_binary_tree.py",
+    "path": "leetcode/easy/0104_maximum_depth_of_binary_tree/solution.py",
     "canonical_url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/easy/0104_maximum_depth_of_binary_tree/README.md"
   },
   {
     "number": "110",
@@ -132,9 +139,10 @@
     "study_tags": [
       "Postorder Height"
     ],
-    "path": "leetcode/easy/0110_balanced_binary_tree.py",
+    "path": "leetcode/easy/0110_balanced_binary_tree/solution.py",
     "canonical_url": "https://leetcode.com/problems/balanced-binary-tree/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/easy/0110_balanced_binary_tree/README.md"
   },
   {
     "number": "121",
@@ -148,9 +156,10 @@
     "study_tags": [
       "Running Minimum"
     ],
-    "path": "leetcode/easy/0121_best_time_to_buy_and_sell_stock.py",
+    "path": "leetcode/easy/0121_best_time_to_buy_and_sell_stock/solution.py",
     "canonical_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/easy/0121_best_time_to_buy_and_sell_stock/README.md"
   },
   {
     "number": "136",
@@ -164,9 +173,10 @@
     "study_tags": [
       "XOR Cancellation"
     ],
-    "path": "leetcode/easy/0136_single_number.py",
+    "path": "leetcode/easy/0136_single_number/solution.py",
     "canonical_url": "https://leetcode.com/problems/single-number/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/easy/0136_single_number/README.md"
   },
   {
     "number": "141",
@@ -183,9 +193,10 @@
       "Floyd's Cycle Detection",
       "Fast/Slow Pointers"
     ],
-    "path": "leetcode/easy/0141_linked_list_cycle.py",
+    "path": "leetcode/easy/0141_linked_list_cycle/solution.py",
     "canonical_url": "https://leetcode.com/problems/linked-list-cycle/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/easy/0141_linked_list_cycle/README.md"
   },
   {
     "number": "160",
@@ -200,9 +211,10 @@
     "study_tags": [
       "Pointer Switching"
     ],
-    "path": "leetcode/easy/0160_intersection_of_two_linked_lists.py",
+    "path": "leetcode/easy/0160_intersection_of_two_linked_lists/solution.py",
     "canonical_url": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/easy/0160_intersection_of_two_linked_lists/README.md"
   },
   {
     "number": "169",
@@ -220,9 +232,10 @@
     "study_tags": [
       "Boyer-Moore Voting"
     ],
-    "path": "leetcode/easy/0169_majority_element.py",
+    "path": "leetcode/easy/0169_majority_element/solution.py",
     "canonical_url": "https://leetcode.com/problems/majority-element/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/easy/0169_majority_element/README.md"
   },
   {
     "number": "205",
@@ -236,9 +249,10 @@
     "study_tags": [
       "Bidirectional Mapping"
     ],
-    "path": "leetcode/easy/0205_isomorphic_strings.py",
+    "path": "leetcode/easy/0205_isomorphic_strings/solution.py",
     "canonical_url": "https://leetcode.com/problems/isomorphic-strings/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/easy/0205_isomorphic_strings/README.md"
   },
   {
     "number": "225",
@@ -253,9 +267,10 @@
     "study_tags": [
       "Queue Rotation"
     ],
-    "path": "leetcode/easy/0225_implement_stack_using_queues.py",
+    "path": "leetcode/easy/0225_implement_stack_using_queues/solution.py",
     "canonical_url": "https://leetcode.com/problems/implement-stack-using-queues/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/easy/0225_implement_stack_using_queues/README.md"
   },
   {
     "number": "234",
@@ -272,9 +287,10 @@
       "Fast/Slow Pointers",
       "Reverse Second Half"
     ],
-    "path": "leetcode/easy/0234_palindrome_linked_list.py",
+    "path": "leetcode/easy/0234_palindrome_linked_list/solution.py",
     "canonical_url": "https://leetcode.com/problems/palindrome-linked-list/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/easy/0234_palindrome_linked_list/README.md"
   },
   {
     "number": "283",
@@ -288,9 +304,10 @@
     "study_tags": [
       "Stable Compaction"
     ],
-    "path": "leetcode/easy/0283_move_zeroes.py",
+    "path": "leetcode/easy/0283_move_zeroes/solution.py",
     "canonical_url": "https://leetcode.com/problems/move-zeroes/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/easy/0283_move_zeroes/README.md"
   },
   {
     "number": "350",
@@ -307,9 +324,10 @@
     "study_tags": [
       "Frequency Counting"
     ],
-    "path": "leetcode/easy/0350_intersection_of_two_arrays_ii.py",
+    "path": "leetcode/easy/0350_intersection_of_two_arrays_ii/solution.py",
     "canonical_url": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/easy/0350_intersection_of_two_arrays_ii/README.md"
   },
   {
     "number": "455",
@@ -326,9 +344,10 @@
     "study_tags": [
       "Greedy Matching"
     ],
-    "path": "leetcode/easy/0455_assign_cookies.py",
+    "path": "leetcode/easy/0455_assign_cookies/solution.py",
     "canonical_url": "https://leetcode.com/problems/assign-cookies/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/easy/0455_assign_cookies/README.md"
   },
   {
     "number": "543",
@@ -344,9 +363,10 @@
     "study_tags": [
       "Tree DP"
     ],
-    "path": "leetcode/easy/0543_diameter_of_binary_tree.py",
+    "path": "leetcode/easy/0543_diameter_of_binary_tree/solution.py",
     "canonical_url": "https://leetcode.com/problems/diameter-of-binary-tree/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/easy/0543_diameter_of_binary_tree/README.md"
   },
   {
     "number": "653",
@@ -365,9 +385,10 @@
     "study_tags": [
       "Complement Set"
     ],
-    "path": "leetcode/easy/0653_two_sum_iv_input_is_a_bst.py",
+    "path": "leetcode/easy/0653_two_sum_iv_input_is_a_bst/solution.py",
     "canonical_url": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/easy/0653_two_sum_iv_input_is_a_bst/README.md"
   },
   {
     "number": "812",
@@ -383,9 +404,10 @@
     "study_tags": [
       "Shoelace formula"
     ],
-    "path": "leetcode/easy/0812_largest_triangle_area.py",
+    "path": "leetcode/easy/0812_largest_triangle_area/solution.py",
     "canonical_url": "https://leetcode.com/problems/largest-triangle-area/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/easy/0812_largest_triangle_area/README.md"
   },
   {
     "number": "860",
@@ -399,9 +421,10 @@
     "study_tags": [
       "Change Invariant"
     ],
-    "path": "leetcode/easy/0860_lemonade_change.py",
+    "path": "leetcode/easy/0860_lemonade_change/solution.py",
     "canonical_url": "https://leetcode.com/problems/lemonade-change/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/easy/0860_lemonade_change/README.md"
   },
   {
     "number": "876",
@@ -415,9 +438,10 @@
     "study_tags": [
       "Fast/Slow Pointers"
     ],
-    "path": "leetcode/easy/0876_middle_of_the_linked_list.py",
+    "path": "leetcode/easy/0876_middle_of_the_linked_list/solution.py",
     "canonical_url": "https://leetcode.com/problems/middle-of-the-linked-list/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/easy/0876_middle_of_the_linked_list/README.md"
   },
   {
     "number": "1539",
@@ -431,9 +455,10 @@
     "study_tags": [
       "Missing-Count Invariant"
     ],
-    "path": "leetcode/easy/1539_kth_missing_positive_number.py",
+    "path": "leetcode/easy/1539_kth_missing_positive_number/solution.py",
     "canonical_url": "https://leetcode.com/problems/kth-missing-positive-number/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/easy/1539_kth_missing_positive_number/README.md"
   },
   {
     "number": "10",
@@ -448,9 +473,10 @@
     "study_tags": [
       "Memoization"
     ],
-    "path": "leetcode/hard/0010_regular_expression_matching.py",
+    "path": "leetcode/hard/0010_regular_expression_matching/solution.py",
     "canonical_url": "https://leetcode.com/problems/regular-expression-matching/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/hard/0010_regular_expression_matching/README.md"
   },
   {
     "number": "32",
@@ -466,9 +492,10 @@
     "study_tags": [
       "Boundary matching"
     ],
-    "path": "leetcode/hard/0032_longest_valid_parentheses.py",
+    "path": "leetcode/hard/0032_longest_valid_parentheses/solution.py",
     "canonical_url": "https://leetcode.com/problems/longest-valid-parentheses/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/hard/0032_longest_valid_parentheses/README.md"
   },
   {
     "number": "37",
@@ -486,9 +513,10 @@
     "study_tags": [
       "Constraint propagation"
     ],
-    "path": "leetcode/hard/0037_sudoku_solver.py",
+    "path": "leetcode/hard/0037_sudoku_solver/solution.py",
     "canonical_url": "https://leetcode.com/problems/sudoku-solver/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/hard/0037_sudoku_solver/README.md"
   },
   {
     "number": "41",
@@ -502,9 +530,10 @@
     "study_tags": [
       "Cyclic placement"
     ],
-    "path": "leetcode/hard/0041_first_missing_positive.py",
+    "path": "leetcode/hard/0041_first_missing_positive/solution.py",
     "canonical_url": "https://leetcode.com/problems/first-missing-positive/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/hard/0041_first_missing_positive/README.md"
   },
   {
     "number": "42",
@@ -521,9 +550,10 @@
     "study_tags": [
       "Two Pointers"
     ],
-    "path": "leetcode/hard/0042_trapping_rain_water.py",
+    "path": "leetcode/hard/0042_trapping_rain_water/solution.py",
     "canonical_url": "https://leetcode.com/problems/trapping-rain-water/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/hard/0042_trapping_rain_water/README.md"
   },
   {
     "number": "44",
@@ -539,9 +569,10 @@
     "study_tags": [
       "Memoization"
     ],
-    "path": "leetcode/hard/0044_wildcard_matching.py",
+    "path": "leetcode/hard/0044_wildcard_matching/solution.py",
     "canonical_url": "https://leetcode.com/problems/wildcard-matching/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/hard/0044_wildcard_matching/README.md"
   },
   {
     "number": "51",
@@ -556,9 +587,10 @@
     "study_tags": [
       "Constraint pruning"
     ],
-    "path": "leetcode/hard/0051_n_queens.py",
+    "path": "leetcode/hard/0051_n_queens/solution.py",
     "canonical_url": "https://leetcode.com/problems/n-queens/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/hard/0051_n_queens/README.md"
   },
   {
     "number": "76",
@@ -573,9 +605,10 @@
     "study_tags": [
       "Frequency Deficit"
     ],
-    "path": "leetcode/hard/0076_minimum_window_substring.py",
+    "path": "leetcode/hard/0076_minimum_window_substring/solution.py",
     "canonical_url": "https://leetcode.com/problems/minimum-window-substring/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/hard/0076_minimum_window_substring/README.md"
   },
   {
     "number": "84",
@@ -591,9 +624,10 @@
     "study_tags": [
       "Previous Smaller Element"
     ],
-    "path": "leetcode/hard/0084_largest_rectangle_in_histogram.py",
+    "path": "leetcode/hard/0084_largest_rectangle_in_histogram/solution.py",
     "canonical_url": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/hard/0084_largest_rectangle_in_histogram/README.md"
   },
   {
     "number": "85",
@@ -610,9 +644,10 @@
     "study_tags": [
       "Histogram reduction"
     ],
-    "path": "leetcode/hard/0085_maximal_rectangle.py",
+    "path": "leetcode/hard/0085_maximal_rectangle/solution.py",
     "canonical_url": "https://leetcode.com/problems/maximal-rectangle/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/hard/0085_maximal_rectangle/README.md"
   },
   {
     "number": "124",
@@ -629,9 +664,10 @@
     "study_tags": [
       "Tree DP"
     ],
-    "path": "leetcode/hard/0124_binary_tree_maximum_path_sum.py",
+    "path": "leetcode/hard/0124_binary_tree_maximum_path_sum/solution.py",
     "canonical_url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/hard/0124_binary_tree_maximum_path_sum/README.md"
   },
   {
     "number": "135",
@@ -645,9 +681,10 @@
     "study_tags": [
       "Two Directional Passes"
     ],
-    "path": "leetcode/hard/0135_candy.py",
+    "path": "leetcode/hard/0135_candy/solution.py",
     "canonical_url": "https://leetcode.com/problems/candy/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/hard/0135_candy/README.md"
   },
   {
     "number": "239",
@@ -665,9 +702,10 @@
     "study_tags": [
       "Monotonic Deque"
     ],
-    "path": "leetcode/hard/0239_sliding_window_maximum.py",
+    "path": "leetcode/hard/0239_sliding_window_maximum/solution.py",
     "canonical_url": "https://leetcode.com/problems/sliding-window-maximum/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/hard/0239_sliding_window_maximum/README.md"
   },
   {
     "number": "297",
@@ -685,9 +723,10 @@
     "study_tags": [
       "Preorder Encoding"
     ],
-    "path": "leetcode/hard/0297_serialize_and_deserialize_binary_tree.py",
+    "path": "leetcode/hard/0297_serialize_and_deserialize_binary_tree/solution.py",
     "canonical_url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/hard/0297_serialize_and_deserialize_binary_tree/README.md"
   },
   {
     "number": "407",
@@ -703,9 +742,10 @@
     "study_tags": [
       "Boundary expansion"
     ],
-    "path": "leetcode/hard/0407_trapping_rain_water_ii.py",
+    "path": "leetcode/hard/0407_trapping_rain_water_ii/solution.py",
     "canonical_url": "https://leetcode.com/problems/trapping-rain-water-ii/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/hard/0407_trapping_rain_water_ii/README.md"
   },
   {
     "number": "410",
@@ -722,9 +762,10 @@
     "study_tags": [
       "Binary Search on Answer"
     ],
-    "path": "leetcode/hard/0410_split_array_largest_sum.py",
+    "path": "leetcode/hard/0410_split_array_largest_sum/solution.py",
     "canonical_url": "https://leetcode.com/problems/split-array-largest-sum/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/hard/0410_split_array_largest_sum/README.md"
   },
   {
     "number": "727",
@@ -739,9 +780,10 @@
     "study_tags": [
       "Forward and Backward Scan"
     ],
-    "path": "leetcode/hard/0727_minimum_window_subsequence.py",
+    "path": "leetcode/hard/0727_minimum_window_subsequence/solution.py",
     "canonical_url": "https://leetcode.com/problems/minimum-window-subsequence/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/hard/0727_minimum_window_subsequence/README.md"
   },
   {
     "number": "778",
@@ -762,9 +804,10 @@
     "study_tags": [
       "Minimax path"
     ],
-    "path": "leetcode/hard/0778_swim_in_rising_water.py",
+    "path": "leetcode/hard/0778_swim_in_rising_water/solution.py",
     "canonical_url": "https://leetcode.com/problems/swim-in-rising-water/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/hard/0778_swim_in_rising_water/README.md"
   },
   {
     "number": "987",
@@ -782,9 +825,10 @@
     "study_tags": [
       "Coordinate Ordering"
     ],
-    "path": "leetcode/hard/0987_vertical_order_traversal_of_a_binary_tree.py",
+    "path": "leetcode/hard/0987_vertical_order_traversal_of_a_binary_tree/solution.py",
     "canonical_url": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/hard/0987_vertical_order_traversal_of_a_binary_tree/README.md"
   },
   {
     "number": "992",
@@ -800,9 +844,10 @@
     "study_tags": [
       "Exactly K via At Most K"
     ],
-    "path": "leetcode/hard/0992_subarrays_with_k_different_integers.py",
+    "path": "leetcode/hard/0992_subarrays_with_k_different_integers/solution.py",
     "canonical_url": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/hard/0992_subarrays_with_k_different_integers/README.md"
   },
   {
     "number": "2",
@@ -817,9 +862,10 @@
     "study_tags": [
       "Carry Propagation"
     ],
-    "path": "leetcode/medium/0002_add_two_numbers.py",
+    "path": "leetcode/medium/0002_add_two_numbers/solution.py",
     "canonical_url": "https://leetcode.com/problems/add-two-numbers/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0002_add_two_numbers/README.md"
   },
   {
     "number": "3",
@@ -834,9 +880,10 @@
     "study_tags": [
       "Last Seen Index"
     ],
-    "path": "leetcode/medium/0003_longest_substring_without_repeating_characters.py",
+    "path": "leetcode/medium/0003_longest_substring_without_repeating_characters/solution.py",
     "canonical_url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0003_longest_substring_without_repeating_characters/README.md"
   },
   {
     "number": "6",
@@ -849,9 +896,10 @@
     "study_tags": [
       "Row simulation"
     ],
-    "path": "leetcode/medium/0006_zigzag_conversion.py",
+    "path": "leetcode/medium/0006_zigzag_conversion/solution.py",
     "canonical_url": "https://leetcode.com/problems/zigzag-conversion/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0006_zigzag_conversion/README.md"
   },
   {
     "number": "8",
@@ -865,9 +913,10 @@
       "Parsing",
       "Overflow Clamping"
     ],
-    "path": "leetcode/medium/0008_string_to_integer_atoi.py",
+    "path": "leetcode/medium/0008_string_to_integer_atoi/solution.py",
     "canonical_url": "https://leetcode.com/problems/string-to-integer-atoi/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0008_string_to_integer_atoi/README.md"
   },
   {
     "number": "17",
@@ -882,9 +931,10 @@
     "study_tags": [
       "Decision tree"
     ],
-    "path": "leetcode/medium/0017_letter_combinations_of_a_phone_number.py",
+    "path": "leetcode/medium/0017_letter_combinations_of_a_phone_number/solution.py",
     "canonical_url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0017_letter_combinations_of_a_phone_number/README.md"
   },
   {
     "number": "19",
@@ -898,9 +948,10 @@
     "study_tags": [
       "Fast/Slow Pointers"
     ],
-    "path": "leetcode/medium/0019_remove_nth_node_from_end_of_list.py",
+    "path": "leetcode/medium/0019_remove_nth_node_from_end_of_list/solution.py",
     "canonical_url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0019_remove_nth_node_from_end_of_list/README.md"
   },
   {
     "number": "22",
@@ -916,9 +967,10 @@
     "study_tags": [
       "Constraint pruning"
     ],
-    "path": "leetcode/medium/0022_generate_parentheses.py",
+    "path": "leetcode/medium/0022_generate_parentheses/solution.py",
     "canonical_url": "https://leetcode.com/problems/generate-parentheses/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0022_generate_parentheses/README.md"
   },
   {
     "number": "24",
@@ -932,9 +984,10 @@
     "study_tags": [
       "Pointer rewiring"
     ],
-    "path": "leetcode/medium/0024_swap_nodes_in_pairs.py",
+    "path": "leetcode/medium/0024_swap_nodes_in_pairs/solution.py",
     "canonical_url": "https://leetcode.com/problems/swap-nodes-in-pairs/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0024_swap_nodes_in_pairs/README.md"
   },
   {
     "number": "33",
@@ -948,9 +1001,10 @@
     "study_tags": [
       "Sorted-Half Detection"
     ],
-    "path": "leetcode/medium/0033_search_in_rotated_sorted_array.py",
+    "path": "leetcode/medium/0033_search_in_rotated_sorted_array/solution.py",
     "canonical_url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0033_search_in_rotated_sorted_array/README.md"
   },
   {
     "number": "34",
@@ -965,9 +1019,10 @@
       "Lower Bound",
       "Upper Bound"
     ],
-    "path": "leetcode/medium/0034_find_first_and_last_position.py",
+    "path": "leetcode/medium/0034_find_first_and_last_position/solution.py",
     "canonical_url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0034_find_first_and_last_position/README.md"
   },
   {
     "number": "36",
@@ -982,9 +1037,10 @@
     "study_tags": [
       "Constraint validation"
     ],
-    "path": "leetcode/medium/0036_valid_sudoku.py",
+    "path": "leetcode/medium/0036_valid_sudoku/solution.py",
     "canonical_url": "https://leetcode.com/problems/valid-sudoku/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0036_valid_sudoku/README.md"
   },
   {
     "number": "39",
@@ -998,9 +1054,10 @@
     "study_tags": [
       "Reusable-choice recursion"
     ],
-    "path": "leetcode/medium/0039_combination_sum.py",
+    "path": "leetcode/medium/0039_combination_sum/solution.py",
     "canonical_url": "https://leetcode.com/problems/combination-sum/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0039_combination_sum/README.md"
   },
   {
     "number": "40",
@@ -1014,9 +1071,10 @@
     "study_tags": [
       "Duplicate pruning"
     ],
-    "path": "leetcode/medium/0040_combination_sum_ii.py",
+    "path": "leetcode/medium/0040_combination_sum_ii/solution.py",
     "canonical_url": "https://leetcode.com/problems/combination-sum-ii/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0040_combination_sum_ii/README.md"
   },
   {
     "number": "43",
@@ -1031,9 +1089,10 @@
     "study_tags": [
       "Grade-school multiplication"
     ],
-    "path": "leetcode/medium/0043_multiply_strings.py",
+    "path": "leetcode/medium/0043_multiply_strings/solution.py",
     "canonical_url": "https://leetcode.com/problems/multiply-strings/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0043_multiply_strings/README.md"
   },
   {
     "number": "45",
@@ -1048,9 +1107,10 @@
     "study_tags": [
       "Greedy Range Expansion"
     ],
-    "path": "leetcode/medium/0045_jump_game_ii.py",
+    "path": "leetcode/medium/0045_jump_game_ii/solution.py",
     "canonical_url": "https://leetcode.com/problems/jump-game-ii/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0045_jump_game_ii/README.md"
   },
   {
     "number": "53",
@@ -1065,9 +1125,10 @@
     "study_tags": [
       "Kadane's Algorithm"
     ],
-    "path": "leetcode/medium/0053_maximum_subarray.py",
+    "path": "leetcode/medium/0053_maximum_subarray/solution.py",
     "canonical_url": "https://leetcode.com/problems/maximum-subarray/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0053_maximum_subarray/README.md"
   },
   {
     "number": "54",
@@ -1082,9 +1143,10 @@
     "study_tags": [
       "Boundary Traversal"
     ],
-    "path": "leetcode/medium/0054_spiral_matrix.py",
+    "path": "leetcode/medium/0054_spiral_matrix/solution.py",
     "canonical_url": "https://leetcode.com/problems/spiral-matrix/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0054_spiral_matrix/README.md"
   },
   {
     "number": "55",
@@ -1099,9 +1161,10 @@
     "study_tags": [
       "Farthest Reachable Index"
     ],
-    "path": "leetcode/medium/0055_jump_game.py",
+    "path": "leetcode/medium/0055_jump_game/solution.py",
     "canonical_url": "https://leetcode.com/problems/jump-game/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0055_jump_game/README.md"
   },
   {
     "number": "56",
@@ -1116,9 +1179,10 @@
     "study_tags": [
       "Interval Merging"
     ],
-    "path": "leetcode/medium/0056_merge_intervals.py",
+    "path": "leetcode/medium/0056_merge_intervals/solution.py",
     "canonical_url": "https://leetcode.com/problems/merge-intervals/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0056_merge_intervals/README.md"
   },
   {
     "number": "57",
@@ -1131,9 +1195,10 @@
     "study_tags": [
       "Interval Merging"
     ],
-    "path": "leetcode/medium/0057_insert_interval.py",
+    "path": "leetcode/medium/0057_insert_interval/solution.py",
     "canonical_url": "https://leetcode.com/problems/insert-interval/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0057_insert_interval/README.md"
   },
   {
     "number": "71",
@@ -1147,9 +1212,10 @@
     "study_tags": [
       "Tokenization"
     ],
-    "path": "leetcode/medium/0071_simplify_path.py",
+    "path": "leetcode/medium/0071_simplify_path/solution.py",
     "canonical_url": "https://leetcode.com/problems/simplify-path/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0071_simplify_path/README.md"
   },
   {
     "number": "75",
@@ -1166,9 +1232,10 @@
     "study_tags": [
       "Dutch National Flag"
     ],
-    "path": "leetcode/medium/0075_sort_colors.py",
+    "path": "leetcode/medium/0075_sort_colors/solution.py",
     "canonical_url": "https://leetcode.com/problems/sort-colors/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0075_sort_colors/README.md"
   },
   {
     "number": "78",
@@ -1183,9 +1250,10 @@
     "study_tags": [
       "Include-Exclude Recursion"
     ],
-    "path": "leetcode/medium/0078_subsets.py",
+    "path": "leetcode/medium/0078_subsets/solution.py",
     "canonical_url": "https://leetcode.com/problems/subsets/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0078_subsets/README.md"
   },
   {
     "number": "79",
@@ -1202,9 +1270,10 @@
     "study_tags": [
       "Grid backtracking"
     ],
-    "path": "leetcode/medium/0079_word_search.py",
+    "path": "leetcode/medium/0079_word_search/solution.py",
     "canonical_url": "https://leetcode.com/problems/word-search/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0079_word_search/README.md"
   },
   {
     "number": "81",
@@ -1218,9 +1287,10 @@
     "study_tags": [
       "Duplicate Boundary Shrinking"
     ],
-    "path": "leetcode/medium/0081_search_in_rotated_sorted_array_ii.py",
+    "path": "leetcode/medium/0081_search_in_rotated_sorted_array_ii/solution.py",
     "canonical_url": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0081_search_in_rotated_sorted_array_ii/README.md"
   },
   {
     "number": "90",
@@ -1235,9 +1305,10 @@
     "study_tags": [
       "Duplicate pruning"
     ],
-    "path": "leetcode/medium/0090_subsets_ii.py",
+    "path": "leetcode/medium/0090_subsets_ii/solution.py",
     "canonical_url": "https://leetcode.com/problems/subsets-ii/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0090_subsets_ii/README.md"
   },
   {
     "number": "98",
@@ -1253,9 +1324,10 @@
     "study_tags": [
       "Range Validation"
     ],
-    "path": "leetcode/medium/0098_validate_binary_search_tree.py",
+    "path": "leetcode/medium/0098_validate_binary_search_tree/solution.py",
     "canonical_url": "https://leetcode.com/problems/validate-binary-search-tree/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0098_validate_binary_search_tree/README.md"
   },
   {
     "number": "103",
@@ -1270,9 +1342,10 @@
     "study_tags": [
       "Alternating Level Order"
     ],
-    "path": "leetcode/medium/0103_binary_tree_zigzag_level_order_traversal.py",
+    "path": "leetcode/medium/0103_binary_tree_zigzag_level_order_traversal/solution.py",
     "canonical_url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0103_binary_tree_zigzag_level_order_traversal/README.md"
   },
   {
     "number": "105",
@@ -1289,9 +1362,10 @@
     "study_tags": [
       "Recursive Partitioning"
     ],
-    "path": "leetcode/medium/0105_construct_binary_tree_from_preorder_and_inorder.py",
+    "path": "leetcode/medium/0105_construct_binary_tree_from_preorder_and_inorder/solution.py",
     "canonical_url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0105_construct_binary_tree_from_preorder_and_inorder/README.md"
   },
   {
     "number": "106",
@@ -1308,9 +1382,10 @@
     "study_tags": [
       "Recursive Partitioning"
     ],
-    "path": "leetcode/medium/0106_construct_binary_tree_from_inorder_and_postorder.py",
+    "path": "leetcode/medium/0106_construct_binary_tree_from_inorder_and_postorder/solution.py",
     "canonical_url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0106_construct_binary_tree_from_inorder_and_postorder/README.md"
   },
   {
     "number": "114",
@@ -1327,9 +1402,10 @@
     "study_tags": [
       "Preorder Rewiring"
     ],
-    "path": "leetcode/medium/0114_flatten_binary_tree_to_linked_list.py",
+    "path": "leetcode/medium/0114_flatten_binary_tree_to_linked_list/solution.py",
     "canonical_url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0114_flatten_binary_tree_to_linked_list/README.md"
   },
   {
     "number": "120",
@@ -1343,9 +1419,10 @@
     "study_tags": [
       "Bottom-up DP"
     ],
-    "path": "leetcode/medium/0120_triangle.py",
+    "path": "leetcode/medium/0120_triangle/solution.py",
     "canonical_url": "https://leetcode.com/problems/triangle/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0120_triangle/README.md"
   },
   {
     "number": "131",
@@ -1360,9 +1437,10 @@
     "study_tags": [
       "Palindrome pruning"
     ],
-    "path": "leetcode/medium/0131_palindrome_partitioning.py",
+    "path": "leetcode/medium/0131_palindrome_partitioning/solution.py",
     "canonical_url": "https://leetcode.com/problems/palindrome-partitioning/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0131_palindrome_partitioning/README.md"
   },
   {
     "number": "139",
@@ -1381,9 +1459,10 @@
     "study_tags": [
       "Top-down DP"
     ],
-    "path": "leetcode/medium/0139_word_break.py",
+    "path": "leetcode/medium/0139_word_break/solution.py",
     "canonical_url": "https://leetcode.com/problems/word-break/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0139_word_break/README.md"
   },
   {
     "number": "142",
@@ -1400,9 +1479,10 @@
       "Floyd's Cycle Detection",
       "Fast/Slow Pointers"
     ],
-    "path": "leetcode/medium/0142_linked_list_cycle_ii.py",
+    "path": "leetcode/medium/0142_linked_list_cycle_ii/solution.py",
     "canonical_url": "https://leetcode.com/problems/linked-list-cycle-ii/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0142_linked_list_cycle_ii/README.md"
   },
   {
     "number": "146",
@@ -1418,9 +1498,10 @@
     "study_tags": [
       "Eviction Policy"
     ],
-    "path": "leetcode/medium/0146_lru_cache.py",
+    "path": "leetcode/medium/0146_lru_cache/solution.py",
     "canonical_url": "https://leetcode.com/problems/lru-cache/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0146_lru_cache/README.md"
   },
   {
     "number": "148",
@@ -1437,9 +1518,10 @@
     "study_tags": [
       "Linked-List Merge Sort"
     ],
-    "path": "leetcode/medium/0148_sort_list.py",
+    "path": "leetcode/medium/0148_sort_list/solution.py",
     "canonical_url": "https://leetcode.com/problems/sort-list/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0148_sort_list/README.md"
   },
   {
     "number": "152",
@@ -1453,9 +1535,10 @@
     "study_tags": [
       "Running minimum and maximum"
     ],
-    "path": "leetcode/medium/0152_maximum_product_subarray.py",
+    "path": "leetcode/medium/0152_maximum_product_subarray/solution.py",
     "canonical_url": "https://leetcode.com/problems/maximum-product-subarray/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0152_maximum_product_subarray/README.md"
   },
   {
     "number": "153",
@@ -1469,9 +1552,10 @@
     "study_tags": [
       "Rotation Pivot"
     ],
-    "path": "leetcode/medium/0153_find_minimum_in_rotated_sorted_array.py",
+    "path": "leetcode/medium/0153_find_minimum_in_rotated_sorted_array/solution.py",
     "canonical_url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0153_find_minimum_in_rotated_sorted_array/README.md"
   },
   {
     "number": "155",
@@ -1485,9 +1569,10 @@
     "study_tags": [
       "Auxiliary Minimum"
     ],
-    "path": "leetcode/medium/0155_min_stack.py",
+    "path": "leetcode/medium/0155_min_stack/solution.py",
     "canonical_url": "https://leetcode.com/problems/min-stack/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0155_min_stack/README.md"
   },
   {
     "number": "162",
@@ -1501,9 +1586,10 @@
     "study_tags": [
       "Slope Binary Search"
     ],
-    "path": "leetcode/medium/0162_find_peak_element.py",
+    "path": "leetcode/medium/0162_find_peak_element/solution.py",
     "canonical_url": "https://leetcode.com/problems/find-peak-element/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0162_find_peak_element/README.md"
   },
   {
     "number": "173",
@@ -1521,9 +1607,10 @@
     "study_tags": [
       "Lazy Inorder Traversal"
     ],
-    "path": "leetcode/medium/0173_binary_search_tree_iterator.py",
+    "path": "leetcode/medium/0173_binary_search_tree_iterator/solution.py",
     "canonical_url": "https://leetcode.com/problems/binary-search-tree-iterator/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0173_binary_search_tree_iterator/README.md"
   },
   {
     "number": "189",
@@ -1538,9 +1625,10 @@
     "study_tags": [
       "Reversal Algorithm"
     ],
-    "path": "leetcode/medium/0189_rotate_array.py",
+    "path": "leetcode/medium/0189_rotate_array/solution.py",
     "canonical_url": "https://leetcode.com/problems/rotate-array/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0189_rotate_array/README.md"
   },
   {
     "number": "199",
@@ -1556,9 +1644,10 @@
     "study_tags": [
       "Right-First Traversal"
     ],
-    "path": "leetcode/medium/0199_binary_tree_right_side_view.py",
+    "path": "leetcode/medium/0199_binary_tree_right_side_view/solution.py",
     "canonical_url": "https://leetcode.com/problems/binary-tree-right-side-view/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0199_binary_tree_right_side_view/README.md"
   },
   {
     "number": "216",
@@ -1572,9 +1661,10 @@
     "study_tags": [
       "Fixed-depth search"
     ],
-    "path": "leetcode/medium/0216_combination_sum_iii.py",
+    "path": "leetcode/medium/0216_combination_sum_iii/solution.py",
     "canonical_url": "https://leetcode.com/problems/combination-sum-iii/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0216_combination_sum_iii/README.md"
   },
   {
     "number": "230",
@@ -1590,9 +1680,10 @@
     "study_tags": [
       "Inorder Traversal"
     ],
-    "path": "leetcode/medium/0230_kth_smallest_element_in_a_bst.py",
+    "path": "leetcode/medium/0230_kth_smallest_element_in_a_bst/solution.py",
     "canonical_url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0230_kth_smallest_element_in_a_bst/README.md"
   },
   {
     "number": "235",
@@ -1611,9 +1702,10 @@
       "BST Ordering",
       "LCA"
     ],
-    "path": "leetcode/medium/0235_lowest_common_ancestor_of_a_bst.py",
+    "path": "leetcode/medium/0235_lowest_common_ancestor_of_a_bst/solution.py",
     "canonical_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0235_lowest_common_ancestor_of_a_bst/README.md"
   },
   {
     "number": "236",
@@ -1631,9 +1723,10 @@
       "Postorder Recursion",
       "LCA"
     ],
-    "path": "leetcode/medium/0236_lowest_common_ancestor_of_a_binary_tree.py",
+    "path": "leetcode/medium/0236_lowest_common_ancestor_of_a_binary_tree/solution.py",
     "canonical_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0236_lowest_common_ancestor_of_a_binary_tree/README.md"
   },
   {
     "number": "285",
@@ -1649,9 +1742,10 @@
     "study_tags": [
       "Candidate Tracking"
     ],
-    "path": "leetcode/medium/0285_inorder_successor_in_bst.py",
+    "path": "leetcode/medium/0285_inorder_successor_in_bst/solution.py",
     "canonical_url": "https://leetcode.com/problems/inorder-successor-in-bst/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0285_inorder_successor_in_bst/README.md"
   },
   {
     "number": "300",
@@ -1667,9 +1761,10 @@
     "study_tags": [
       "Patience sorting"
     ],
-    "path": "leetcode/medium/0300_longest_increasing_subsequence.py",
+    "path": "leetcode/medium/0300_longest_increasing_subsequence/solution.py",
     "canonical_url": "https://leetcode.com/problems/longest-increasing-subsequence/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0300_longest_increasing_subsequence/README.md"
   },
   {
     "number": "328",
@@ -1682,9 +1777,10 @@
     "study_tags": [
       "Pointer Partitioning"
     ],
-    "path": "leetcode/medium/0328_odd_even_linked_list.py",
+    "path": "leetcode/medium/0328_odd_even_linked_list/solution.py",
     "canonical_url": "https://leetcode.com/problems/odd-even-linked-list/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0328_odd_even_linked_list/README.md"
   },
   {
     "number": "340",
@@ -1699,9 +1795,10 @@
     "study_tags": [
       "Frequency Window"
     ],
-    "path": "leetcode/medium/0340_longest_substring_with_at_most_k_distinct_characters.py",
+    "path": "leetcode/medium/0340_longest_substring_with_at_most_k_distinct_characters/solution.py",
     "canonical_url": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0340_longest_substring_with_at_most_k_distinct_characters/README.md"
   },
   {
     "number": "368",
@@ -1717,9 +1814,10 @@
     "study_tags": [
       "LIS-style reconstruction"
     ],
-    "path": "leetcode/medium/0368_largest_divisible_subset.py",
+    "path": "leetcode/medium/0368_largest_divisible_subset/solution.py",
     "canonical_url": "https://leetcode.com/problems/largest-divisible-subset/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0368_largest_divisible_subset/README.md"
   },
   {
     "number": "402",
@@ -1735,9 +1833,10 @@
     "study_tags": [
       "Monotonic Stack"
     ],
-    "path": "leetcode/medium/0402_remove_k_digits.py",
+    "path": "leetcode/medium/0402_remove_k_digits/solution.py",
     "canonical_url": "https://leetcode.com/problems/remove-k-digits/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0402_remove_k_digits/README.md"
   },
   {
     "number": "417",
@@ -1753,9 +1852,10 @@
     "study_tags": [
       "Reverse reachability"
     ],
-    "path": "leetcode/medium/0417_pacific_atlantic_water_flow.py",
+    "path": "leetcode/medium/0417_pacific_atlantic_water_flow/solution.py",
     "canonical_url": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0417_pacific_atlantic_water_flow/README.md"
   },
   {
     "number": "424",
@@ -1770,9 +1870,10 @@
     "study_tags": [
       "Maximum Frequency Window"
     ],
-    "path": "leetcode/medium/0424_longest_repeating_character_replacement.py",
+    "path": "leetcode/medium/0424_longest_repeating_character_replacement/solution.py",
     "canonical_url": "https://leetcode.com/problems/longest-repeating-character-replacement/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0424_longest_repeating_character_replacement/README.md"
   },
   {
     "number": "435",
@@ -1788,9 +1889,10 @@
     "study_tags": [
       "Activity Selection"
     ],
-    "path": "leetcode/medium/0435_non_overlapping_intervals.py",
+    "path": "leetcode/medium/0435_non_overlapping_intervals/solution.py",
     "canonical_url": "https://leetcode.com/problems/non-overlapping-intervals/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0435_non_overlapping_intervals/README.md"
   },
   {
     "number": "503",
@@ -1805,9 +1907,10 @@
     "study_tags": [
       "Circular Monotonic Stack"
     ],
-    "path": "leetcode/medium/0503_next_greater_element_ii.py",
+    "path": "leetcode/medium/0503_next_greater_element_ii/solution.py",
     "canonical_url": "https://leetcode.com/problems/next-greater-element-ii/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0503_next_greater_element_ii/README.md"
   },
   {
     "number": "540",
@@ -1821,9 +1924,10 @@
     "study_tags": [
       "Pair-Index Parity"
     ],
-    "path": "leetcode/medium/0540_single_element_in_a_sorted_array.py",
+    "path": "leetcode/medium/0540_single_element_in_a_sorted_array/solution.py",
     "canonical_url": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0540_single_element_in_a_sorted_array/README.md"
   },
   {
     "number": "547",
@@ -1840,9 +1944,10 @@
       "Connected components",
       "Disjoint Set Union"
     ],
-    "path": "leetcode/medium/0547_number_of_provinces.py",
+    "path": "leetcode/medium/0547_number_of_provinces/solution.py",
     "canonical_url": "https://leetcode.com/problems/number-of-provinces/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0547_number_of_provinces/README.md"
   },
   {
     "number": "560",
@@ -1857,9 +1962,10 @@
     "study_tags": [
       "Prefix-Frequency Map"
     ],
-    "path": "leetcode/medium/0560_subarray_sum_equals_k.py",
+    "path": "leetcode/medium/0560_subarray_sum_equals_k/solution.py",
     "canonical_url": "https://leetcode.com/problems/subarray-sum-equals-k/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0560_subarray_sum_equals_k/README.md"
   },
   {
     "number": "567",
@@ -1875,9 +1981,10 @@
     "study_tags": [
       "Fixed Frequency Window"
     ],
-    "path": "leetcode/medium/0567_permutation_in_string.py",
+    "path": "leetcode/medium/0567_permutation_in_string/solution.py",
     "canonical_url": "https://leetcode.com/problems/permutation-in-string/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0567_permutation_in_string/README.md"
   },
   {
     "number": "611",
@@ -1894,9 +2001,10 @@
     "study_tags": [
       "Sorted two pointers"
     ],
-    "path": "leetcode/medium/0611_valid_triangle_number.py",
+    "path": "leetcode/medium/0611_valid_triangle_number/solution.py",
     "canonical_url": "https://leetcode.com/problems/valid-triangle-number/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0611_valid_triangle_number/README.md"
   },
   {
     "number": "662",
@@ -1912,9 +2020,10 @@
     "study_tags": [
       "Indexed Level Order"
     ],
-    "path": "leetcode/medium/0662_maximum_width_of_binary_tree.py",
+    "path": "leetcode/medium/0662_maximum_width_of_binary_tree/solution.py",
     "canonical_url": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0662_maximum_width_of_binary_tree/README.md"
   },
   {
     "number": "673",
@@ -1931,9 +2040,10 @@
     "study_tags": [
       "Length and count DP"
     ],
-    "path": "leetcode/medium/0673_number_of_longest_increasing_subsequence.py",
+    "path": "leetcode/medium/0673_number_of_longest_increasing_subsequence/solution.py",
     "canonical_url": "https://leetcode.com/problems/number-of-longest-increasing-subsequence/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0673_number_of_longest_increasing_subsequence/README.md"
   },
   {
     "number": "721",
@@ -1952,9 +2062,10 @@
     "study_tags": [
       "Disjoint Set Union"
     ],
-    "path": "leetcode/medium/0721_accounts_merge.py",
+    "path": "leetcode/medium/0721_accounts_merge/solution.py",
     "canonical_url": "https://leetcode.com/problems/accounts-merge/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0721_accounts_merge/README.md"
   },
   {
     "number": "735",
@@ -1969,9 +2080,10 @@
     "study_tags": [
       "Collision Simulation"
     ],
-    "path": "leetcode/medium/0735_asteroid_collision.py",
+    "path": "leetcode/medium/0735_asteroid_collision/solution.py",
     "canonical_url": "https://leetcode.com/problems/asteroid-collision/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0735_asteroid_collision/README.md"
   },
   {
     "number": "845",
@@ -1987,9 +2099,10 @@
     "study_tags": [
       "Increasing and decreasing runs"
     ],
-    "path": "leetcode/medium/0845_longest_mountain_in_array.py",
+    "path": "leetcode/medium/0845_longest_mountain_in_array/solution.py",
     "canonical_url": "https://leetcode.com/problems/longest-mountain-in-array/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0845_longest_mountain_in_array/README.md"
   },
   {
     "number": "875",
@@ -2003,9 +2116,10 @@
     "study_tags": [
       "Binary Search on Answer"
     ],
-    "path": "leetcode/medium/0875_koko_eating_bananas.py",
+    "path": "leetcode/medium/0875_koko_eating_bananas/solution.py",
     "canonical_url": "https://leetcode.com/problems/koko-eating-bananas/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0875_koko_eating_bananas/README.md"
   },
   {
     "number": "901",
@@ -2021,9 +2135,10 @@
     "study_tags": [
       "Compressed Monotonic Stack"
     ],
-    "path": "leetcode/medium/0901_online_stock_span.py",
+    "path": "leetcode/medium/0901_online_stock_span/solution.py",
     "canonical_url": "https://leetcode.com/problems/online-stock-span/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0901_online_stock_span/README.md"
   },
   {
     "number": "904",
@@ -2038,9 +2153,10 @@
     "study_tags": [
       "At Most Two Distinct"
     ],
-    "path": "leetcode/medium/0904_fruit_into_baskets.py",
+    "path": "leetcode/medium/0904_fruit_into_baskets/solution.py",
     "canonical_url": "https://leetcode.com/problems/fruit-into-baskets/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0904_fruit_into_baskets/README.md"
   },
   {
     "number": "907",
@@ -2056,9 +2172,10 @@
     "study_tags": [
       "Contribution counting"
     ],
-    "path": "leetcode/medium/0907_sum_of_subarray_minimums.py",
+    "path": "leetcode/medium/0907_sum_of_subarray_minimums/solution.py",
     "canonical_url": "https://leetcode.com/problems/sum-of-subarray-minimums/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0907_sum_of_subarray_minimums/README.md"
   },
   {
     "number": "930",
@@ -2074,9 +2191,10 @@
     "study_tags": [
       "Prefix Frequency"
     ],
-    "path": "leetcode/medium/0930_binary_subarrays_with_sum.py",
+    "path": "leetcode/medium/0930_binary_subarrays_with_sum/solution.py",
     "canonical_url": "https://leetcode.com/problems/binary-subarrays-with-sum/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/0930_binary_subarrays_with_sum/README.md"
   },
   {
     "number": "1004",
@@ -2092,9 +2210,10 @@
     "study_tags": [
       "Zero Count Window"
     ],
-    "path": "leetcode/medium/1004_max_consecutive_ones_iii.py",
+    "path": "leetcode/medium/1004_max_consecutive_ones_iii/solution.py",
     "canonical_url": "https://leetcode.com/problems/max-consecutive-ones-iii/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/1004_max_consecutive_ones_iii/README.md"
   },
   {
     "number": "1008",
@@ -2112,9 +2231,10 @@
     "study_tags": [
       "Bounded Recursion"
     ],
-    "path": "leetcode/medium/1008_construct_bst_from_preorder.py",
+    "path": "leetcode/medium/1008_construct_bst_from_preorder/solution.py",
     "canonical_url": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/1008_construct_bst_from_preorder/README.md"
   },
   {
     "number": "1011",
@@ -2128,9 +2248,10 @@
     "study_tags": [
       "Binary Search on Answer"
     ],
-    "path": "leetcode/medium/1011_capacity_to_ship_packages_within_d_days.py",
+    "path": "leetcode/medium/1011_capacity_to_ship_packages_within_d_days/solution.py",
     "canonical_url": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/1011_capacity_to_ship_packages_within_d_days/README.md"
   },
   {
     "number": "1039",
@@ -2146,9 +2267,10 @@
     "study_tags": [
       "Interval DP"
     ],
-    "path": "leetcode/medium/1039_minimum_score_triangulation_of_polygon.py",
+    "path": "leetcode/medium/1039_minimum_score_triangulation_of_polygon/solution.py",
     "canonical_url": "https://leetcode.com/problems/minimum-score-triangulation-of-polygon/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/1039_minimum_score_triangulation_of_polygon/README.md"
   },
   {
     "number": "1048",
@@ -2166,9 +2288,10 @@
     "study_tags": [
       "Predecessor DP"
     ],
-    "path": "leetcode/medium/1048_longest_string_chain.py",
+    "path": "leetcode/medium/1048_longest_string_chain/solution.py",
     "canonical_url": "https://leetcode.com/problems/longest-string-chain/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/1048_longest_string_chain/README.md"
   },
   {
     "number": "1248",
@@ -2185,9 +2308,10 @@
     "study_tags": [
       "Prefix Frequency"
     ],
-    "path": "leetcode/medium/1248_count_number_of_nice_subarrays.py",
+    "path": "leetcode/medium/1248_count_number_of_nice_subarrays/solution.py",
     "canonical_url": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/1248_count_number_of_nice_subarrays/README.md"
   },
   {
     "number": "1283",
@@ -2201,9 +2325,10 @@
     "study_tags": [
       "Binary Search on Answer"
     ],
-    "path": "leetcode/medium/1283_find_the_smallest_divisor.py",
+    "path": "leetcode/medium/1283_find_the_smallest_divisor/solution.py",
     "canonical_url": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/1283_find_the_smallest_divisor/README.md"
   },
   {
     "number": "1319",
@@ -2220,9 +2345,10 @@
       "Connected components",
       "Disjoint Set Union"
     ],
-    "path": "leetcode/medium/1319_number_of_operations_to_make_network_connected.py",
+    "path": "leetcode/medium/1319_number_of_operations_to_make_network_connected/solution.py",
     "canonical_url": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/1319_number_of_operations_to_make_network_connected/README.md"
   },
   {
     "number": "1358",
@@ -2237,9 +2363,10 @@
     "study_tags": [
       "Last Seen Indices"
     ],
-    "path": "leetcode/medium/1358_number_of_substrings_containing_all_three_characters.py",
+    "path": "leetcode/medium/1358_number_of_substrings_containing_all_three_characters/solution.py",
     "canonical_url": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/1358_number_of_substrings_containing_all_three_characters/README.md"
   },
   {
     "number": "1423",
@@ -2254,9 +2381,10 @@
     "study_tags": [
       "Complement Window"
     ],
-    "path": "leetcode/medium/1423_maximum_points_you_can_obtain_from_cards.py",
+    "path": "leetcode/medium/1423_maximum_points_you_can_obtain_from_cards/solution.py",
     "canonical_url": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/1423_maximum_points_you_can_obtain_from_cards/README.md"
   },
   {
     "number": "1482",
@@ -2270,9 +2398,10 @@
     "study_tags": [
       "Binary Search on Answer"
     ],
-    "path": "leetcode/medium/1482_minimum_number_of_days_to_make_m_bouquets.py",
+    "path": "leetcode/medium/1482_minimum_number_of_days_to_make_m_bouquets/solution.py",
     "canonical_url": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/1482_minimum_number_of_days_to_make_m_bouquets/README.md"
   },
   {
     "number": "1488",
@@ -2289,9 +2418,10 @@
     "study_tags": [
       "Ordered dry-day selection"
     ],
-    "path": "leetcode/medium/1488_avoid_flood_in_the_city.py",
+    "path": "leetcode/medium/1488_avoid_flood_in_the_city/solution.py",
     "canonical_url": "https://leetcode.com/problems/avoid-flood-in-the-city/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/1488_avoid_flood_in_the_city/README.md"
   },
   {
     "number": "1910",
@@ -2306,9 +2436,10 @@
     "study_tags": [
       "Repeated Erasure"
     ],
-    "path": "leetcode/medium/1910_remove_all_occurrences_of_a_substring.py",
+    "path": "leetcode/medium/1910_remove_all_occurrences_of_a_substring/solution.py",
     "canonical_url": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/1910_remove_all_occurrences_of_a_substring/README.md"
   },
   {
     "number": "1922",
@@ -2322,9 +2453,10 @@
     "study_tags": [
       "Fast exponentiation"
     ],
-    "path": "leetcode/medium/1922_count_good_numbers.py",
+    "path": "leetcode/medium/1922_count_good_numbers/solution.py",
     "canonical_url": "https://leetcode.com/problems/count-good-numbers/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/1922_count_good_numbers/README.md"
   },
   {
     "number": "2095",
@@ -2338,9 +2470,10 @@
     "study_tags": [
       "Fast/Slow Pointers"
     ],
-    "path": "leetcode/medium/2095_delete_the_middle_node_of_a_linked_list.py",
+    "path": "leetcode/medium/2095_delete_the_middle_node_of_a_linked_list/solution.py",
     "canonical_url": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/2095_delete_the_middle_node_of_a_linked_list/README.md"
   },
   {
     "number": "2300",
@@ -2356,9 +2489,10 @@
     "study_tags": [
       "Lower bound"
     ],
-    "path": "leetcode/medium/2300_successful_pairs_of_spells_and_potions.py",
+    "path": "leetcode/medium/2300_successful_pairs_of_spells_and_potions/solution.py",
     "canonical_url": "https://leetcode.com/problems/successful-pairs-of-spells-and-potions/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/2300_successful_pairs_of_spells_and_potions/README.md"
   },
   {
     "number": "Not applicable",
@@ -2370,9 +2504,10 @@
       "Sliding Window",
       "Prefix Sum"
     ],
-    "path": "non_leetcode/code360/longest_subarray_with_sum_k.py",
+    "path": "non_leetcode/code360/longest_subarray_with_sum_k/solution.py",
     "canonical_url": "https://www.naukri.com/code360/problems/longest-subarray-with-sum-k_6682399",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/code360/longest_subarray_with_sum_k/README.md"
   },
   {
     "number": "Not applicable",
@@ -2384,9 +2519,10 @@
       "Graph Coloring",
       "Backtracking"
     ],
-    "path": "non_leetcode/code360/m_coloring_problem.py",
+    "path": "non_leetcode/code360/m_coloring_problem/solution.py",
     "canonical_url": "https://www.naukri.com/code360/problems/m-coloring-problem_981273",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/code360/m_coloring_problem/README.md"
   },
   {
     "number": "Not applicable",
@@ -2397,9 +2533,10 @@
     "study_tags": [
       "Binary Search"
     ],
-    "path": "non_leetcode/code360/nth_root_of_m.py",
+    "path": "non_leetcode/code360/nth_root_of_m/solution.py",
     "canonical_url": "https://www.naukri.com/code360/problems/nth-root-of-m_1062679",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/code360/nth_root_of_m/README.md"
   },
   {
     "number": "Not applicable",
@@ -2411,9 +2548,10 @@
       "Grid Backtracking",
       "Path Enumeration"
     ],
-    "path": "non_leetcode/code360/rat_in_a_maze.py",
+    "path": "non_leetcode/code360/rat_in_a_maze/solution.py",
     "canonical_url": "https://www.naukri.com/code360/problems/rat-in-a-maze-_8842357",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/code360/rat_in_a_maze/README.md"
   },
   {
     "number": "Not applicable",
@@ -2424,9 +2562,10 @@
     "study_tags": [
       "Matrix Traversal"
     ],
-    "path": "non_leetcode/code360/wave_print_matrix.py",
+    "path": "non_leetcode/code360/wave_print_matrix/solution.py",
     "canonical_url": "Unresolved",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/code360/wave_print_matrix/README.md"
   },
   {
     "number": "Not applicable",
@@ -2438,9 +2577,10 @@
       "Carry Propagation",
       "Linked List"
     ],
-    "path": "non_leetcode/geeksforgeeks/add_one_to_linked_list_number.py",
+    "path": "non_leetcode/geeksforgeeks/add_one_to_linked_list_number/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/add_one_to_linked_list_number/README.md"
   },
   {
     "number": "Not applicable",
@@ -2452,9 +2592,10 @@
       "Binary Search on Answer",
       "Greedy Feasibility"
     ],
-    "path": "non_leetcode/geeksforgeeks/allocate_minimum_pages.py",
+    "path": "non_leetcode/geeksforgeeks/allocate_minimum_pages/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/allocate_minimum_pages/README.md"
   },
   {
     "number": "Not applicable",
@@ -2466,9 +2607,10 @@
       "Breadth-First Search",
       "Horizontal Distance"
     ],
-    "path": "non_leetcode/geeksforgeeks/bottom_view_binary_tree.py",
+    "path": "non_leetcode/geeksforgeeks/bottom_view_binary_tree/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/bottom_view_binary_tree/README.md"
   },
   {
     "number": "Not applicable",
@@ -2479,9 +2621,10 @@
     "study_tags": [
       "Tree Traversal"
     ],
-    "path": "non_leetcode/geeksforgeeks/boundary_traversal_binary_tree.py",
+    "path": "non_leetcode/geeksforgeeks/boundary_traversal_binary_tree/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/boundary_traversal_binary_tree/README.md"
   },
   {
     "number": "Not applicable",
@@ -2492,9 +2635,10 @@
     "study_tags": [
       "Binary Search Tree"
     ],
-    "path": "non_leetcode/geeksforgeeks/ceil_in_bst.py",
+    "path": "non_leetcode/geeksforgeeks/ceil_in_bst/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/ceil_in_bst/README.md"
   },
   {
     "number": "Not applicable",
@@ -2505,9 +2649,10 @@
     "study_tags": [
       "Elimination"
     ],
-    "path": "non_leetcode/geeksforgeeks/celebrity_problem.py",
+    "path": "non_leetcode/geeksforgeeks/celebrity_problem/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/the-celebrity-problem/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/celebrity_problem/README.md"
   },
   {
     "number": "Not applicable",
@@ -2518,9 +2663,10 @@
     "study_tags": [
       "Array"
     ],
-    "path": "non_leetcode/geeksforgeeks/check_if_array_is_sorted.py",
+    "path": "non_leetcode/geeksforgeeks/check_if_array_is_sorted/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/check_if_array_is_sorted/README.md"
   },
   {
     "number": "Not applicable",
@@ -2531,9 +2677,10 @@
     "study_tags": [
       "Tree Recursion"
     ],
-    "path": "non_leetcode/geeksforgeeks/children_sum_property.py",
+    "path": "non_leetcode/geeksforgeeks/children_sum_property/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/children-sum-parent/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/children_sum_property/README.md"
   },
   {
     "number": "Not applicable",
@@ -2544,9 +2691,10 @@
     "study_tags": [
       "Doubly Linked List"
     ],
-    "path": "non_leetcode/geeksforgeeks/delete_occurrences_in_dll.py",
+    "path": "non_leetcode/geeksforgeeks/delete_occurrences_in_dll/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/delete_occurrences_in_dll/README.md"
   },
   {
     "number": "Not applicable",
@@ -2557,9 +2705,10 @@
     "study_tags": [
       "Binary Search"
     ],
-    "path": "non_leetcode/geeksforgeeks/floor_and_ceil.py",
+    "path": "non_leetcode/geeksforgeeks/floor_and_ceil/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/floor_and_ceil/README.md"
   },
   {
     "number": "Not applicable",
@@ -2571,9 +2720,10 @@
       "Greedy",
       "Sorting"
     ],
-    "path": "non_leetcode/geeksforgeeks/fractional_knapsack.py",
+    "path": "non_leetcode/geeksforgeeks/fractional_knapsack/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/fractional_knapsack/README.md"
   },
   {
     "number": "Not applicable",
@@ -2585,9 +2735,10 @@
       "Backtracking",
       "Pruning"
     ],
-    "path": "non_leetcode/geeksforgeeks/generate_binary_strings_without_consecutive_ones.py",
+    "path": "non_leetcode/geeksforgeeks/generate_binary_strings_without_consecutive_ones/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/generate-all-binary-strings/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/generate_binary_strings_without_consecutive_ones/README.md"
   },
   {
     "number": "Not applicable",
@@ -2599,9 +2750,10 @@
       "Stack",
       "Expression Parsing"
     ],
-    "path": "non_leetcode/geeksforgeeks/infix_to_postfix.py",
+    "path": "non_leetcode/geeksforgeeks/infix_to_postfix/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/infix_to_postfix/README.md"
   },
   {
     "number": "Not applicable",
@@ -2612,9 +2764,10 @@
     "study_tags": [
       "Greedy Scheduling"
     ],
-    "path": "non_leetcode/geeksforgeeks/job_sequencing.py",
+    "path": "non_leetcode/geeksforgeeks/job_sequencing/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/job_sequencing/README.md"
   },
   {
     "number": "Not applicable",
@@ -2625,9 +2778,10 @@
     "study_tags": [
       "Array"
     ],
-    "path": "non_leetcode/geeksforgeeks/largest_element_in_array.py",
+    "path": "non_leetcode/geeksforgeeks/largest_element_in_array/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/largest_element_in_array/README.md"
   },
   {
     "number": "Not applicable",
@@ -2638,9 +2792,10 @@
     "study_tags": [
       "Floyd's Cycle Detection"
     ],
-    "path": "non_leetcode/geeksforgeeks/length_of_loop.py",
+    "path": "non_leetcode/geeksforgeeks/length_of_loop/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/find-length-of-loop/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/length_of_loop/README.md"
   },
   {
     "number": "Not applicable",
@@ -2652,9 +2807,10 @@
       "Interval DP",
       "Memoization"
     ],
-    "path": "non_leetcode/geeksforgeeks/matrix_chain_multiplication.py",
+    "path": "non_leetcode/geeksforgeeks/matrix_chain_multiplication/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/matrix_chain_multiplication/README.md"
   },
   {
     "number": "Not applicable",
@@ -2667,9 +2823,10 @@
       "Implicit Graph",
       "Shortest Path"
     ],
-    "path": "non_leetcode/geeksforgeeks/minimum_multiplications_to_reach_end.py",
+    "path": "non_leetcode/geeksforgeeks/minimum_multiplications_to_reach_end/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/minimum_multiplications_to_reach_end/README.md"
   },
   {
     "number": "Not applicable",
@@ -2681,9 +2838,10 @@
       "Sorting",
       "Two Pointers"
     ],
-    "path": "non_leetcode/geeksforgeeks/minimum_platforms.py",
+    "path": "non_leetcode/geeksforgeeks/minimum_platforms/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/minimum_platforms/README.md"
   },
   {
     "number": "Not applicable",
@@ -2695,9 +2853,10 @@
       "Array",
       "Arithmetic"
     ],
-    "path": "non_leetcode/geeksforgeeks/missing_number_in_array.py",
+    "path": "non_leetcode/geeksforgeeks/missing_number_in_array/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/missing_number_in_array/README.md"
   },
   {
     "number": "Not applicable",
@@ -2708,9 +2867,10 @@
     "study_tags": [
       "Activity Selection"
     ],
-    "path": "non_leetcode/geeksforgeeks/n_meetings_in_one_room.py",
+    "path": "non_leetcode/geeksforgeeks/n_meetings_in_one_room/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/n_meetings_in_one_room/README.md"
   },
   {
     "number": "Not applicable",
@@ -2721,9 +2881,10 @@
     "study_tags": [
       "Monotonic Stack"
     ],
-    "path": "non_leetcode/geeksforgeeks/next_larger_element.py",
+    "path": "non_leetcode/geeksforgeeks/next_larger_element/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/next_larger_element/README.md"
   },
   {
     "number": "Not applicable",
@@ -2735,9 +2896,10 @@
       "Combinatorics",
       "Modular Exponentiation"
     ],
-    "path": "non_leetcode/geeksforgeeks/number_of_graphs_with_n_vertices.py",
+    "path": "non_leetcode/geeksforgeeks/number_of_graphs_with_n_vertices/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/number-of-graphs-with-n-vertices/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/number_of_graphs_with_n_vertices/README.md"
   },
   {
     "number": "Not applicable",
@@ -2749,9 +2911,10 @@
       "Array",
       "Queries"
     ],
-    "path": "non_leetcode/geeksforgeeks/number_of_nges_to_right.py",
+    "path": "non_leetcode/geeksforgeeks/number_of_nges_to_right/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/number-of-nges-to-the-right/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/number_of_nges_to_right/README.md"
   },
   {
     "number": "Not applicable",
@@ -2762,9 +2925,10 @@
     "study_tags": [
       "LRU Simulation"
     ],
-    "path": "non_leetcode/geeksforgeeks/page_faults_lru.py",
+    "path": "non_leetcode/geeksforgeeks/page_faults_lru/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/page-faults-in-lru5603/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/page_faults_lru/README.md"
   },
   {
     "number": "Not applicable",
@@ -2775,9 +2939,10 @@
     "study_tags": [
       "Two Pointers"
     ],
-    "path": "non_leetcode/geeksforgeeks/pairs_with_sum_in_dll.py",
+    "path": "non_leetcode/geeksforgeeks/pairs_with_sum_in_dll/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/pairs_with_sum_in_dll/README.md"
   },
   {
     "number": "Not applicable",
@@ -2788,9 +2953,10 @@
     "study_tags": [
       "Monotonic Stack"
     ],
-    "path": "non_leetcode/geeksforgeeks/previous_smaller_element.py",
+    "path": "non_leetcode/geeksforgeeks/previous_smaller_element/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/smallest-number-on-left3403/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/previous_smaller_element/README.md"
   },
   {
     "number": "Not applicable",
@@ -2801,9 +2967,10 @@
     "study_tags": [
       "Doubly Linked List"
     ],
-    "path": "non_leetcode/geeksforgeeks/remove_duplicates_sorted_dll.py",
+    "path": "non_leetcode/geeksforgeeks/remove_duplicates_sorted_dll/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/remove_duplicates_sorted_dll/README.md"
   },
   {
     "number": "Not applicable",
@@ -2815,9 +2982,10 @@
       "Stack",
       "Recursion"
     ],
-    "path": "non_leetcode/geeksforgeeks/reverse_stack.py",
+    "path": "non_leetcode/geeksforgeeks/reverse_stack/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/reverse-a-stack/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/reverse_stack/README.md"
   },
   {
     "number": "Not applicable",
@@ -2828,9 +2996,10 @@
     "study_tags": [
       "Array"
     ],
-    "path": "non_leetcode/geeksforgeeks/second_largest_element.py",
+    "path": "non_leetcode/geeksforgeeks/second_largest_element/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/second-largest3735/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/second_largest_element/README.md"
   },
   {
     "number": "Not applicable",
@@ -2842,9 +3011,10 @@
       "Stack",
       "Recursion"
     ],
-    "path": "non_leetcode/geeksforgeeks/sort_a_stack.py",
+    "path": "non_leetcode/geeksforgeeks/sort_a_stack/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/sort-a-stack/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/sort_a_stack/README.md"
   },
   {
     "number": "Not applicable",
@@ -2856,9 +3026,10 @@
       "Counting",
       "Linked List"
     ],
-    "path": "non_leetcode/geeksforgeeks/sort_linked_list_0_1_2.py",
+    "path": "non_leetcode/geeksforgeeks/sort_linked_list_0_1_2/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/sort_linked_list_0_1_2/README.md"
   },
   {
     "number": "Not applicable",
@@ -2870,9 +3041,10 @@
       "Breadth-First Search",
       "Horizontal Distance"
     ],
-    "path": "non_leetcode/geeksforgeeks/top_view_binary_tree.py",
+    "path": "non_leetcode/geeksforgeeks/top_view_binary_tree/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/top_view_binary_tree/README.md"
   },
   {
     "number": "Not applicable",
@@ -2883,9 +3055,10 @@
     "study_tags": [
       "Two Pointers"
     ],
-    "path": "non_leetcode/geeksforgeeks/union_of_two_sorted_arrays.py",
+    "path": "non_leetcode/geeksforgeeks/union_of_two_sorted_arrays/solution.py",
     "canonical_url": "https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/geeksforgeeks/union_of_two_sorted_arrays/README.md"
   },
   {
     "number": "Not applicable",
@@ -2897,9 +3070,10 @@
       "Map",
       "Frequency Table"
     ],
-    "path": "non_leetcode/hackerrank/maps_stl.py",
+    "path": "non_leetcode/hackerrank/maps_stl/solution.py",
     "canonical_url": "https://www.hackerrank.com/challenges/cpp-maps/problem",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/hackerrank/maps_stl/README.md"
   },
   {
     "number": "Not applicable",
@@ -2910,9 +3084,10 @@
     "study_tags": [
       "Set"
     ],
-    "path": "non_leetcode/hackerrank/sets_stl.py",
+    "path": "non_leetcode/hackerrank/sets_stl/solution.py",
     "canonical_url": "https://www.hackerrank.com/challenges/cpp-sets/problem",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/hackerrank/sets_stl/README.md"
   },
   {
     "number": "Not applicable",
@@ -2924,9 +3099,10 @@
       "Two Pointers",
       "String"
     ],
-    "path": "non_leetcode/other/case_insensitive_palindrome.py",
+    "path": "non_leetcode/other/case_insensitive_palindrome/solution.py",
     "canonical_url": "Unresolved",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/other/case_insensitive_palindrome/README.md"
   },
   {
     "number": "Not applicable",
@@ -2938,9 +3114,10 @@
       "Stack",
       "Expression Parsing"
     ],
-    "path": "non_leetcode/other/expression_conversions.py",
+    "path": "non_leetcode/other/expression_conversions/solution.py",
     "canonical_url": "Unresolved",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/other/expression_conversions/README.md"
   },
   {
     "number": "Not applicable",
@@ -2952,9 +3129,10 @@
       "Array",
       "Frequency Counting"
     ],
-    "path": "non_leetcode/other/find_duplicate.py",
+    "path": "non_leetcode/other/find_duplicate/solution.py",
     "canonical_url": "Unresolved",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/other/find_duplicate/README.md"
   },
   {
     "number": "Not applicable",
@@ -2965,9 +3143,10 @@
     "study_tags": [
       "Frequency Counting"
     ],
-    "path": "non_leetcode/other/maximum_occurring_character.py",
+    "path": "non_leetcode/other/maximum_occurring_character/solution.py",
     "canonical_url": "Unresolved",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/other/maximum_occurring_character/README.md"
   },
   {
     "number": "Not applicable",
@@ -2978,9 +3157,10 @@
     "study_tags": [
       "Coin Change DP"
     ],
-    "path": "non_leetcode/other/minimum_coins_greedy.py",
+    "path": "non_leetcode/other/minimum_coins_greedy/solution.py",
     "canonical_url": "Unresolved",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/other/minimum_coins_greedy/README.md"
   },
   {
     "number": "Not applicable",
@@ -2991,9 +3171,10 @@
     "study_tags": [
       "Hash Table"
     ],
-    "path": "non_leetcode/other/pair_sum.py",
+    "path": "non_leetcode/other/pair_sum/solution.py",
     "canonical_url": "Unresolved",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/other/pair_sum/README.md"
   },
   {
     "number": "Not applicable",
@@ -3005,9 +3186,10 @@
       "Binary Search",
       "Rotation Pivot"
     ],
-    "path": "non_leetcode/other/rotation_count_sorted_array.py",
+    "path": "non_leetcode/other/rotation_count_sorted_array/solution.py",
     "canonical_url": "Unresolved",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/other/rotation_count_sorted_array/README.md"
   },
   {
     "number": "Not applicable",
@@ -3018,9 +3200,10 @@
     "study_tags": [
       "Two Pointers"
     ],
-    "path": "non_leetcode/other/sort_binary_array.py",
+    "path": "non_leetcode/other/sort_binary_array/solution.py",
     "canonical_url": "Unresolved",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/other/sort_binary_array/README.md"
   },
   {
     "number": "Not applicable",
@@ -3031,9 +3214,10 @@
     "study_tags": [
       "Array"
     ],
-    "path": "non_leetcode/other/swap_alternate_elements.py",
+    "path": "non_leetcode/other/swap_alternate_elements/solution.py",
     "canonical_url": "Unresolved",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/other/swap_alternate_elements/README.md"
   },
   {
     "number": "Not applicable",
@@ -3045,8 +3229,9 @@
       "Sorting",
       "Two Pointers"
     ],
-    "path": "non_leetcode/other/triplet_sum.py",
+    "path": "non_leetcode/other/triplet_sum/solution.py",
     "canonical_url": "Unresolved",
-    "code_status": "LIKELY_CORRECT"
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "non_leetcode/other/triplet_sum/README.md"
   }
 ]
