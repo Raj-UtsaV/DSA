@@ -1,0 +1,79 @@
+{
+  "spec_version": "1.0",
+  "purpose": "Instructions for organizing DSA problems in the GitHub repository.",
+  "root_structure": {
+    "leetcode": [
+      "easy",
+      "medium",
+      "hard"
+    ],
+    "non_leetcode": true,
+    "link_registry": "NOTION_LINKS.md"
+  },
+  "problem_folder": {
+    "name_pattern": "<4-digit-problem-number>_<problem_name_in_snake_case>",
+    "examples": [
+      "0001_two_sum",
+      "0020_valid_parentheses",
+      "0543_diameter_of_binary_tree",
+      "1539_kth_missing_positive_number"
+    ],
+    "required_files": [
+      "README.md",
+      "solution.py"
+    ]
+  },
+  "solution_py": {
+    "purpose": "Store the canonical repository solution.",
+    "metadata_fields": [
+      "Problem Number",
+      "Problem Title",
+      "Platform",
+      "Difficulty",
+      "Official Platform Topics",
+      "Study Tags",
+      "Canonical URL"
+    ],
+    "rules": [
+      "Never discard an existing provided solution.",
+      "If multiple provided solutions exist, preserve all meaningful variants.",
+      "If the existing solution is not optimal, keep it and document the optimal solution separately.",
+      "The canonical solution.py should match the canonical/final approach documented in README.md."
+    ]
+  },
+  "readme_md": {
+    "required_sections": [
+      "Title",
+      "Difficulty",
+      "LeetCode",
+      "Topics",
+      "Intuition",
+      "Approaches",
+      "Complexity",
+      "Solution",
+      "Interview Notes",
+      "Notion Notes"
+    ],
+    "approach_rules": [
+      "Include Brute, Better, and Optimal when meaningful.",
+      "If a provided solution exists, include that approach explicitly.",
+      "If other useful standard solutions exist, include them too.",
+      "Do not force artificial approaches.",
+      "Include complexity for each meaningful approach."
+    ],
+    "notion_notes": {
+      "required": true,
+      "format": "Notion page: <direct-notion-url>"
+    },
+    "detail_level": "Keep GitHub README concise and revision-friendly. Detailed dry runs belong primarily in Notion."
+  },
+  "workflow": [
+    "Read the existing repository problem files.",
+    "Preserve provided solution(s).",
+    "Identify additional meaningful approaches.",
+    "Update/create solution.py and README.md consistently.",
+    "Create/update the corresponding Notion page.",
+    "Add direct Notion URL to README.md.",
+    "Update the link registry."
+  ]
+}

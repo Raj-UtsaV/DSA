@@ -1,0 +1,153 @@
+{
+  "spec_version": "1.0",
+  "purpose": "Instructions for creating and maintaining DSA problem pages in the Notion DSA Problems database.",
+  "source_of_truth": "This file is the authoritative structure for Notion DSA pages. Existing good pages may be used as visual references, but this spec overrides older mistakes.",
+  "database": {
+    "name": "DSA Problems",
+    "properties": [
+      "Problem",
+      "Number",
+      "Platform",
+      "Difficulty",
+      "Problem URL",
+      "GitHub URL",
+      "Study Patterns"
+    ],
+    "rules": [
+      "Do not repeat Problem URL or GitHub URL inside the page body because they already exist as database properties.",
+      "Create the full solution note directly inside the database row/page.",
+      "Use only valid existing Study Patterns unless the database schema is intentionally updated."
+    ]
+  },
+  "pre_creation_checks": [
+    "Check whether the problem already exists in the DSA Problems database.",
+    "Open 1-2 correctly formatted existing DSA pages as references.",
+    "Read all provided GitHub solution files for the problem.",
+    "Identify whether other meaningful standard approaches exist.",
+    "Do not blindly copy old formatting errors from reference pages."
+  ],
+  "solution_selection_rules": {
+    "provided_solution": "Always preserve and include any solution already provided in the GitHub repo.",
+    "multiple_provided_solutions": "Include all meaningful provided solutions.",
+    "other_solutions": "Include other standard, better, or optimal approaches when they add educational or interview value.",
+    "labeling": "Do not assume the provided solution is optimal. Label each approach by what it actually is.",
+    "progression": [
+      "Brute Force",
+      "Better",
+      "Optimal"
+    ],
+    "progression_rule": "Use Brute -> Better -> Optimal when meaningful, but do not invent artificial approaches just to force three sections.",
+    "per_solution_required_sections": [
+      "Approach",
+      "Code",
+      "Code Explanation",
+      "Dry Run",
+      "Time Complexity",
+      "Space Complexity"
+    ]
+  },
+  "page_structure": [
+    {
+      "heading": "Problem",
+      "level": 2,
+      "content": "Short faithful explanation of the problem."
+    },
+    {
+      "heading": "Approach 1 — Brute Force",
+      "conditional": true
+    },
+    {
+      "heading": "Approach",
+      "level": 2
+    },
+    {
+      "heading": "Code",
+      "level": 2
+    },
+    {
+      "heading": "Code Explanation",
+      "level": 2
+    },
+    {
+      "heading": "Dry Run",
+      "level": 2
+    },
+    {
+      "heading": "Complexity",
+      "level": 2
+    },
+    {
+      "heading": "Approach 2 — Better",
+      "conditional": true
+    },
+    {
+      "heading": "Approach 3 — Optimal",
+      "conditional": true
+    },
+    {
+      "heading": "Final Comparison",
+      "conditional": "Use when multiple approaches exist."
+    }
+  ],
+  "dry_run": {
+    "rules": [
+      "Use a good non-trivial example that exposes the important behavior of the algorithm.",
+      "Prefer examples that demonstrate edge cases, state changes, or the key invariant.",
+      "Use visual tables/boxes for arrays, pointers, hash maps, stacks, queues, and trees when helpful.",
+      "Do not use trivial one-element examples unless the problem specifically requires them."
+    ],
+    "recommended_views": {
+      "array": [
+        "Index",
+        "Array/State",
+        "Action"
+      ],
+      "two_pointers": [
+        "Step",
+        "Left/Slow",
+        "Right/Fast",
+        "Decision"
+      ],
+      "hashing": [
+        "Value",
+        "Needed",
+        "Seen/Map",
+        "Decision"
+      ],
+      "tree": [
+        "Node",
+        "Left",
+        "Right",
+        "Candidate",
+        "Returned"
+      ],
+      "stack_queue": [
+        "Operation",
+        "Structure State",
+        "Top/Front",
+        "Decision"
+      ]
+    },
+    "notion_table_rule": {
+      "required": "Use real Notion table syntax, never escaped table text.",
+      "valid_example": "<table fit-page-width=\"true\" header-row=\"true\">...</table>",
+      "invalid_example": "\\<table ...\\>"
+    }
+  },
+  "style": {
+    "language": "Simple, natural, interview-ready English.",
+    "explanation_depth": "Detailed enough for revision but not unnecessarily verbose.",
+    "code_source_priority": [
+      "Preserve provided GitHub code",
+      "Add other meaningful approaches",
+      "Use canonical/optimal solution as final approach when appropriate"
+    ]
+  },
+  "post_creation_checks": [
+    "Verify tables render as actual Notion tables.",
+    "Verify code blocks render correctly.",
+    "Verify the dry run uses a strong example.",
+    "Verify solution labels are accurate.",
+    "Update the GitHub-Notion link registry."
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "spec_version": "1.0",
+  "purpose": "End-to-end AI workflow for adding or updating DSA problems.",
+  "steps": [
+    {
+      "step": 1,
+      "action": "Check whether the problem already exists in Notion."
+    },
+    {
+      "step": 2,
+      "action": "Open 1-2 good existing Notion problem pages for reference."
+    },
+    {
+      "step": 3,
+      "action": "Read all relevant GitHub files for the problem."
+    },
+    {
+      "step": 4,
+      "action": "Preserve every meaningful provided solution."
+    },
+    {
+      "step": 5,
+      "action": "Identify additional brute/better/optimal approaches when useful."
+    },
+    {
+      "step": 6,
+      "action": "Create or update the GitHub README and canonical solution consistently."
+    },
+    {
+      "step": 7,
+      "action": "Create or update the Notion page using notion.json."
+    },
+    {
+      "step": 8,
+      "action": "Use a strong dry-run example and real Notion tables."
+    },
+    {
+      "step": 9,
+      "action": "Verify rendering and solution labels."
+    },
+    {
+      "step": 10,
+      "action": "Update GitHub <-> Notion link registry."
+    }
+  ],
+  "priority_rules": [
+    "Current JSON specs override older markdown examples if there is a conflict.",
+    "Do not copy known formatting mistakes from old pages.",
+    "Do not remove user-provided solutions.",
+    "Do not invent unnecessary approaches."
+  ]
+}

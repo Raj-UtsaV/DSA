@@ -1,0 +1,21 @@
+{
+  "spec_version": "1.0",
+  "purpose": "Central mapping between GitHub problem folders and Notion study pages.",
+  "recommended_filename": "NOTION_LINKS.md",
+  "preferred_machine_readable_filename": "notion_links.json",
+  "record_schema": {
+    "number": "integer",
+    "problem": "string",
+    "difficulty": "optional string",
+    "github_url": "string",
+    "notion_url": "string",
+    "status": "optional string"
+  },
+  "rules": [
+    "Add or update a record whenever a Notion page is created or moved.",
+    "GitHub URL should point to the problem folder.",
+    "Notion URL should point directly to the database page.",
+    "Avoid duplicates.",
+    "Keep problem numbers sorted ascending when practical."
+  ]
+}
