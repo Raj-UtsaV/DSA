@@ -46,4 +46,4 @@ The implementation solves majority element by scanning the relevant input while 
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db8158b510f136cb6427fc?pvs=204](https://app.notion.com/p/3d050eec34db8158b510f136cb6427fc?pvs=204)

@@ -44,4 +44,4 @@ The unresolved items in valid parentheses must be handled in a specific last-in 
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db81c49e6ec8fd3e83fec6?pvs=204](https://app.notion.com/p/3d050eec34db81c49e6ec8fd3e83fec6?pvs=204)

@@ -45,4 +45,4 @@ The solution to maximum depth of binary tree is composed of repeated smaller sta
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db81978374dc95710738f0?pvs=204](https://app.notion.com/p/3d050eec34db81978374dc95710738f0?pvs=204)

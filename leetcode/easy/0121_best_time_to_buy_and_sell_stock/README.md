@@ -42,4 +42,4 @@ The implementation solves best time to buy and sell stock by scanning the releva
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db81299f03c833e6b382ba?pvs=204](https://app.notion.com/p/3d050eec34db81299f03c833e6b382ba?pvs=204)

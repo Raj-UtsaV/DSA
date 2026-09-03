@@ -44,4 +44,4 @@ The solution to diameter of binary tree is composed of repeated smaller states. 
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db81da9ae5c652bac57c7c?pvs=204](https://app.notion.com/p/3d050eec34db81da9ae5c652bac57c7c?pvs=204)

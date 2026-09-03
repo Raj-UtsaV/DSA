@@ -43,4 +43,4 @@ The relevant positions for move zeroes can be advanced monotonically. Two pointe
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db81e5a3f5e23f4181da24?pvs=204](https://app.notion.com/p/3d050eec34db81e5a3f5e23f4181da24?pvs=204)

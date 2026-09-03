@@ -42,4 +42,4 @@ The relevant positions for remove duplicates from sorted array can be advanced m
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db81cf9ecddde2292136c6?pvs=204](https://app.notion.com/p/3d050eec34db81cf9ecddde2292136c6?pvs=204)

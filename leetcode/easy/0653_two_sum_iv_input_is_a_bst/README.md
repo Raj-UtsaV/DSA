@@ -47,4 +47,4 @@ The information needed for two sum iv - input is a bst can be summarized by valu
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db815bad9ef1819897d18a?pvs=204](https://app.notion.com/p/3d050eec34db815bad9ef1819897d18a?pvs=204)

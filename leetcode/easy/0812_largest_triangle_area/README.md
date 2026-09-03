@@ -44,4 +44,4 @@ The implementation solves largest triangle area by scanning the relevant input w
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db819a836ae463419d3c5b?pvs=204](https://app.notion.com/p/3d050eec34db819a836ae463419d3c5b?pvs=204)

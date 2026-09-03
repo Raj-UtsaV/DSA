@@ -42,4 +42,4 @@ The linked structure in middle of the linked list can be handled by coordinating
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db814fb9dee0422072f2e1?pvs=204](https://app.notion.com/p/3d050eec34db814fb9dee0422072f2e1?pvs=204)

@@ -45,4 +45,4 @@ The information needed for intersection of two arrays ii can be summarized by va
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db81548203df80611447dd?pvs=204](https://app.notion.com/p/3d050eec34db81548203df80611447dd?pvs=204)

@@ -45,4 +45,4 @@ The linked structure in same tree can be handled by coordinating a small number 
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db8126a85bc4269838d3a5?pvs=204](https://app.notion.com/p/3d050eec34db8126a85bc4269838d3a5?pvs=204)

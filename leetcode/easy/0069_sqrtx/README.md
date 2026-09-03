@@ -43,4 +43,4 @@ The candidate values for sqrt(x) have an ordered or monotonic structure. Binary 
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db81528a1bc8541aa01ce1?pvs=204](https://app.notion.com/p/3d050eec34db81528a1bc8541aa01ce1?pvs=204)

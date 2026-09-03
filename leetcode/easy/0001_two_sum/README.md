@@ -42,4 +42,4 @@ For each number, the required partner is `target - number`. A hash map of previo
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db8159ace5dc8288b859f4?pvs=204](https://app.notion.com/p/3d050eec34db8159ace5dc8288b859f4?pvs=204)

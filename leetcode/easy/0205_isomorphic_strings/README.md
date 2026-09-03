@@ -42,4 +42,4 @@ The information needed for isomorphic strings can be summarized by values alread
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db818693cee04273fadbc5?pvs=204](https://app.notion.com/p/3d050eec34db818693cee04273fadbc5?pvs=204)

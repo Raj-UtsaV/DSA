@@ -42,4 +42,4 @@ The implementation solves kth missing positive number by scanning the relevant i
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db81d5ac24c8f91146a369?pvs=204](https://app.notion.com/p/3d050eec34db81d5ac24c8f91146a369?pvs=204)

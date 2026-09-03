@@ -43,4 +43,4 @@ The linked structure in intersection of two linked lists can be handled by coord
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db8118b639e016502099d4?pvs=204](https://app.notion.com/p/3d050eec34db8118b639e016502099d4?pvs=204)

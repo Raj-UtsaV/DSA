@@ -43,4 +43,4 @@ Rotating the queue after every insertion places the newest value at the front. T
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db8161bd6fff449743c1fd?pvs=204](https://app.notion.com/p/3d050eec34db8161bd6fff449743c1fd?pvs=204)

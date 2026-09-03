@@ -42,4 +42,4 @@ The implementation solves single number by scanning the relevant input while mai
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db81029d25dedd67511138?pvs=204](https://app.notion.com/p/3d050eec34db81029d25dedd67511138?pvs=204)

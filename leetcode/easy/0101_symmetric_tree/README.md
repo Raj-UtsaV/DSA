@@ -45,4 +45,4 @@ The result for symmetric tree follows from information collected while traversin
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db811cbf09d3d7d51be7d3?pvs=204](https://app.notion.com/p/3d050eec34db811cbf09d3d7d51be7d3?pvs=204)

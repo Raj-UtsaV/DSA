@@ -45,4 +45,4 @@ The linked structure in palindrome linked list can be handled by coordinating a 
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db812db0f1daf30a3afdf2?pvs=204](https://app.notion.com/p/3d050eec34db812db0f1daf30a3afdf2?pvs=204)

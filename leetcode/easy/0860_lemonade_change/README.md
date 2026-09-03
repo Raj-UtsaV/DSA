@@ -42,4 +42,4 @@ The implementation solves lemonade change by scanning the relevant input while m
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db81119537d883337daf18?pvs=204](https://app.notion.com/p/3d050eec34db81119537d883337daf18?pvs=204)

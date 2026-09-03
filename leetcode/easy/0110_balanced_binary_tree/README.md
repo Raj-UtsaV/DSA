@@ -44,4 +44,4 @@ The solution to balanced binary tree is composed of repeated smaller states. Sto
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db81f1b2e9dd70de8d8eb9?pvs=204](https://app.notion.com/p/3d050eec34db81f1b2e9dd70de8d8eb9?pvs=204)

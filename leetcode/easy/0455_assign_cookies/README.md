@@ -45,4 +45,4 @@ A locally optimal choice for assign cookies leaves the greatest flexibility for 
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db811283acfd6edaf345ad?pvs=204](https://app.notion.com/p/3d050eec34db811283acfd6edaf345ad?pvs=204)
