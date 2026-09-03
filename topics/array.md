@@ -1,6 +1,6 @@
 # Official topic: Array
 
-75 canonical problem(s).
+76 canonical problem(s).
 
 - [0001 · Two Sum](../leetcode/easy/0001_two_sum/README.md) — LeetCode, Easy
 - [0026 · Remove Duplicates from Sorted Array](../leetcode/easy/0026_remove_duplicates_from_sorted_array/README.md) — LeetCode, Easy
@@ -77,3 +77,4 @@
 - [1488 · Avoid Flood in The City](../leetcode/medium/1488_avoid_flood_in_the_city/README.md) — LeetCode, Medium
 - [1539 · Kth Missing Positive Number](../leetcode/easy/1539_kth_missing_positive_number/README.md) — LeetCode, Easy
 - [2300 · Successful Pairs of Spells and Potions](../leetcode/medium/2300_successful_pairs_of_spells_and_potions/README.md) — LeetCode, Medium
+- [3876 · Construct Uniform Parity Array II](../leetcode/medium/3876_construct_uniform_parity_array_ii/README.md) — LeetCode, Medium

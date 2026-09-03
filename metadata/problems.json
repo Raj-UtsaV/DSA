@@ -2495,6 +2495,24 @@
     "readme_path": "leetcode/medium/2300_successful_pairs_of_spells_and_potions/README.md"
   },
   {
+    "number": "3876",
+    "title": "Construct Uniform Parity Array II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "official_topics": [
+      "Array",
+      "Math"
+    ],
+    "study_tags": [
+      "Greedy",
+      "Parity"
+    ],
+    "path": "leetcode/medium/3876_construct_uniform_parity_array_ii/solution.py",
+    "canonical_url": "https://leetcode.com/problems/construct-uniform-parity-array-ii/",
+    "code_status": "LIKELY_CORRECT",
+    "readme_path": "leetcode/medium/3876_construct_uniform_parity_array_ii/README.md"
+  },
+  {
     "number": "Not applicable",
     "title": "Longest Subarray with Sum K",
     "platform": "Code360",

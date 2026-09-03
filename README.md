@@ -4,8 +4,8 @@ Canonical Python solutions organized once by platform/difficulty and browsable t
 
 ## Summary
 
-- Unique problems: **185**
-- LeetCode: **134** (Easy 25, Medium 89, Hard 20)
+- Unique problems: **186**
+- LeetCode: **135** (Easy 25, Medium 90, Hard 20)
 - Non-LeetCode: **51**
 - Reusable references: **24**
 
@@ -18,7 +18,7 @@ Canonical Python solutions organized once by platform/difficulty and browsable t
 ## Browse by official topic
 
 - [Algorithm X](topics/algorithm_x.md) (2)
-- [Array](topics/array.md) (75)
+- [Array](topics/array.md) (76)
 - [Backtracking](topics/backtracking.md) (11)
 - [Binary Indexed Tree](topics/binary_indexed_tree.md) (1)
 - [Binary Lifting](topics/binary_lifting.md) (2)
@@ -52,7 +52,7 @@ Canonical Python solutions organized once by platform/difficulty and browsable t
 - [Linked List](topics/linked_list.md) (13)
 - [Longest Increasing Subsequence](topics/longest_increasing_subsequence.md) (2)
 - [Lowest Common Ancestor](topics/lowest_common_ancestor.md) (2)
-- [Math](topics/math.md) (8)
+- [Math](topics/math.md) (9)
 - [Matrix](topics/matrix.md) (8)
 - [Memoization](topics/memoization.md) (1)
 - [Merge Sort](topics/merge_sort.md) (1)
@@ -87,7 +87,7 @@ Canonical Python solutions organized once by platform/difficulty and browsable t
 - [Dynamic Programming](patterns/dynamic_programming.md) (8)
 - [Fast/Slow Pointers](patterns/fast_slow_pointers.md) (7)
 - [Graph Traversal and Connectivity](patterns/graph_traversal.md) (6)
-- [Greedy](patterns/greedy.md) (9)
+- [Greedy](patterns/greedy.md) (10)
 - [Hashing and Frequency Counting](patterns/hashing_and_frequency.md) (11)
 - [Interval Problems](patterns/interval_problems.md) (5)
 - [Kadane's Algorithm](patterns/kadanes_algorithm.md) (2)
@@ -153,7 +153,7 @@ Canonical Python solutions organized once by platform/difficulty and browsable t
 ## Array
 |  |
 | ------- |
-| [4258-construct-uniform-parity-array-ii](https://github.com/Raj-UtsaV/DSA/tree/master/4258-construct-uniform-parity-array-ii) |
+| [3876-construct-uniform-parity-array-ii](leetcode/medium/3876_construct_uniform_parity_array_ii/) |
 ## Math
 |  |
 | ------- |
