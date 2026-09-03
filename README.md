@@ -26,7 +26,7 @@ Canonical Python solutions organized once by platform/difficulty and browsable t
 - [Binary Search Tree](topics/binary_search_tree.md) (7)
 - [Binary Tree](topics/binary_tree.md) (22)
 - [Bit Manipulation](topics/bit_manipulation.md) (3)
-- [Boyer–Moore Majority Vote Algorithm](topics/boyer_moore_majority_vote_algorithm.md) (1)
+- [BoyerâMoore Majority Vote Algorithm](topics/boyer_moore_majority_vote_algorithm.md) (1)
 - [Bracket Sequences](topics/bracket_sequences.md) (3)
 - [Breadth-First Search](topics/breadth_first_search.md) (15)
 - [Brute-Force Search](topics/brute_force_search.md) (1)
@@ -147,3 +147,15 @@ Canonical Python solutions organized once by platform/difficulty and browsable t
 
 - [Problem metadata](metadata/problems.json)
 - [LeetCode 1039 triangulation notes](metadata/notes/1039_minimum_score_triangulation_of_polygon.md)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [4258-construct-uniform-parity-array-ii](https://github.com/Raj-UtsaV/DSA/tree/master/4258-construct-uniform-parity-array-ii) |
+## Math
+|  |
+| ------- |
+| [4258-construct-uniform-parity-array-ii](https://github.com/Raj-UtsaV/DSA/tree/master/4258-construct-uniform-parity-array-ii) |
+<!---LeetCode Topics End-->
