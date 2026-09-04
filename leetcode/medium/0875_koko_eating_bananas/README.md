@@ -44,4 +44,4 @@ If Koko can finish at a particular speed, every faster speed is also feasible. T
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db81acbde5cc7356d80418?pvs=204

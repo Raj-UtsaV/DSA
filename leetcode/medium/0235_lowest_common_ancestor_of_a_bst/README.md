@@ -47,4 +47,4 @@ The result for lowest common ancestor of a binary search tree follows from infor
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db8118b0b8d47f79951a22?pvs=204

@@ -45,4 +45,4 @@ The implementation solves construct binary tree from inorder and postorder trave
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d050eec34db816892a1ebd73d466ceb?pvs=204

@@ -43,4 +43,4 @@ The result for binary tree zigzag level order traversal follows from information
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d050eec34db8143a069e97e158e9e5f?pvs=204

@@ -42,4 +42,4 @@ The candidate values for find peak element have an ordered or monotonic structur
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db8118b72ccf20ae727bfa?pvs=204

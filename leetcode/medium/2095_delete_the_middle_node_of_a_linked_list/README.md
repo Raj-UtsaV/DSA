@@ -42,4 +42,4 @@ The linked structure in delete the middle node of a linked list can be handled b
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db816c8742f35bf1345413?pvs=204

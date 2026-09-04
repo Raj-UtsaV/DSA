@@ -42,4 +42,4 @@ Each stack entry stores both its value and the minimum at that depth. The curren
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db8141955ad9d134d09e5f?pvs=204

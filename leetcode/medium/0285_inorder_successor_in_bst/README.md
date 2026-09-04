@@ -44,4 +44,4 @@ A locally optimal choice for inorder successor in bst leaves the greatest flexib
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db81bfb561cf51275d8922?pvs=204

@@ -45,4 +45,4 @@ Cities form an undirected graph, and each province is one connected component. U
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db81aa844ed062bee03bd0?pvs=204

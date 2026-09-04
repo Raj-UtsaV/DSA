@@ -43,4 +43,4 @@ The implementation solves multiply strings by scanning the relevant input while 
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db81a2b657f53e947e9e9b?pvs=204](https://app.notion.com/p/3d050eec34db81a2b657f53e947e9e9b?pvs=204)

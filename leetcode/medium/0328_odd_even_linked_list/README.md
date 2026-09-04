@@ -42,4 +42,4 @@ The linked structure in odd even linked list can be handled by coordinating a sm
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db81c4a2b0fd6fcce92e62?pvs=204

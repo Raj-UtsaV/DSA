@@ -42,4 +42,4 @@ The candidate values for find the smallest divisor given a threshold have an ord
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db81379848dd3974444762?pvs=204

@@ -43,4 +43,4 @@ For next greater element ii, elements made irrelevant by a newer value never nee
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db810badefd055ddd1aa22?pvs=204

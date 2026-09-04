@@ -43,4 +43,4 @@ Valid candidates for fruit into baskets occupy contiguous ranges. A moving windo
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db8103befcdd60bd5fb1b4?pvs=204

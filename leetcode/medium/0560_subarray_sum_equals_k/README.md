@@ -43,4 +43,4 @@ The implementation solves subarray sum equals k by scanning the relevant input w
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db811c8ba1fb920e2094cb?pvs=204

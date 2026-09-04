@@ -43,4 +43,4 @@ Valid candidates for maximum points you can obtain from cards occupy contiguous 
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db815ab996db22618f1dc3?pvs=204

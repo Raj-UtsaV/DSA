@@ -47,4 +47,4 @@ The solution to word break is composed of repeated smaller states. Storing each 
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d050eec34db812592c8d893f3cda4c7?pvs=204

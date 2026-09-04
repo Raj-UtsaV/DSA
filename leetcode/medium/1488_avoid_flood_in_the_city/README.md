@@ -45,4 +45,4 @@ A locally optimal choice for avoid flood in the city leaves the greatest flexibi
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db81ba8eb9c961b894729c?pvs=204

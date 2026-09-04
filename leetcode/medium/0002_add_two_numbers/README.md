@@ -43,4 +43,4 @@ The implementation solves add two numbers by scanning the relevant input while m
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db81e28026c4b9ae4ac0b8?pvs=204](https://app.notion.com/p/3d050eec34db81e28026c4b9ae4ac0b8?pvs=204)

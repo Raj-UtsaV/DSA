@@ -46,4 +46,4 @@ The linked structure in sort list can be handled by coordinating a small number 
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db81cf97d3e70cb00fdedd?pvs=204

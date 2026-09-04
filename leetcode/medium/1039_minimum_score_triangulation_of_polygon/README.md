@@ -44,4 +44,4 @@ The solution to minimum score triangulation of polygon is composed of repeated s
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db81d88db2d2fb0f69e753?pvs=204

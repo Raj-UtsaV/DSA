@@ -43,4 +43,4 @@ A locally optimal choice for merge intervals leaves the greatest flexibility for
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db81df9b43dc63aea3ce81?pvs=204](https://app.notion.com/p/3d050eec34db81df9b43dc63aea3ce81?pvs=204)

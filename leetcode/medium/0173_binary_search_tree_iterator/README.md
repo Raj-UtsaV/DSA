@@ -46,4 +46,4 @@ An inorder traversal yields BST values in sorted order, but it need not be mater
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db8126bef7c677f65d31e9?pvs=204

@@ -46,4 +46,4 @@ The valid answers for word search form a decision tree. The implementation build
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d050eec34db81a2a804f1b72e584bf2?pvs=204

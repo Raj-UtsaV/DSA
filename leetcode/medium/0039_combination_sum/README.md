@@ -42,4 +42,4 @@ The valid answers for combination sum form a decision tree. The implementation b
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db81df95c5f98ff8c238e3?pvs=204](https://app.notion.com/p/3d050eec34db81df95c5f98ff8c238e3?pvs=204)

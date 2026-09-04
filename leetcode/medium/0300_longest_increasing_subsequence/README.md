@@ -45,4 +45,4 @@ The solution to longest increasing subsequence is composed of repeated smaller s
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db817598f6e2d7900d0dbe?pvs=204

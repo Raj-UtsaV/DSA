@@ -44,4 +44,4 @@ The candidate values for successful pairs of spells and potions have an ordered 
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db81e6863af2d36ed3b7cc?pvs=204

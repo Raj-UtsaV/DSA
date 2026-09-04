@@ -44,4 +44,4 @@ For sum of subarray minimums, elements made irrelevant by a newer value never ne
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db814ba2eff6c131ca2a57?pvs=204

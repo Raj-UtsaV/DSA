@@ -43,4 +43,4 @@ The implementation solves valid sudoku by scanning the relevant input while main
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db812baeeff8825172e8ef?pvs=204](https://app.notion.com/p/3d050eec34db812baeeff8825172e8ef?pvs=204)

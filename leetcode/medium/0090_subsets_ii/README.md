@@ -43,4 +43,4 @@ The valid answers for subsets ii form a decision tree. The implementation builds
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d050eec34db81eb9012cb224cfe114c?pvs=204

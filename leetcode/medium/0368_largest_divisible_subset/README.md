@@ -45,4 +45,4 @@ The solution to largest divisible subset is composed of repeated smaller states.
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db81b69c4fdff6adba9eaf?pvs=204

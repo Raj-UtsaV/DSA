@@ -42,4 +42,4 @@ The implementation solves simplify path by scanning the relevant input while mai
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d050eec34db8152a6d0d55bcde14c9a?pvs=204

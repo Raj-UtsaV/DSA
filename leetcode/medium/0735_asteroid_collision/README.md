@@ -43,4 +43,4 @@ The unresolved items in asteroid collision must be handled in a specific last-in
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db8192b8bafb45222c50bf?pvs=204

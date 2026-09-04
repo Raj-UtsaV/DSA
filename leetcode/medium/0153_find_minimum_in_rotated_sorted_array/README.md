@@ -42,4 +42,4 @@ The candidate values for find minimum in rotated sorted array have an ordered or
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db8145bbb3e1c2657ecc89?pvs=204

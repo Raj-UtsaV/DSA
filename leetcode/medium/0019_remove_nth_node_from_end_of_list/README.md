@@ -42,4 +42,4 @@ The linked structure in remove nth node from end of list can be handled by coord
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db81289baef676164e87f9?pvs=204](https://app.notion.com/p/3d050eec34db81289baef676164e87f9?pvs=204)

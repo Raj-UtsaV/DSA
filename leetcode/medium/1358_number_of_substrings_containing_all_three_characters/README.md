@@ -43,4 +43,4 @@ Valid candidates for number of substrings containing all three characters occupy
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db81169a1fda1d8c9a8e17?pvs=204

@@ -43,4 +43,4 @@ Valid candidates for longest repeating character replacement occupy contiguous r
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db8104bf95db1d7c306e37?pvs=204

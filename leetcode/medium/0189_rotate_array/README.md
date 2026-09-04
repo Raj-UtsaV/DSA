@@ -43,4 +43,4 @@ The implementation solves rotate array by scanning the relevant input while main
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db81a6a3cbf06bc4d04337?pvs=204

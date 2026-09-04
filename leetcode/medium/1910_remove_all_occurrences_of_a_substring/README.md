@@ -43,4 +43,4 @@ The unresolved items in remove all occurrences of a substring must be handled in
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db81d38784c881d4912e47?pvs=204

@@ -44,4 +44,4 @@ The result for binary tree right side view follows from information collected wh
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db8121807ef7026b4a7d24?pvs=204

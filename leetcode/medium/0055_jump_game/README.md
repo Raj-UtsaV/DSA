@@ -43,4 +43,4 @@ A locally optimal choice for jump game leaves the greatest flexibility for the r
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db81b48e31e2bf0f9e36e6?pvs=204](https://app.notion.com/p/3d050eec34db81b48e31e2bf0f9e36e6?pvs=204)

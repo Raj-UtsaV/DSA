@@ -44,4 +44,4 @@ The implementation solves longest mountain in array by scanning the relevant inp
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db816b9251cff0cbcb89ca?pvs=204

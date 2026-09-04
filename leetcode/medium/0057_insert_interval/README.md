@@ -41,4 +41,4 @@ A locally optimal choice for insert interval leaves the greatest flexibility for
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db81cabc15fbe711a75f84?pvs=204](https://app.notion.com/p/3d050eec34db81cabc15fbe711a75f84?pvs=204)

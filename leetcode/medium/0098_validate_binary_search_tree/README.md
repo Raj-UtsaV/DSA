@@ -44,4 +44,4 @@ The implementation solves validate binary search tree by scanning the relevant i
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d050eec34db8172bb4fe03d2923763c?pvs=204

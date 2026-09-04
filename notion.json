@@ -23,20 +23,25 @@
     "Check whether the problem already exists in the DSA Problems database.",
     "Open 1-2 correctly formatted existing DSA pages as references.",
     "Read all provided GitHub solution files for the problem.",
-    "Identify whether other meaningful standard approaches exist.",
+    "Research authoritative external sources for established alternative solutions even when those solutions are not present in the GitHub repository.",
+    "Identify whether genuine Brute Force, Better, and Optimal approaches exist in the wider problem-solving literature; do not treat the repository as the complete approach inventory.",
     "Do not blindly copy old formatting errors from reference pages."
   ],
   "solution_selection_rules": {
     "provided_solution": "Always preserve and include any solution already provided in the GitHub repo.",
     "multiple_provided_solutions": "Include all meaningful provided solutions.",
-    "other_solutions": "Include other standard, better, or optimal approaches when they add educational or interview value.",
+    "other_solutions": "Use external research to include other established brute-force, better, or optimal approaches when they add educational or interview value, even if the user has not implemented them in the repository.",
     "labeling": "Do not assume the provided solution is optimal. Label each approach by what it actually is.",
     "progression": [
       "Brute Force",
       "Better",
       "Optimal"
     ],
-    "progression_rule": "Use Brute -> Better -> Optimal when meaningful, but do not invent artificial approaches just to force three sections.",
+    "progression_rule": "When multiple complexity levels exist, their physical order on the page must be Brute Force -> Better -> Optimal. No other ordering is acceptable. Omit a level only when no genuine approach exists; never place an earlier level after a later one.",
+    "progression_explanation": "When multiple approaches exist, add a How to Improve the Approach section that explains the observation, bottleneck, and data-structure or algorithm change that transforms Brute Force into Better and Better into Optimal.",
+    "approach_format": "Write every Approach section as a clear numbered list of steps rather than a prose paragraph.",
+    "data_structure_explanation": "For every approach, explicitly name the data structure or structures used, explain what each one stores, and state why each structure fits the algorithm.",
+    "equal_treatment_for_alternatives": "Every added alternative solution must be explained with the same depth as the repository solution. Never use abbreviated, lazy, or summary-only Approach, Code Explanation, Dry Run, or Complexity sections.",
     "per_solution_required_sections": [
       "Approach",
       "Code",
@@ -93,6 +98,7 @@
     "rules": [
       "Use a good non-trivial example that exposes the important behavior of the algorithm.",
       "Prefer examples that demonstrate edge cases, state changes, or the key invariant.",
+      "Explicitly show how every important data structure changes or is used during the dry run.",
       "Use visual tables/boxes for arrays, pointers, hash maps, stacks, queues, and trees when helpful.",
       "Do not use trivial one-element examples unless the problem specifically requires them."
     ],
@@ -136,7 +142,7 @@
   },
   "style": {
     "language": "Simple, natural, interview-ready English.",
-    "explanation_depth": "Detailed enough for revision but not unnecessarily verbose.",
+    "explanation_depth": "Elaborate the intuition, approach, code explanation, and dry run in simple language so a learner can follow why each step works, while avoiding unnecessary repetition.",
     "code_source_priority": [
       "Preserve provided GitHub code",
       "Add other meaningful approaches",

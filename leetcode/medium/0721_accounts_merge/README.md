@@ -47,4 +47,4 @@ The input for accounts merge represents connectivity between graph elements. Gro
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db81359ed4fa038bd8b38a?pvs=204

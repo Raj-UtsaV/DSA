@@ -43,4 +43,4 @@ A locally optimal choice for jump game ii leaves the greatest flexibility for th
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db81099407f6a73803aa6c?pvs=204](https://app.notion.com/p/3d050eec34db81099407f6a73803aa6c?pvs=204)

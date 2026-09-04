@@ -44,4 +44,4 @@ Valid candidates for max consecutive ones iii occupy contiguous ranges. A moving
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db81b3bb99efa945af63a4?pvs=204

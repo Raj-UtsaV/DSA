@@ -44,4 +44,4 @@ The valid answers for palindrome partitioning form a decision tree. The implemen
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d050eec34db81feb5c4dd7bd814b27a?pvs=204

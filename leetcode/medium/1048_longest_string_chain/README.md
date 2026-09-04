@@ -48,4 +48,4 @@ The solution to longest string chain is composed of repeated smaller states. Sto
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db816597f4e491e34098cb?pvs=204

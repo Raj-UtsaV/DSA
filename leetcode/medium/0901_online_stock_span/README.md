@@ -44,4 +44,4 @@ For online stock span, elements made irrelevant by a newer value never need to b
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db81f28800f0db9fb56138?pvs=204

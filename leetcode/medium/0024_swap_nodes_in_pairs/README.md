@@ -42,4 +42,4 @@ The linked structure in swap nodes in pairs can be handled by coordinating a sma
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db81db8d96f5c723204101?pvs=204](https://app.notion.com/p/3d050eec34db81db8d96f5c723204101?pvs=204)

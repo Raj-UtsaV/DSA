@@ -45,4 +45,4 @@ A locally optimal choice for non-overlapping intervals leaves the greatest flexi
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db81d49157f493fea24e6c?pvs=204

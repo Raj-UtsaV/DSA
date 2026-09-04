@@ -44,4 +44,4 @@ The implementation solves binary subarrays with sum by scanning the relevant inp
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db81409cabe06a8c9b44de?pvs=204

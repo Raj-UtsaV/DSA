@@ -42,4 +42,4 @@ The implementation solves combination sum iii by scanning the relevant input whi
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db81e3969dfb81328adda9?pvs=204

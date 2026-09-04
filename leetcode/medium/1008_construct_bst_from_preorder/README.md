@@ -46,4 +46,4 @@ The valid answers for construct binary search tree from preorder traversal form 
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db8175812dfde454917d4b?pvs=204

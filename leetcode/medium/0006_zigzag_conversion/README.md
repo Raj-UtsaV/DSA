@@ -41,4 +41,4 @@ The implementation solves zigzag conversion by scanning the relevant input while
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db814a8394dd779865f747?pvs=204](https://app.notion.com/p/3d050eec34db814a8394dd779865f747?pvs=204)

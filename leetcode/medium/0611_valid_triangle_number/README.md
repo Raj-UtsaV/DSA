@@ -45,4 +45,4 @@ The relevant positions for valid triangle number can be advanced monotonically. 
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db812e8e6fcecc9deef8d5?pvs=204

@@ -41,4 +41,4 @@ The implementation solves string to integer (atoi) by scanning the relevant inpu
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db81a78885ca31717de898?pvs=204](https://app.notion.com/p/3d050eec34db81a78885ca31717de898?pvs=204)

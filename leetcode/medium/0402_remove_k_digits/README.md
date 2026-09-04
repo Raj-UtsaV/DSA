@@ -44,4 +44,4 @@ For remove k digits, elements made irrelevant by a newer value never need to be 
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db815e9c45fad10c445d1e?pvs=204

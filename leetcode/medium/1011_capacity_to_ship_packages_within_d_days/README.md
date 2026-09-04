@@ -42,4 +42,4 @@ The candidate values for capacity to ship packages within d days have an ordered
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db813fbe9fe2dd0a4b6c8e?pvs=204

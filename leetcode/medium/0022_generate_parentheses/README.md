@@ -44,4 +44,4 @@ The valid answers for generate parentheses form a decision tree. The implementat
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db8149a2acc88e30b191bb?pvs=204](https://app.notion.com/p/3d050eec34db8149a2acc88e30b191bb?pvs=204)

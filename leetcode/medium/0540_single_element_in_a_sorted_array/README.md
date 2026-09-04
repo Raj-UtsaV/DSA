@@ -42,4 +42,4 @@ The candidate values for single element in a sorted array have an ordered or mon
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db81ec9cc6f2890d244ff9?pvs=204

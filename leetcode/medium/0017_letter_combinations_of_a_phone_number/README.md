@@ -43,4 +43,4 @@ The valid answers for letter combinations of a phone number form a decision tree
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db812e9186ff6baf7a3d60?pvs=204](https://app.notion.com/p/3d050eec34db812e9186ff6baf7a3d60?pvs=204)

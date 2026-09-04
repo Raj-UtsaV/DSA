@@ -42,4 +42,4 @@ The candidate values for search in rotated sorted array have an ordered or monot
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db817492ddd232ca341c6a?pvs=204](https://app.notion.com/p/3d050eec34db817492ddd232ca341c6a?pvs=204)

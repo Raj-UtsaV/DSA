@@ -45,4 +45,4 @@ The implementation solves count number of nice subarrays by scanning the relevan
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db81969aa8c34105e27bdb?pvs=204

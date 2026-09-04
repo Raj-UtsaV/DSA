@@ -42,4 +42,4 @@ The implementation solves maximum product subarray by scanning the relevant inpu
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d050eec34db81bb861ff0682be40fb2?pvs=204

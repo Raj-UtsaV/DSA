@@ -45,4 +45,4 @@ The implementation solves sort colors by scanning the relevant input while maint
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d050eec34db81d7bf27cb323d8dc12b?pvs=204

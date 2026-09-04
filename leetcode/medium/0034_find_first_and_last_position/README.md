@@ -42,4 +42,4 @@ The candidate values for find first and last position of element in sorted array
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: [https://app.notion.com/p/3d050eec34db819582fde49ae72f12bf?pvs=204](https://app.notion.com/p/3d050eec34db819582fde49ae72f12bf?pvs=204)

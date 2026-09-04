@@ -46,4 +46,4 @@ The solution to number of longest increasing subsequence is composed of repeated
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db814d83e3c18a59388b84?pvs=204

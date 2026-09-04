@@ -44,4 +44,4 @@ The result for maximum width of binary tree follows from information collected w
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db815db36dd829ec32ffbf?pvs=204

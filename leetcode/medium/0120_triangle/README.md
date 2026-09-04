@@ -42,4 +42,4 @@ The solution to triangle is composed of repeated smaller states. Storing each st
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d050eec34db81ca9eb4f94107fdf88d?pvs=204

@@ -45,4 +45,4 @@ The result for flatten binary tree to linked list follows from information colle
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d050eec34db817aac56ec6eecc6ee73?pvs=204

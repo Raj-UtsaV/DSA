@@ -43,4 +43,4 @@ Valid candidates for longest substring with at most k distinct characters occupy
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db81b39081c00cf1ad9a48?pvs=204

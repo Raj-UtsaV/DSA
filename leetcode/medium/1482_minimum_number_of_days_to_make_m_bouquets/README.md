@@ -42,4 +42,4 @@ The candidate values for minimum number of days to make m bouquets have an order
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db810d904ccb5af83ca3b8?pvs=204

@@ -44,4 +44,4 @@ The cache must identify keys and update recency in constant average time. An ord
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db813d8b2dfcc768867a66?pvs=204

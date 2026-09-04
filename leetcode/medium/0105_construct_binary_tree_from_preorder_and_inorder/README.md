@@ -45,4 +45,4 @@ The implementation solves construct binary tree from preorder and inorder traver
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d050eec34db81adb26cd1ec8d60e2b3?pvs=204

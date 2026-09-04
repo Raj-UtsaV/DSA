@@ -44,4 +44,4 @@ The result for kth smallest element in a bst follows from information collected 
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db813ca284d6d4ce75bdd7?pvs=204

@@ -42,4 +42,4 @@ The implementation solves count good numbers by scanning the relevant input whil
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db81fc8662cfb36570452b?pvs=204

@@ -45,4 +45,4 @@ The input for number of operations to make network connected represents connecti
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db81de825ece0aaa4082df?pvs=204

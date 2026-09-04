@@ -44,4 +44,4 @@ The input for pacific atlantic water flow represents connectivity between graph 
 
 Detailed explanation, code walkthrough, dry run and diagrams:
 
-Notion page: TODO
+Notion page: https://app.notion.com/p/3d150eec34db8121b30ff1837bd4a8ad?pvs=204
